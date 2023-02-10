@@ -33,7 +33,7 @@ def key_variables_section(df, columns):
     key_variables = [eeid, job_group_column, pay_component]
     
     if '' in key_variables:
-        st.warning('Error: Please ensure all variables above are filled out', icon="⚠️")
+        st.error('Error: Please ensure all variables above are filled out', icon="🚨")
     
     # st.session_state["name"] = name
     # st.session_state["eeid"] = eeid
@@ -100,7 +100,7 @@ def diversities_section(df, columns):# Diversities
     div_vars, div_min, div_ref = generate_divs(gender, eth, gender_min, eth_min, gender_ref, eth_ref)
     
     if gender=='' and eth=='':
-        st.warning('Error: Both gender and ethnicity cannot be blank', icon="⚠️")
+        st.error('Error: Both gender and ethnicity cannot be blank', icon="🚨")
 
     st.markdown("""---""")
     
@@ -155,7 +155,7 @@ def modelling_vars_section(df, name, key_variables, gender, eth, div_vars, div_m
             st.markdown("""---""") 
 
     except:
-        st.warning('Error: Please verify that prior sections were correctly completed', icon="⚠️")
+        st.error('Error: Please verify that prior sections were correctly completed', icon="🚨")
 
     if st.button('Run Analysis'):
         with st.spinner('Generating audit...'):
@@ -168,7 +168,7 @@ def modelling_vars_section(df, name, key_variables, gender, eth, div_vars, div_m
                 st.session_state['jge'] = jge
                 st.success('Audit ran and successfully exported!', icon="✅")
             except:
-                st.warning('Error: Failed to run audit', icon="⚠️")
+                st.error('Error: Failed to run audit', icon="🚨")
                 
         
     return jge
