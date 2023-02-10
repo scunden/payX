@@ -3,9 +3,9 @@ import payequity as pe
 import pandas as pd
 import plotly.express as px
 
-def view_pay_gaps(df, x, y):
-    fig = px.bar(df, x=x, y=y, orientation='h')
-    fig.show()
+# def view_pay_gaps(df, x, y):
+#     fig = px.bar(df, x=x, y=y, orientation='h')
+#     fig.show()
 
 def generate_divs(gender, eth, gender_min, eth_min, gender_ref, eth_ref):
     div_vars, div_min, div_ref = ({},{},{})
@@ -115,6 +115,7 @@ def main ():
             jge.generate_audit()
             jge.audit.export_all(version='test')
         st.success('Audit ran and successfully exported!', icon="✅")
+        # view_pay_gaps(df, x, y)
 
 if __name__=="__main__":
     main()
