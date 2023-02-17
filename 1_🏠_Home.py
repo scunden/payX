@@ -1,5 +1,12 @@
+import sys
+sys.path.append("..")
 import streamlit as st
 import pandas as pd
+from payequity.payequity import Audit, JobGroup, JobGroupEnssemble, Regressor
+
+
+for k, v in st.session_state.items():
+    st.session_state[k] = v
 
 st.set_page_config(
     page_title="Talent Ai PayX",

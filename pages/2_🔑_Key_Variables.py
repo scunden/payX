@@ -1,5 +1,5 @@
 import streamlit as st
-import payequity as pe
+from payequity.payequity import Audit, JobGroup, JobGroupEnssemble, Regressor
 import pandas as pd
 import streamlit_ext as ste
 
@@ -120,7 +120,7 @@ def modelling_vars_section(df, name, key_variables, gender, eth, div_vars, div_m
 
     try:
         if len(predictive_vars)>0:
-            jge = pe.JobGroupEnssemble(
+            jge = JobGroupEnssemble(
             df=df, 
             eeid=eeid, 
             pay_component=pay_component, 
@@ -134,7 +134,7 @@ def modelling_vars_section(df, name, key_variables, gender, eth, div_vars, div_m
             div_ref=div_ref,
             name=name,
             job_group_column=job_group_column,
-            headcount_cutoff=80
+            headcount_cutoff=100
             )
             categorical = [x for x in [jge.column_map_inv[x] for x in jge.categorical] if x in predictive_vars]
             # PSet References
@@ -164,7 +164,7 @@ def modelling_vars_section(df, name, key_variables, gender, eth, div_vars, div_m
                 jge.set_overall_references(specified=specified)
                 jge.run_regressions()
                 jge.generate_audit()
-                jge.audit.export_all(version='test')
+                # jge.audit.export_all(version='test')
                 st.session_state['jge'] = jge
                 st.success('Audit ran and successfully exported!', icon="✅")
             except:

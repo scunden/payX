@@ -2,7 +2,7 @@ import streamlit as st
 import payequity as pe
 import pandas as pd
 import streamlit_ext as ste
-
+import docs
 import plotly.graph_objects as go
 
 
@@ -16,37 +16,56 @@ def main():
     st.header("🔢 Model Evaluation")
     summary = jge.audit.summary.copy()
     num_models = summary.shape[0]
+    rejected = len(jge.rejected_jg)
+    overfit = summary.loc[summary['DoF Ratio']<8]['Job Group'].unique().tolist()
+    good_perf = summary.loc[summary['MAPE']<=0.10]['Job Group'].unique().tolist()
+    poor_perf = summary.loc[summary['MAPE']>0.10]['Job Group'].unique().tolist()
     
-    st.write("Failed to create job groups for {} groups".format(summary.loc[summary['Observations']<95].shape[0]))
-    for jg in summary.loc[summary['Observations']<95]['Job Group']:
-        st.error('Error: Job group not created for "{}" due to insufficient headcount'.format(jg), icon="🚨")
+    if rejected == 0:
+        st.success("All job groups successfully created!")
+    else:
+        st.success("Successfully created job groups for {} groups".format(num_models))
+        st.error("Failed to create job groups for {} groups due to insufficient headcount, namely: {}".format(
+            rejected, jge.rejected_jg), icon="🚨")
+        st.write(docs.MINIMUM_HEADCOUNT)
+        st.markdown("""---""") 
         
-        
-    st.write("{} out of the {} job groups need to be carefully analyzed: ".format(summary.loc[summary['DoF Ratio']<8].shape[0], num_models))    
-    for jg in summary.loc[summary['DoF Ratio']<8]['Job Group']:
-        st.warning('Warning: Job group "{}" has either low headcount, or too many features - see documentation'.format(jg), icon="⚠️")
+    if len(overfit)==0:
+        st.success("All created job groups have sufficient statistical robustness")
+    else:
+        st.warning("{} out of the {} job groups need to be carefully analyzed, namely: {}".format(
+            len(overfit), num_models, overfit), icon="⚠️")    
+        st.write(docs.OVERFIT)
         
     st.markdown("""---""") 
     
-    
     st.header("✨ Model Performance")
-    num_perf = summary.loc[summary['MAPE']>0.10].shape[0]
-    if num_perf > 0:
-        st.success("{} out of {} models are able to predict pay with reasonable accuracy!".format(num_models-num_perf, num_models))    
-          
-    for jg in summary.loc[summary['MAPE']>0.10]['Job Group']:
-        st.warning('Warning: Job group "{}" has accuracy issues - see documentation'.format(jg), icon="⚠️")
+    
+    if len(good_perf) > 0:
+        st.success("{} out of {} models are able to predict pay with reasonable accuracy!".format(len(good_perf), num_models))    
         
+    if len(poor_perf) > 0:
+        st.warning("{} out of {} models have performance concerns, namely: {}. Please see documentation".format(
+            len(poor_perf), num_models,poor_perf), icon="⚠️")  
+        st.write(docs.PERFORMANCE)
+          
     st.markdown("""---""") 
     
     st.header("🛑 Illegitimate Factors Evaluation")
     hug_coef = jge.audit.hug_coef.copy()
-    high_vif = hug_coef.loc[hug_coef['VIF']>1.3]['Job Group'].unique().tolist()
+    high_vif = hug_coef.loc[hug_coef['VIF']>5]['Job Group'].unique().tolist()
     if len(high_vif)==0:
         st.success("All models have interpretable pay gaps")    
+    else:
+        st.error(docs.BAD_GAPS, icon="🚨")
         
-    for jg, div in hug_coef.loc[hug_coef['VIF']>1.3][['Job Group','Variable']].values:
-        st.error('Error: Job group "{}" has an unreliable "{}" pay gap'.format(jg, div), icon="🚨")
+    high_vif_coef = hug_coef.loc[hug_coef['VIF']>1.3]
+    
+    if high_vif_coef.shape[0] > 0:
+        st.success("All models have interpretable pay gaps") 
+    else:
+        for jg, div in high_vif_coef[['Job Group','Variable']].values:
+            st.error('Error: Job group "{}" has an unreliable "{}" pay gap'.format(jg, div), icon="🚨")
         
     st.markdown("""---""") 
     
