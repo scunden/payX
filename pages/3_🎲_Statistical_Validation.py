@@ -6,6 +6,9 @@ import docs
 import plotly.graph_objects as go
 
 
+def no_jge():
+    st.error(docs.VAL_PLACEHOLDER, icon="🚨")
+
 def main():
         
     jge = st.session_state['jge']
@@ -80,4 +83,8 @@ def main():
     st.markdown("""---""") 
 
 if __name__=="__main__":
-    main()
+    
+    if "jge" in st.session_state.keys():
+        main()
+    else:
+        no_jge()
