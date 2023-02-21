@@ -1,1001 +1,1001 @@
-jobTitle,gender,age,perfEval,edu,dept,seniority,basePay,bonus,eeid,Test
-Graphic Designer,Female,18,5,College,Operations,2,42363,9938,0,First
-Software Engineer,Male,21,5,College,Management,5,108476,11128,1,First
-Warehouse Associate,Female,19,4,PhD,Administration,5,90208,9268,2,First
-Software Engineer,Male,20,5,Masters,Sales,4,108080,10154,3,First
-Graphic Designer,Male,26,5,Masters,Engineering,5,99464,9319,4,First
-IT,Female,20,5,PhD,Operations,4,70890,10126,5,First
-Graphic Designer,Female,20,5,College,Sales,4,67585,10541,6,First
-Software Engineer,Male,18,4,PhD,Engineering,5,97523,10240,7,First
-Graphic Designer,Female,33,5,High School,Engineering,5,112976,9836,8,First
-Sales Associate,Female,35,5,College,Engineering,5,106524,9941,9,First
-Graphic Designer,Male,24,5,PhD,Engineering,5,102261,10212,10,First
-Driver,Female,18,5,College,Management,3,62759,10124,11,First
-Financial Analyst,Female,19,5,College,Sales,3,84007,8990,12,First
-Warehouse Associate,Female,30,5,Masters,Administration,5,86220,9583,13,First
-Warehouse Associate,Female,35,5,PhD,Operations,4,95584,9745,14,First
-Marketing Associate,Female,27,5,PhD,Management,3,73357,10334,15,First
-Financial Analyst,Female,23,5,PhD,Administration,5,88422,10768,16,First
-Warehouse Associate,Female,24,5,College,Administration,5,99545,9949,17,First
-Sales Associate,Male,21,5,High School,Engineering,5,90386,9461,18,First
-Data Scientist,Female,30,5,College,Engineering,5,92067,9838,19,First
-Warehouse Associate,Male,36,5,PhD,Engineering,5,108446,9210,20,First
-Financial Analyst,Male,24,5,PhD,Sales,3,83323,9329,21,First
-Warehouse Associate,Male,24,5,PhD,Sales,3,85205,9792,22,First
-Driver,Female,35,5,College,Management,1,72038,9031,23,First
-Software Engineer,Male,21,4,PhD,Engineering,5,132823,9625,24,First
-Graphic Designer,Female,26,5,College,Engineering,2,71182,10015,25,First
-Software Engineer,Male,19,5,Masters,Administration,4,100305,9618,26,First
-Graphic Designer,Male,35,5,PhD,Management,3,88566,9469,27,First
-Warehouse Associate,Male,34,5,PhD,Engineering,4,104271,10177,28,First
-IT,Female,38,5,College,Administration,5,112392,10504,29,First
-Software Engineer,Male,20,5,Masters,Management,2,66359,10137,30,First
-Sales Associate,Male,35,5,Masters,Management,5,103007,10512,31,First
-Marketing Associate,Female,26,5,PhD,Operations,4,80306,9233,32,First
-Data Scientist,Female,22,5,High School,Engineering,3,74523,9972,33,First
-Data Scientist,Female,45,5,PhD,Management,5,113252,10139,34,First
-Software Engineer,Male,27,5,PhD,Management,4,96040,10050,35,First
-Software Engineer,Male,21,5,High School,Management,4,91674,9780,36,First
-Software Engineer,Male,31,5,High School,Operations,3,92928,9094,37,First
-IT,Female,33,5,College,Management,4,84638,9409,38,First
-IT,Male,19,5,College,Administration,4,78986,9023,39,First
-Data Scientist,Male,29,5,PhD,Administration,5,96355,9784,40,First
-Data Scientist,Male,32,5,PhD,Management,3,87121,8703,41,First
-Software Engineer,Male,31,5,PhD,Sales,2,88724,8949,42,First
-Warehouse Associate,Male,22,5,Masters,Engineering,2,58219,9868,43,First
-Software Engineer,Male,25,5,Masters,Sales,5,119024,11293,44,First
-Software Engineer,Male,22,5,Masters,Management,3,81503,9729,45,First
-Data Scientist,Female,21,5,PhD,Operations,3,70643,10033,46,First
-Graphic Designer,Female,26,5,PhD,Sales,3,74167,10346,47,First
-Marketing Associate,Male,21,5,College,Management,5,86886,9424,48,First
-IT,Female,22,5,High School,Sales,4,102120,10215,49,First
-Sales Associate,Male,18,4,Masters,Operations,5,90780,9353,50,First
-Software Engineer,Male,18,4,Masters,Operations,4,89474,9104,51,First
-Marketing Associate,Female,35,5,PhD,Engineering,5,97376,9564,52,First
-Data Scientist,Female,33,5,Masters,Sales,2,89415,9654,53,First
-Software Engineer,Female,22,4,Masters,Operations,3,88037,8949,54,First
-Data Scientist,Female,24,4,College,Administration,4,71105,8623,55,First
-Driver,Female,31,5,High School,Engineering,2,62692,8886,56,First
-Software Engineer,Male,40,5,PhD,Management,4,112466,9493,57,First
-Data Scientist,Female,49,5,College,Operations,3,71193,8331,58,First
-Marketing Associate,Female,20,5,Masters,Administration,4,76286,9479,59,First
-Financial Analyst,Male,18,5,PhD,Engineering,4,97328,9874,60,First
-Graphic Designer,Male,34,5,Masters,Management,3,86766,9841,61,First
-Warehouse Associate,Female,41,5,College,Operations,2,82453,9564,62,First
-Software Engineer,Male,19,5,PhD,Administration,3,88814,10153,63,First
-Driver,Male,31,5,College,Management,4,82832,9958,64,First
-Sales Associate,Female,33,5,High School,Engineering,3,83034,8841,65,First
-Warehouse Associate,Female,53,5,College,Engineering,5,127085,9687,66,First
-Sales Associate,Male,24,5,High School,Administration,1,66168,9242,67,First
-Data Scientist,Male,18,5,PhD,Administration,4,59212,10209,68,First
-Data Scientist,Male,18,5,High School,Operations,2,55189,9405,69,First
-Manager,Male,25,5,College,Engineering,5,131311,11067,70,First
-Sales Associate,Female,31,5,College,Management,1,52633,9516,71,First
-Warehouse Associate,Female,31,4,PhD,Operations,5,101154,10324,72,First
-Financial Analyst,Female,42,5,College,Engineering,5,113640,8762,73,First
-Data Scientist,Male,22,4,High School,Management,2,50401,8590,74,First
-Marketing Associate,Female,23,5,PhD,Administration,3,46263,9432,75,First
-Warehouse Associate,Female,36,4,College,Management,3,74938,8234,76,First
-Marketing Associate,Female,39,5,College,Sales,5,103384,9168,77,First
-Warehouse Associate,Female,39,5,College,Engineering,2,77584,9798,78,First
-Graphic Designer,Male,23,5,Masters,Management,3,83031,10240,79,First
-Financial Analyst,Male,29,5,Masters,Engineering,5,111019,10042,80,First
-Warehouse Associate,Female,25,3,Masters,Engineering,4,80192,8747,81,First
-Warehouse Associate,Male,21,5,PhD,Management,1,48755,9931,82,First
-Warehouse Associate,Male,28,5,High School,Engineering,2,59044,9368,83,First
-Manager,Male,29,4,PhD,Engineering,5,146615,10173,84,First
-Data Scientist,Female,32,5,PhD,Engineering,1,46693,8457,85,First
-IT,Female,48,5,PhD,Operations,3,88152,8857,86,First
-Data Scientist,Female,38,5,Masters,Administration,5,127156,9979,87,First
-Graphic Designer,Male,31,5,PhD,Engineering,1,69462,8872,88,First
-Manager,Male,19,4,PhD,Sales,5,119162,9395,89,First
-Software Engineer,Male,26,5,PhD,Operations,2,68466,8384,90,First
-Financial Analyst,Female,36,5,Masters,Administration,3,92622,8509,91,First
-Marketing Associate,Female,34,5,Masters,Engineering,1,51331,9130,92,First
-Warehouse Associate,Male,49,5,High School,Sales,4,109419,8375,93,First
-Software Engineer,Male,18,5,College,Operations,3,80355,9945,94,First
-Driver,Female,21,4,Masters,Sales,4,77032,8725,95,First
-Financial Analyst,Female,47,5,High School,Sales,5,146190,8961,96,First
-Graphic Designer,Female,22,4,Masters,Administration,4,96045,9129,97,First
-Software Engineer,Male,29,5,High School,Management,1,82534,8914,98,First
-IT,Male,55,5,College,Management,5,127769,8802,99,First
-Marketing Associate,Female,34,5,High School,Sales,5,96061,9093,100,First
-Warehouse Associate,Female,48,5,College,Management,5,111342,10122,101,First
-Financial Analyst,Female,43,5,PhD,Management,3,117554,8369,102,First
-Financial Analyst,Female,30,5,High School,Engineering,5,109369,10052,103,First
-Warehouse Associate,Female,25,4,Masters,Operations,4,92358,9611,104,First
-Financial Analyst,Female,21,4,Masters,Operations,4,91978,8647,105,First
-Sales Associate,Male,28,5,PhD,Administration,1,52290,9330,106,First
-IT,Male,18,5,High School,Engineering,1,47036,9130,107,First
-Warehouse Associate,Male,46,5,PhD,Sales,1,76517,8502,108,First
-Marketing Associate,Female,29,4,Masters,Administration,5,89822,8818,109,First
-Driver,Male,32,4,PhD,Engineering,4,90368,8215,110,First
-Financial Analyst,Male,26,5,College,Engineering,4,106194,9421,111,First
-Warehouse Associate,Female,51,5,High School,Management,3,87684,8645,112,First
-Marketing Associate,Female,40,5,Masters,Administration,3,62040,8056,113,First
-Sales Associate,Female,52,5,Masters,Engineering,2,84132,7204,114,First
-Financial Analyst,Female,29,4,Masters,Administration,4,88047,8459,115,First
-Driver,Female,37,5,Masters,Administration,2,65012,8357,116,First
-Marketing Associate,Female,23,4,Masters,Engineering,4,59251,8596,117,First
-Graphic Designer,Female,18,4,PhD,Operations,3,78462,8743,118,First
-Driver,Male,40,5,College,Management,2,97414,8833,119,First
-Driver,Female,18,4,Masters,Administration,2,42722,8515,120,First
-Marketing Associate,Female,26,4,College,Management,3,63695,8897,121,First
-Data Scientist,Male,51,5,PhD,Operations,4,110731,8643,122,First
-Software Engineer,Male,54,5,PhD,Administration,4,125572,8245,123,First
-Driver,Male,49,5,Masters,Operations,2,72754,8014,124,First
-IT,Female,26,5,College,Administration,2,53956,9454,125,First
-Sales Associate,Male,58,5,High School,Engineering,5,135013,8972,126,First
-IT,Female,49,5,College,Management,3,108495,8668,127,First
-Financial Analyst,Female,27,4,High School,Administration,4,87608,7511,128,First
-Data Scientist,Male,38,5,College,Administration,5,101173,9255,129,First
-IT,Male,53,5,PhD,Management,5,126828,9310,130,First
-Financial Analyst,Male,49,5,High School,Engineering,4,102716,8290,131,First
-Marketing Associate,Male,26,4,High School,Engineering,5,77793,8700,132,First
-Marketing Associate,Female,44,5,High School,Sales,1,57469,7539,133,First
-Graphic Designer,Male,33,5,Masters,Management,3,83758,8498,134,First
-Graphic Designer,Male,22,5,PhD,Administration,1,40187,8549,135,First
-Financial Analyst,Male,41,5,Masters,Engineering,3,98531,6855,136,First
-Financial Analyst,Male,26,4,College,Operations,4,104435,7802,137,First
-Data Scientist,Male,29,5,High School,Administration,1,67617,9075,138,First
-Driver,Female,24,4,High School,Administration,5,91049,10375,139,First
-Manager,Female,32,5,PhD,Operations,1,98519,8943,140,First
-Marketing Associate,Female,36,4,High School,Operations,5,91713,7627,141,First
-Warehouse Associate,Female,41,4,Masters,Engineering,3,88994,8873,142,First
-Financial Analyst,Male,44,5,Masters,Administration,4,119381,9345,143,First
-Financial Analyst,Female,43,5,High School,Sales,5,113180,9089,144,First
-Warehouse Associate,Male,48,5,PhD,Management,2,68639,9553,145,First
-Software Engineer,Female,28,3,PhD,Engineering,4,103763,8383,146,First
-Software Engineer,Male,40,5,College,Management,1,68295,7902,147,First
-Manager,Male,21,4,High School,Engineering,3,103107,9036,148,First
-Warehouse Associate,Female,19,4,College,Sales,2,64844,9042,149,First
-Driver,Female,61,5,PhD,Sales,4,129132,8472,150,First
-Warehouse Associate,Female,57,5,High School,Engineering,3,93470,8578,151,First
-Data Scientist,Male,28,4,Masters,Administration,5,97625,7985,152,First
-Graphic Designer,Female,52,5,College,Administration,1,66529,7067,153,First
-Data Scientist,Female,48,5,Masters,Management,1,100115,7679,154,First
-Warehouse Associate,Female,57,5,PhD,Administration,2,86423,8058,155,First
-Sales Associate,Male,30,4,Masters,Sales,5,115165,8841,156,First
-Data Scientist,Female,53,5,Masters,Engineering,5,133495,8552,157,First
-Marketing Associate,Male,47,5,Masters,Operations,3,86516,8049,158,First
-IT,Male,18,4,Masters,Administration,4,69855,8347,159,First
-Sales Associate,Female,35,4,PhD,Sales,1,84844,7205,160,First
-Graphic Designer,Female,51,5,College,Operations,3,108241,8602,161,First
-Warehouse Associate,Female,51,5,High School,Sales,3,106478,8744,162,First
-Financial Analyst,Male,38,4,College,Management,5,114421,7444,163,First
-Software Engineer,Male,24,4,Masters,Management,1,79208,8602,164,First
-Software Engineer,Male,49,5,Masters,Administration,5,142105,9653,165,First
-Sales Associate,Male,22,5,High School,Administration,1,57783,9306,166,First
-Marketing Associate,Female,33,5,High School,Operations,2,46903,8130,167,First
-Financial Analyst,Male,36,5,Masters,Operations,1,71858,7475,168,First
-Marketing Associate,Female,27,5,High School,Management,1,44325,8867,169,First
-Driver,Male,39,5,High School,Engineering,4,100183,8832,170,First
-Graphic Designer,Male,19,4,Masters,Sales,1,61000,8872,171,First
-Software Engineer,Male,59,5,Masters,Engineering,1,109623,6897,172,First
-Marketing Associate,Female,20,3,PhD,Sales,5,60070,8273,173,First
-IT,Female,29,4,Masters,Management,3,72542,8109,174,First
-Driver,Male,54,5,PhD,Administration,4,110049,8928,175,First
-IT,Female,30,4,Masters,Engineering,2,80981,8201,176,First
-IT,Female,42,5,College,Operations,2,83499,8950,177,First
-Driver,Female,42,4,Masters,Management,4,106788,8974,178,First
-Warehouse Associate,Female,50,4,Masters,Engineering,5,108922,8477,179,First
-IT,Female,43,5,PhD,Administration,5,127062,9619,180,First
-Software Engineer,Male,64,5,College,Sales,4,120593,7573,181,First
-Manager,Male,23,4,PhD,Administration,1,90685,8816,182,First
-Marketing Associate,Female,33,5,High School,Engineering,1,49830,8543,183,First
-Software Engineer,Male,39,4,High School,Sales,4,106896,7918,184,First
-Sales Associate,Male,58,5,PhD,Sales,2,129425,7524,185,First
-Marketing Associate,Female,24,3,Masters,Operations,5,82338,7414,186,First
-Marketing Associate,Female,37,4,PhD,Administration,3,86036,7567,187,First
-Graphic Designer,Male,53,5,High School,Operations,2,93073,8188,188,First
-Software Engineer,Male,33,5,PhD,Administration,2,87352,8435,189,First
-Software Engineer,Male,56,5,PhD,Administration,5,139760,9229,190,First
-Financial Analyst,Female,52,5,High School,Engineering,2,100070,7169,191,First
-Warehouse Associate,Male,40,5,Masters,Sales,4,102815,9090,192,First
-Software Engineer,Male,43,4,PhD,Management,5,101262,7794,193,First
-Data Scientist,Male,19,5,High School,Operations,2,58054,9585,194,First
-Sales Associate,Female,53,4,Masters,Operations,5,129609,7392,195,First
-Sales Associate,Male,44,5,Masters,Administration,2,100091,9185,196,First
-Manager,Male,23,4,Masters,Sales,3,103479,7850,197,First
-Driver,Female,51,5,College,Operations,1,72827,7285,198,First
-IT,Male,20,4,PhD,Engineering,2,74073,8509,199,First
-Financial Analyst,Male,47,5,College,Administration,2,64852,8023,200,First
-Graphic Designer,Male,49,5,College,Management,4,106887,8347,201,First
-Software Engineer,Male,26,4,College,Administration,2,77309,7957,202,First
-Graphic Designer,Female,44,4,High School,Administration,4,100416,7513,203,First
-Software Engineer,Male,18,3,Masters,Engineering,2,88482,7385,204,First
-Data Scientist,Female,32,4,College,Management,4,78623,9012,205,First
-Sales Associate,Male,18,4,High School,Management,4,80135,9007,206,First
-Warehouse Associate,Female,63,5,High School,Sales,2,106158,7654,207,First
-Graphic Designer,Female,37,4,College,Engineering,4,89411,9522,208,First
-Graphic Designer,Male,22,4,Masters,Sales,2,57398,7827,209,First
-Marketing Associate,Female,64,5,PhD,Sales,2,95687,7279,210,First
-Graphic Designer,Female,39,4,PhD,Operations,5,120294,8090,211,First
-Manager,Male,20,4,College,Sales,2,107140,8199,212,First
-Financial Analyst,Female,39,5,College,Operations,1,76773,7278,213,First
-Data Scientist,Female,37,4,Masters,Engineering,2,98010,8210,214,First
-Data Scientist,Female,39,4,PhD,Management,3,91099,8306,215,First
-Financial Analyst,Male,29,4,High School,Management,4,89559,8338,216,First
-Software Engineer,Male,58,5,High School,Management,3,120156,7200,217,First
-Driver,Male,38,5,PhD,Engineering,4,102966,8978,218,First
-Marketing Associate,Female,64,5,PhD,Sales,5,128970,7346,219,First
-Warehouse Associate,Female,51,4,High School,Management,5,121376,7832,220,First
-Financial Analyst,Male,53,5,Masters,Administration,3,112941,7404,221,First
-Graphic Designer,Male,46,5,High School,Engineering,4,102736,9736,222,First
-Driver,Female,28,4,High School,Management,1,64008,7185,223,First
-IT,Male,52,5,Masters,Engineering,1,90024,7350,224,First
-Financial Analyst,Female,48,4,Masters,Management,5,129406,7280,225,First
-IT,Female,34,5,College,Operations,1,54245,8245,226,First
-Marketing Associate,Female,27,4,High School,Administration,5,67530,9311,227,First
-Graphic Designer,Male,18,4,High School,Sales,4,75506,9289,228,First
-Graphic Designer,Female,31,4,College,Engineering,2,81826,8375,229,First
-Software Engineer,Female,27,4,High School,Operations,1,65711,7789,230,First
-Sales Associate,Male,29,3,Masters,Management,2,61164,6346,231,First
-Driver,Female,41,5,Masters,Administration,1,73801,8317,232,First
-Manager,Male,62,5,College,Administration,5,157410,7840,233,First
-Graphic Designer,Male,23,4,High School,Operations,1,50601,7351,234,First
-Data Scientist,Male,29,4,High School,Engineering,3,65907,7668,235,First
-Data Scientist,Male,38,5,High School,Sales,2,80937,8335,236,First
-Driver,Male,34,4,College,Administration,5,90330,7022,237,First
-Sales Associate,Female,62,5,College,Operations,2,93268,7657,238,First
-IT,Male,40,4,College,Administration,5,109345,7791,239,First
-Software Engineer,Male,27,4,Masters,Engineering,1,66084,7769,240,First
-Financial Analyst,Male,35,4,PhD,Operations,5,98900,7960,241,First
-IT,Male,19,4,College,Engineering,3,78113,9335,242,First
-Software Engineer,Male,36,4,Masters,Engineering,5,130826,9694,243,First
-Sales Associate,Male,23,3,High School,Engineering,3,85928,7229,244,First
-IT,Male,43,5,College,Operations,4,98515,9090,245,First
-Graphic Designer,Female,48,4,College,Administration,4,103133,7793,246,First
-Marketing Associate,Female,20,4,College,Sales,4,69254,8609,247,First
-Graphic Designer,Male,27,4,College,Sales,5,114680,8472,248,First
-Driver,Male,25,3,PhD,Engineering,5,92687,7634,249,First
-Graphic Designer,Male,21,3,Masters,Engineering,4,72301,8391,250,First
-Financial Analyst,Male,24,4,Masters,Administration,1,67749,8517,251,First
-Data Scientist,Female,61,5,Masters,Management,2,97000,7757,252,First
-Manager,Male,52,5,High School,Operations,2,104526,7253,253,First
-Data Scientist,Male,26,4,High School,Management,3,80494,8449,254,First
-Financial Analyst,Female,30,4,High School,Operations,2,40341,7320,255,First
-Software Engineer,Male,29,4,High School,Engineering,1,74316,8761,256,First
-IT,Female,46,5,PhD,Sales,3,102247,8307,257,First
-Driver,Male,49,4,College,Sales,5,104657,6839,258,First
-Warehouse Associate,Female,37,3,High School,Engineering,5,92722,8010,259,First
-Sales Associate,Female,51,5,Masters,Management,1,72120,9084,260,First
-Warehouse Associate,Female,28,4,Masters,Operations,1,62260,7740,261,First
-Manager,Male,45,5,High School,Engineering,3,123422,8894,262,First
-Warehouse Associate,Male,48,5,College,Sales,1,62097,7075,263,First
-Data Scientist,Male,53,5,High School,Management,2,102910,8335,264,First
-Data Scientist,Female,29,4,High School,Engineering,3,84021,9111,265,First
-Warehouse Associate,Female,19,4,High School,Operations,1,37026,8636,266,First
-Driver,Male,18,3,PhD,Operations,3,56318,8407,267,First
-IT,Male,28,4,High School,Operations,3,64958,7910,268,First
-Data Scientist,Female,31,4,High School,Operations,2,55954,7999,269,First
-Graphic Designer,Female,58,4,PhD,Sales,3,108820,7776,270,First
-IT,Female,41,5,High School,Operations,3,100014,8621,271,First
-Driver,Male,36,4,PhD,Operations,3,88213,8581,272,First
-Sales Associate,Female,34,3,High School,Sales,4,108288,7491,273,First
-Driver,Male,56,5,Masters,Sales,5,100859,8388,274,First
-Financial Analyst,Female,30,4,Masters,Administration,5,114007,9248,275,First
-Warehouse Associate,Male,37,4,High School,Management,3,83025,8105,276,First
-IT,Male,28,4,High School,Administration,5,95964,9147,277,First
-Warehouse Associate,Female,47,4,College,Administration,2,94973,7885,278,First
-Graphic Designer,Male,44,4,High School,Sales,4,102108,8339,279,First
-Data Scientist,Male,24,4,Masters,Sales,2,60736,7873,280,First
-IT,Male,47,5,PhD,Operations,1,82126,6971,281,First
-Financial Analyst,Male,33,5,Masters,Operations,1,69878,8389,282,First
-IT,Female,22,4,Masters,Sales,1,37780,8443,283,First
-Graphic Designer,Male,57,4,Masters,Management,4,132873,7266,284,First
-Financial Analyst,Male,20,4,High School,Operations,2,65164,7827,285,First
-IT,Female,65,5,Masters,Administration,4,121210,7949,286,First
-Graphic Designer,Female,49,4,PhD,Engineering,2,95169,7415,287,First
-Sales Associate,Male,19,3,PhD,Management,4,94492,8209,288,First
-Driver,Female,39,4,PhD,Operations,2,75901,7402,289,First
-Sales Associate,Male,33,3,Masters,Operations,5,100463,6332,290,First
-Sales Associate,Female,40,4,Masters,Operations,5,92276,9551,291,First
-Driver,Female,21,2,College,Engineering,5,92458,6966,292,First
-Graphic Designer,Male,46,4,High School,Administration,4,88571,7464,293,First
-Financial Analyst,Male,39,4,PhD,Management,3,87409,7168,294,First
-Warehouse Associate,Male,58,5,College,Sales,4,133927,8278,295,First
-Manager,Male,33,4,Masters,Sales,1,90482,7094,296,First
-Marketing Associate,Female,27,4,High School,Sales,4,87435,9230,297,First
-Graphic Designer,Female,65,5,High School,Operations,4,130251,7750,298,First
-Manager,Female,34,3,Masters,Management,2,106560,7257,299,First
-Software Engineer,Male,56,5,College,Operations,3,107366,7774,300,First
-Warehouse Associate,Female,34,4,High School,Sales,1,56172,7739,301,First
-Marketing Associate,Female,35,4,Masters,Sales,2,58807,7316,302,First
-Financial Analyst,Female,49,4,Masters,Sales,4,126626,7144,303,First
-Manager,Female,24,3,PhD,Sales,3,104202,8456,304,First
-Warehouse Associate,Male,39,4,PhD,Operations,3,77793,8093,305,First
-Warehouse Associate,Male,45,4,High School,Operations,2,84930,6914,306,First
-Driver,Male,32,3,Masters,Engineering,2,69367,6378,307,First
-Graphic Designer,Male,65,5,Masters,Operations,5,116751,8505,308,First
-Software Engineer,Male,52,4,Masters,Administration,5,139841,7641,309,First
-Driver,Female,52,4,College,Administration,2,78750,6666,310,First
-Warehouse Associate,Female,38,3,College,Administration,5,93306,8265,311,First
-Financial Analyst,Male,19,4,Masters,Operations,2,60892,8462,312,First
-Graphic Designer,Male,20,2,Masters,Engineering,5,99543,6111,313,First
-Sales Associate,Female,29,3,PhD,Operations,2,56745,6495,314,First
-Data Scientist,Female,29,4,College,Operations,1,59458,7939,315,First
-Driver,Female,18,2,Masters,Sales,4,71824,6397,316,First
-Software Engineer,Male,64,5,High School,Operations,2,111903,6824,317,First
-IT,Male,55,5,College,Sales,3,104361,7813,318,First
-Warehouse Associate,Female,22,2,High School,Sales,5,91568,7139,319,First
-Software Engineer,Male,59,4,Masters,Engineering,4,155834,7101,320,First
-Financial Analyst,Male,30,5,Masters,Sales,1,83620,7864,321,First
-Marketing Associate,Female,50,5,PhD,Administration,1,81995,7840,322,First
-Graphic Designer,Female,27,4,PhD,Sales,1,66125,8465,323,First
-Driver,Male,27,3,College,Engineering,5,89678,7778,324,First
-Sales Associate,Female,57,5,Masters,Operations,3,98321,8980,325,First
-Manager,Male,48,4,College,Management,1,109346,7730,326,First
-Manager,Female,62,4,Masters,Sales,4,155203,7808,327,First
-IT,Male,64,5,PhD,Management,2,98100,7460,328,First
-Data Scientist,Female,29,3,High School,Management,4,73306,7765,329,First
-Driver,Male,40,5,College,Engineering,2,68797,7817,330,First
-Financial Analyst,Male,58,4,College,Management,4,120154,6751,331,First
-Warehouse Associate,Female,22,3,College,Sales,4,76865,8145,332,First
-Graphic Designer,Female,59,4,PhD,Management,4,125770,8013,333,First
-Financial Analyst,Female,36,4,High School,Administration,5,119931,8400,334,First
-Marketing Associate,Female,55,4,Masters,Operations,1,71794,6685,335,First
-Driver,Female,54,4,College,Management,2,87998,7028,336,First
-Software Engineer,Male,63,4,High School,Administration,5,140445,7905,337,First
-Warehouse Associate,Male,18,2,College,Administration,5,85306,7735,338,First
-Sales Associate,Female,31,3,High School,Operations,3,77275,7089,339,First
-Manager,Male,48,4,PhD,Sales,4,143887,7622,340,First
-Driver,Female,58,4,High School,Sales,5,130720,7246,341,First
-Software Engineer,Female,41,4,PhD,Sales,1,86675,7947,342,First
-Graphic Designer,Female,22,3,College,Operations,2,56954,7550,343,First
-IT,Male,63,5,Masters,Operations,5,133472,8688,344,First
-Data Scientist,Male,23,3,Masters,Administration,1,62753,7242,345,First
-Sales Associate,Male,63,5,PhD,Operations,4,128173,8360,346,First
-Software Engineer,Female,28,3,College,Engineering,5,112491,8727,347,First
-Marketing Associate,Female,22,4,PhD,Operations,1,36548,8090,348,First
-Driver,Female,62,4,PhD,Engineering,1,88781,6413,349,First
-Software Engineer,Male,65,4,High School,Management,5,157852,6669,350,First
-Financial Analyst,Male,51,4,PhD,Operations,4,113730,6578,351,First
-Driver,Male,57,5,College,Management,1,68403,6893,352,First
-Manager,Male,59,4,PhD,Sales,5,176789,6773,353,First
-Data Scientist,Female,45,3,Masters,Sales,5,129226,6912,354,First
-Graphic Designer,Male,24,3,College,Engineering,2,59399,6692,355,First
-Sales Associate,Male,61,5,PhD,Management,1,102473,8468,356,First
-Manager,Female,60,4,PhD,Management,3,160614,8354,357,First
-Sales Associate,Female,28,3,PhD,Sales,3,89570,7411,358,First
-Marketing Associate,Female,41,4,College,Sales,3,73989,8780,359,First
-Financial Analyst,Female,35,4,Masters,Management,2,67762,7449,360,First
-Financial Analyst,Male,35,4,College,Administration,4,90307,7663,361,First
-Driver,Female,38,3,Masters,Management,2,77751,6554,362,First
-Data Scientist,Female,57,4,High School,Management,1,87150,6814,363,First
-Driver,Female,19,2,College,Sales,2,79291,5000,364,First
-Graphic Designer,Male,55,5,Masters,Engineering,1,79144,8328,365,First
-Manager,Male,62,5,PhD,Engineering,3,150467,8100,366,First
-Driver,Female,31,3,Masters,Engineering,2,57070,6615,367,First
-Marketing Associate,Female,49,4,College,Sales,4,102201,7640,368,First
-Driver,Male,37,4,College,Engineering,3,70088,8244,369,First
-Marketing Associate,Female,24,3,PhD,Operations,4,57782,7144,370,First
-Manager,Male,32,3,High School,Operations,4,117629,6291,371,First
-Sales Associate,Male,28,3,Masters,Administration,5,118653,7036,372,First
-Marketing Associate,Female,38,2,High School,Management,5,71772,5764,373,First
-Software Engineer,Male,65,5,Masters,Sales,1,134758,7500,374,First
-Marketing Associate,Female,53,5,College,Administration,1,66438,6935,375,First
-Warehouse Associate,Male,46,3,High School,Operations,4,87134,6184,376,First
-Marketing Associate,Female,57,4,College,Operations,3,79674,6993,377,First
-Marketing Associate,Female,45,3,College,Engineering,4,85161,6682,378,First
-Warehouse Associate,Female,34,2,PhD,Management,5,114479,6700,379,First
-Marketing Associate,Male,25,3,College,Operations,4,65547,6530,380,First
-Data Scientist,Female,33,3,High School,Administration,3,71946,6386,381,First
-Financial Analyst,Male,64,5,High School,Operations,3,96777,7736,382,First
-Marketing Associate,Female,23,3,PhD,Administration,3,62054,6955,383,First
-Software Engineer,Male,26,3,High School,Sales,2,61527,6345,384,First
-Warehouse Associate,Female,24,3,High School,Management,1,64624,8253,385,First
-Driver,Male,49,4,Masters,Administration,5,118629,6740,386,First
-Data Scientist,Male,19,2,PhD,Management,5,80171,6454,387,First
-Sales Associate,Female,47,3,College,Administration,4,105410,6363,388,First
-Software Engineer,Male,36,4,PhD,Management,3,112134,8587,389,First
-Warehouse Associate,Female,42,3,Masters,Engineering,1,90005,6631,390,First
-Marketing Associate,Female,50,5,High School,Operations,1,70374,7466,391,First
-Manager,Male,21,2,College,Administration,5,121682,7189,392,First
-Marketing Associate,Female,49,4,PhD,Operations,5,104355,7555,393,First
-IT,Female,49,4,College,Engineering,1,75811,5520,394,First
-Sales Associate,Male,48,3,Masters,Engineering,5,113544,6839,395,First
-Graphic Designer,Female,22,2,Masters,Operations,4,107025,6577,396,First
-Financial Analyst,Male,20,3,PhD,Operations,3,78564,7875,397,First
-Financial Analyst,Male,47,5,College,Operations,3,91905,7614,398,First
-Financial Analyst,Male,60,5,High School,Engineering,4,121728,7932,399,First
-Marketing Associate,Male,27,4,College,Management,1,54817,6519,400,First
-Sales Associate,Male,20,3,College,Operations,1,37898,6448,401,First
-IT,Male,59,5,PhD,Operations,1,79544,6760,402,First
-Data Scientist,Female,20,3,High School,Engineering,1,40056,7632,403,First
-IT,Female,45,4,College,Operations,2,70846,7404,404,First
-Marketing Associate,Female,34,3,High School,Sales,5,79707,7196,405,First
-Software Engineer,Male,59,4,High School,Operations,4,124817,7268,406,First
-Manager,Male,53,4,College,Management,1,123114,6946,407,First
-Financial Analyst,Female,20,3,High School,Operations,3,62377,6999,408,First
-Data Scientist,Male,28,3,Masters,Sales,3,82850,5794,409,First
-IT,Female,38,4,High School,Sales,2,75932,7003,410,First
-Manager,Male,43,3,PhD,Management,2,121949,6739,411,First
-Marketing Associate,Female,36,3,PhD,Sales,3,82755,7325,412,First
-Data Scientist,Male,45,3,PhD,Administration,5,122037,8147,413,First
-Warehouse Associate,Female,19,2,Masters,Administration,2,78021,6970,414,First
-IT,Male,18,4,PhD,Sales,1,56309,7559,415,First
-Financial Analyst,Male,59,5,PhD,Management,1,90002,8123,416,First
-IT,Male,34,3,College,Sales,4,91066,6257,417,First
-Manager,Male,32,3,Masters,Management,5,118088,7721,418,First
-Software Engineer,Male,29,3,Masters,Operations,2,92099,7246,419,First
-Financial Analyst,Female,46,4,College,Administration,4,116758,7744,420,First
-Marketing Associate,Female,49,5,High School,Sales,2,96500,8092,421,First
-Manager,Male,48,3,College,Management,5,138851,6929,422,First
-Marketing Associate,Female,34,4,College,Administration,1,49632,7169,423,First
-Driver,Female,45,3,PhD,Management,3,76700,7242,424,First
-IT,Male,58,4,College,Management,5,131275,6997,425,First
-Manager,Male,21,2,PhD,Operations,3,89648,6573,426,First
-Graphic Designer,Female,26,2,Masters,Administration,5,100516,6737,427,First
-Manager,Male,20,2,PhD,Operations,4,112854,6564,428,First
-Software Engineer,Male,60,4,Masters,Sales,5,155676,6586,429,First
-Driver,Male,57,4,College,Sales,4,135781,6042,430,First
-Sales Associate,Female,47,3,College,Engineering,2,84935,6122,431,First
-Warehouse Associate,Male,31,4,High School,Engineering,2,66407,7522,432,First
-Driver,Female,56,4,PhD,Sales,3,101249,7329,433,First
-Manager,Male,57,4,Masters,Administration,4,143189,6321,434,First
-Graphic Designer,Male,63,5,PhD,Engineering,1,105800,7822,435,First
-Software Engineer,Male,63,5,College,Operations,2,124871,7327,436,First
-Data Scientist,Male,23,3,High School,Sales,3,83894,6922,437,First
-Manager,Female,45,2,High School,Management,5,144146,6340,438,First
-Marketing Associate,Female,46,4,PhD,Sales,2,69268,7106,439,First
-Sales Associate,Male,63,5,High School,Sales,1,85948,7646,440,First
-Software Engineer,Male,20,2,PhD,Engineering,4,92289,6643,441,First
-Financial Analyst,Male,45,4,High School,Operations,2,75397,6490,442,First
-Software Engineer,Male,65,4,High School,Engineering,1,102597,5937,443,First
-Sales Associate,Female,63,4,PhD,Engineering,3,127561,7552,444,First
-Warehouse Associate,Male,26,3,High School,Sales,3,72945,7279,445,First
-Software Engineer,Male,60,3,PhD,Management,5,145632,6439,446,First
-Marketing Associate,Female,36,3,Masters,Sales,3,77223,5272,447,First
-Manager,Male,63,5,Masters,Operations,1,130093,6416,448,First
-Marketing Associate,Male,33,3,PhD,Administration,2,53220,5153,449,First
-Warehouse Associate,Female,41,3,College,Engineering,3,92080,6897,450,First
-Graphic Designer,Female,55,3,College,Sales,5,118762,6545,451,First
-Sales Associate,Female,21,2,College,Operations,5,85398,7113,452,First
-Data Scientist,Male,31,3,College,Operations,1,75227,6027,453,First
-Data Scientist,Male,41,3,Masters,Administration,4,104314,6611,454,First
-Manager,Male,27,3,High School,Operations,1,83262,6884,455,First
-Data Scientist,Female,55,3,Masters,Administration,4,123172,5797,456,First
-Data Scientist,Male,41,4,PhD,Administration,1,67040,7412,457,First
-Warehouse Associate,Male,33,3,College,Administration,1,77655,6581,458,First
-Data Scientist,Female,46,3,College,Administration,3,107476,6182,459,First
-Software Engineer,Male,45,4,Masters,Operations,2,89811,6471,460,First
-Graphic Designer,Male,47,3,College,Administration,5,106893,7958,461,First
-Software Engineer,Male,58,4,Masters,Engineering,5,154039,7304,462,First
-Warehouse Associate,Male,64,4,High School,Operations,3,116774,6160,463,First
-Software Engineer,Male,40,2,High School,Management,2,98281,5646,464,First
-Marketing Associate,Female,18,3,High School,Engineering,2,34208,6620,465,First
-Software Engineer,Male,42,3,Masters,Engineering,5,121821,6499,466,First
-Software Engineer,Male,30,2,Masters,Engineering,5,113122,6060,467,First
-Software Engineer,Male,39,4,PhD,Management,1,92154,7642,468,First
-Manager,Male,31,3,PhD,Engineering,2,110643,7291,469,First
-Data Scientist,Female,34,3,PhD,Administration,1,82345,7211,470,First
-Data Scientist,Male,32,3,PhD,Sales,4,103908,8109,471,First
-Marketing Associate,Female,24,3,High School,Engineering,3,49303,6615,472,First
-IT,Female,46,4,High School,Operations,3,98456,7177,473,First
-Warehouse Associate,Male,49,3,PhD,Operations,4,94927,6274,474,First
-Software Engineer,Male,30,2,College,Administration,5,76654,6696,475,First
-Manager,Male,46,4,Masters,Sales,1,107859,6989,476,First
-Manager,Female,53,4,High School,Operations,3,129885,7314,477,First
-Graphic Designer,Male,62,5,Masters,Sales,1,85702,6556,478,First
-Financial Analyst,Female,63,4,Masters,Operations,1,97797,5239,479,First
-Manager,Male,18,1,Masters,Management,5,115567,4775,480,First
-Sales Associate,Female,30,3,High School,Administration,4,91566,6996,481,First
-Sales Associate,Female,61,3,PhD,Management,4,131608,6537,482,First
-Sales Associate,Male,58,4,PhD,Administration,3,118888,7438,483,First
-Graphic Designer,Male,55,4,College,Sales,2,75833,6942,484,First
-Financial Analyst,Female,36,3,College,Engineering,2,65750,6177,485,First
-Graphic Designer,Male,65,4,College,Management,4,123371,6931,486,First
-Marketing Associate,Female,49,4,Masters,Sales,3,76806,6662,487,First
-Warehouse Associate,Male,38,3,College,Management,3,83774,7127,488,First
-Warehouse Associate,Female,22,1,PhD,Operations,5,114733,6290,489,First
-Financial Analyst,Male,22,3,PhD,Administration,2,69320,6765,490,First
-Sales Associate,Male,51,3,PhD,Operations,4,110746,5947,491,First
-Graphic Designer,Male,61,4,Masters,Engineering,2,105632,6394,492,First
-Manager,Male,62,4,PhD,Engineering,1,117648,4765,493,First
-Driver,Female,21,1,PhD,Management,4,89170,6722,494,First
-Sales Associate,Male,28,3,College,Management,3,85986,8160,495,First
-Financial Analyst,Male,32,4,Masters,Sales,3,78132,8035,496,First
-Manager,Male,57,4,Masters,Operations,3,135073,6898,497,First
-Driver,Female,52,4,High School,Operations,1,78751,6258,498,First
-Software Engineer,Male,64,5,High School,Sales,2,118231,7440,499,First
-Data Scientist,Male,58,5,High School,Operations,1,86651,7250,500,Second
-IT,Female,36,3,PhD,Management,3,75518,6711,501,Second
-Data Scientist,Male,44,3,Masters,Management,3,114693,6832,502,Second
-Financial Analyst,Male,39,3,Masters,Engineering,4,116875,5479,503,Second
-IT,Male,23,4,PhD,Administration,1,64468,8113,504,Second
-Marketing Associate,Male,40,2,PhD,Sales,5,116834,5516,505,Second
-Marketing Associate,Female,18,2,Masters,Management,5,75294,6496,506,Second
-Graphic Designer,Female,63,3,College,Management,5,127608,6558,507,Second
-Financial Analyst,Female,43,3,College,Sales,5,116069,6432,508,Second
-Driver,Female,50,3,High School,Engineering,2,86122,6295,509,Second
-Warehouse Associate,Male,23,2,College,Management,4,81988,7160,510,Second
-Warehouse Associate,Female,22,2,Masters,Sales,2,68300,5953,511,Second
-Manager,Male,60,4,College,Sales,2,148178,6777,512,Second
-Financial Analyst,Female,50,3,PhD,Operations,2,94590,5327,513,Second
-Sales Associate,Female,33,2,College,Engineering,4,87418,6430,514,Second
-Warehouse Associate,Male,25,3,College,Administration,1,68384,7443,515,Second
-Manager,Male,48,3,PhD,Operations,1,106056,4161,516,Second
-Software Engineer,Male,35,2,Masters,Management,3,110886,6228,517,Second
-Graphic Designer,Female,37,2,Masters,Management,3,104082,5477,518,Second
-IT,Female,43,3,Masters,Management,4,94354,7052,519,Second
-Warehouse Associate,Male,53,3,PhD,Engineering,5,128669,6866,520,Second
-Financial Analyst,Male,40,3,PhD,Sales,3,88725,6243,521,Second
-Manager,Male,56,3,Masters,Engineering,4,149771,5495,522,Second
-Financial Analyst,Male,45,4,Masters,Management,2,98535,8001,523,Second
-Data Scientist,Female,57,4,PhD,Sales,1,90713,6552,524,Second
-IT,Male,33,3,College,Management,3,88749,7433,525,Second
-Graphic Designer,Male,49,3,Masters,Operations,5,126100,6336,526,Second
-Manager,Male,23,3,College,Sales,3,110594,6753,527,Second
-Manager,Male,60,4,College,Management,3,157644,7213,528,Second
-Manager,Female,41,3,PhD,Management,1,113009,6812,529,Second
-Financial Analyst,Male,20,2,PhD,Engineering,4,105601,5943,530,Second
-Financial Analyst,Male,56,4,High School,Engineering,3,100769,6453,531,Second
-Warehouse Associate,Male,38,3,High School,Administration,2,82244,6020,532,Second
-Marketing Associate,Female,55,4,High School,Administration,2,72030,5569,533,Second
-Driver,Female,20,1,College,Management,3,66203,5627,534,Second
-Driver,Female,34,2,High School,Management,3,67210,5662,535,Second
-Manager,Female,32,2,PhD,Management,2,115383,5878,536,Second
-Graphic Designer,Female,49,3,PhD,Engineering,4,120697,7205,537,Second
-Graphic Designer,Male,29,3,PhD,Operations,2,70311,6235,538,Second
-Data Scientist,Female,49,3,College,Engineering,4,125770,7301,539,Second
-Warehouse Associate,Male,33,1,College,Engineering,5,100465,5520,540,Second
-Software Engineer,Male,30,2,College,Administration,4,83264,6251,541,Second
-Warehouse Associate,Male,61,3,PhD,Engineering,4,126375,6630,542,Second
-Driver,Male,25,3,College,Engineering,1,43076,5829,543,Second
-Data Scientist,Female,37,2,College,Sales,5,97846,7198,544,Second
-Sales Associate,Female,24,2,Masters,Management,3,76522,6900,545,Second
-Driver,Male,42,3,PhD,Operations,4,111726,5989,546,Second
-Sales Associate,Male,55,4,College,Administration,3,112188,6689,547,Second
-Data Scientist,Male,35,2,College,Operations,5,98959,6572,548,Second
-Sales Associate,Female,35,2,College,Management,4,87131,6356,549,Second
-IT,Male,40,3,College,Administration,3,77881,5569,550,Second
-IT,Male,36,3,Masters,Engineering,2,65225,6462,551,Second
-Driver,Male,30,4,Masters,Operations,1,78472,8439,552,Second
-Financial Analyst,Male,58,4,College,Operations,4,126269,6490,553,Second
-Warehouse Associate,Male,61,3,High School,Management,3,106233,5792,554,Second
-IT,Female,37,3,High School,Sales,2,56656,5914,555,Second
-IT,Female,42,3,High School,Engineering,2,70157,6016,556,Second
-Data Scientist,Female,41,2,PhD,Engineering,2,98366,6398,557,Second
-Manager,Male,59,4,College,Engineering,2,127013,6124,558,Second
-Software Engineer,Male,53,3,High School,Management,3,106146,6618,559,Second
-Manager,Male,22,2,Masters,Operations,4,90736,6219,560,Second
-Graphic Designer,Male,44,3,PhD,Sales,1,66611,5924,561,Second
-Manager,Male,57,3,PhD,Operations,5,150914,5982,562,Second
-Graphic Designer,Male,30,2,Masters,Management,4,70559,6497,563,Second
-Data Scientist,Female,33,3,College,Sales,1,73798,6224,564,Second
-Graphic Designer,Male,22,2,High School,Sales,3,69734,5383,565,Second
-Marketing Associate,Female,52,3,High School,Sales,3,94763,5668,566,Second
-Financial Analyst,Female,23,2,College,Administration,5,101534,6861,567,Second
-Graphic Designer,Male,23,1,PhD,Management,5,91504,5136,568,Second
-Sales Associate,Female,19,1,College,Management,4,90426,5020,569,Second
-Manager,Male,20,2,Masters,Operations,3,100183,6363,570,Second
-IT,Female,62,4,College,Operations,2,99369,6746,571,Second
-Graphic Designer,Female,40,3,College,Operations,1,55845,6616,572,Second
-Financial Analyst,Female,26,3,College,Administration,2,48570,6604,573,Second
-Data Scientist,Male,56,3,Masters,Engineering,3,98165,5470,574,Second
-Data Scientist,Female,57,3,Masters,Operations,3,113274,6186,575,Second
-Software Engineer,Male,23,2,Masters,Engineering,3,95754,6596,576,Second
-Data Scientist,Male,27,2,College,Engineering,1,57915,4584,577,Second
-Manager,Male,53,4,College,Sales,2,121506,6122,578,Second
-Manager,Male,37,3,Masters,Management,1,121151,5934,579,Second
-Marketing Associate,Female,46,3,College,Management,3,86241,5814,580,Second
-Data Scientist,Male,40,2,Masters,Management,2,87682,4152,581,Second
-Software Engineer,Male,42,2,College,Administration,3,114029,6842,582,Second
-IT,Male,43,3,College,Management,1,67323,4680,583,Second
-Data Scientist,Male,28,3,High School,Management,2,68049,6660,584,Second
-IT,Male,39,3,High School,Engineering,4,93335,5243,585,Second
-Driver,Female,55,3,PhD,Operations,2,100433,5090,586,Second
-Marketing Associate,Female,62,3,PhD,Operations,5,123242,5453,587,Second
-Sales Associate,Female,32,2,PhD,Administration,2,87585,6476,588,Second
-IT,Female,18,2,Masters,Sales,1,45747,4890,589,Second
-Marketing Associate,Female,41,3,High School,Administration,2,36972,7058,590,Second
-Sales Associate,Female,29,3,High School,Management,3,64754,7377,591,Second
-IT,Female,44,2,PhD,Operations,5,132267,5679,592,Second
-Driver,Male,53,3,PhD,Administration,3,111043,5838,593,Second
-Warehouse Associate,Male,25,2,Masters,Engineering,1,58130,6327,594,Second
-IT,Male,27,3,PhD,Operations,3,90542,7554,595,Second
-Manager,Male,40,2,College,Administration,2,124891,5436,596,Second
-Marketing Associate,Female,54,3,PhD,Engineering,5,112507,7460,597,Second
-Marketing Associate,Female,64,4,College,Sales,5,100316,6010,598,Second
-Software Engineer,Male,63,3,PhD,Engineering,2,134757,5944,599,Second
-Manager,Male,42,3,College,Sales,4,125339,6019,600,Second
-IT,Female,62,4,College,Management,3,111120,6536,601,Second
-Data Scientist,Female,36,3,High School,Operations,3,76523,7122,602,Second
-Driver,Female,50,3,College,Operations,2,91160,5863,603,Second
-Manager,Male,28,3,College,Sales,2,105795,6179,604,Second
-Financial Analyst,Female,18,2,High School,Operations,2,66935,6508,605,Second
-Sales Associate,Male,19,1,PhD,Management,3,75238,5308,606,Second
-Data Scientist,Female,55,2,Masters,Sales,5,138365,5359,607,Second
-Software Engineer,Male,42,2,College,Management,1,103978,5146,608,Second
-IT,Male,65,4,Masters,Sales,5,165229,6506,609,Second
-Warehouse Associate,Male,54,2,Masters,Engineering,4,118322,5224,610,Second
-Graphic Designer,Male,39,2,Masters,Operations,5,106883,5831,611,Second
-Marketing Associate,Female,45,2,High School,Management,2,59006,5876,612,Second
-Manager,Male,30,1,PhD,Engineering,4,125164,5888,613,Second
-Software Engineer,Male,53,4,High School,Operations,1,89225,5751,614,Second
-Driver,Male,63,4,High School,Sales,2,101716,5881,615,Second
-Marketing Associate,Female,45,3,Masters,Sales,3,74305,7126,616,Second
-Marketing Associate,Female,30,3,Masters,Administration,1,38451,5562,617,Second
-Graphic Designer,Female,48,1,High School,Operations,5,113465,3846,618,Second
-Sales Associate,Female,27,2,College,Operations,2,66377,5803,619,Second
-Financial Analyst,Male,31,3,PhD,Engineering,1,79142,5445,620,Second
-Graphic Designer,Female,20,1,Masters,Operations,4,55569,5236,621,Second
-Graphic Designer,Male,60,4,Masters,Engineering,1,97240,5412,622,Second
-Manager,Female,25,1,Masters,Management,5,119033,6381,623,Second
-Marketing Associate,Female,65,3,Masters,Administration,5,106315,5618,624,Second
-Driver,Male,24,2,College,Engineering,3,81301,5713,625,Second
-Software Engineer,Male,23,1,PhD,Management,2,79462,4673,626,Second
-IT,Female,28,1,PhD,Sales,5,105598,5380,627,Second
-Data Scientist,Male,30,2,College,Operations,3,72497,6452,628,Second
-Financial Analyst,Female,23,1,High School,Management,4,78084,5598,629,Second
-Graphic Designer,Male,50,3,Masters,Management,1,84803,5406,630,Second
-Graphic Designer,Female,18,2,College,Administration,1,41603,6092,631,Second
-Driver,Female,47,2,Masters,Operations,2,78002,5175,632,Second
-Warehouse Associate,Male,56,3,Masters,Administration,2,79274,4618,633,Second
-IT,Male,20,2,PhD,Management,1,49622,5452,634,Second
-Sales Associate,Male,62,3,College,Management,3,129620,5608,635,Second
-Software Engineer,Male,36,2,High School,Administration,4,87848,5166,636,Second
-Driver,Male,24,2,College,Management,3,51906,6274,637,Second
-Sales Associate,Female,44,2,High School,Engineering,3,81866,5183,638,Second
-Financial Analyst,Male,24,2,PhD,Engineering,3,71590,5845,639,Second
-Warehouse Associate,Male,19,2,High School,Sales,2,63928,4998,640,Second
-Driver,Male,44,4,High School,Administration,4,83333,7113,641,Second
-Marketing Associate,Male,49,3,High School,Administration,4,92797,5405,642,Second
-Financial Analyst,Male,36,3,PhD,Operations,1,93067,5103,643,Second
-Graphic Designer,Male,22,2,High School,Sales,3,72422,5697,644,Second
-Driver,Male,59,3,College,Operations,3,120159,4265,645,Second
-Data Scientist,Female,39,3,Masters,Operations,3,91711,6775,646,Second
-Marketing Associate,Female,50,3,Masters,Sales,5,93805,6044,647,Second
-Marketing Associate,Female,58,3,Masters,Operations,5,109931,5878,648,Second
-Marketing Associate,Female,42,2,College,Administration,5,88365,4668,649,Second
-Financial Analyst,Male,58,4,Masters,Operations,3,104744,6425,650,Second
-Warehouse Associate,Female,44,3,High School,Administration,1,79334,6505,651,Second
-Driver,Male,41,2,Masters,Administration,4,95795,4898,652,Second
-Financial Analyst,Female,58,3,PhD,Engineering,1,98512,4548,653,Second
-Data Scientist,Female,33,2,High School,Operations,4,78910,5927,654,Second
-Manager,Male,22,1,College,Management,2,103156,6277,655,Second
-Driver,Male,35,2,High School,Administration,5,92760,4826,656,Second
-Warehouse Associate,Female,42,1,PhD,Operations,5,125574,5688,657,Second
-Data Scientist,Male,62,4,College,Operations,3,93742,6580,658,Second
-Sales Associate,Male,50,2,Masters,Engineering,5,124470,5454,659,Second
-Software Engineer,Male,51,2,Masters,Engineering,3,132323,4872,660,Second
-Sales Associate,Male,22,1,High School,Sales,4,70595,5234,661,Second
-Software Engineer,Male,32,2,College,Operations,1,71278,4701,662,Second
-Data Scientist,Male,33,2,High School,Engineering,2,53855,4980,663,Second
-IT,Male,35,1,College,Management,4,98423,3879,664,Second
-Software Engineer,Male,47,2,Masters,Operations,4,126239,5396,665,Second
-Sales Associate,Male,53,2,Masters,Management,5,101133,4700,666,Second
-Warehouse Associate,Male,23,1,High School,Administration,4,92516,5866,667,Second
-Data Scientist,Male,49,3,College,Administration,3,93320,7236,668,Second
-Warehouse Associate,Female,45,1,High School,Administration,5,106963,5084,669,Second
-IT,Female,26,1,PhD,Sales,5,111770,5345,670,Second
-IT,Male,33,2,Masters,Engineering,5,106584,5426,671,Second
-Marketing Associate,Female,26,2,High School,Operations,3,57672,6476,672,Second
-Warehouse Associate,Male,50,3,Masters,Administration,1,90612,5913,673,Second
-Graphic Designer,Female,35,2,High School,Engineering,5,97768,7233,674,Second
-Financial Analyst,Male,31,2,PhD,Administration,3,82790,5826,675,Second
-Graphic Designer,Female,50,3,Masters,Administration,1,76103,5173,676,Second
-Financial Analyst,Male,38,3,Masters,Administration,1,84628,5680,677,Second
-Warehouse Associate,Female,59,2,College,Management,2,93441,5499,678,Second
-Marketing Associate,Male,42,2,Masters,Management,5,110636,5239,679,Second
-Data Scientist,Female,55,3,PhD,Administration,1,108366,5108,680,Second
-Manager,Male,38,2,Masters,Management,3,135106,5066,681,Second
-Warehouse Associate,Female,55,2,PhD,Administration,3,85453,5135,682,Second
-Graphic Designer,Male,54,3,High School,Management,3,100160,5562,683,Second
-Data Scientist,Female,48,2,College,Administration,3,79765,5329,684,Second
-Manager,Male,48,2,PhD,Engineering,4,157169,5798,685,Second
-Financial Analyst,Female,63,3,PhD,Engineering,3,129683,5754,686,Second
-Financial Analyst,Female,20,1,College,Management,2,76908,4756,687,Second
-Financial Analyst,Female,53,3,High School,Management,1,93696,5029,688,Second
-Driver,Male,40,3,High School,Sales,2,88230,5512,689,Second
-Sales Associate,Female,46,2,Masters,Management,2,83095,5284,690,Second
-IT,Female,26,2,College,Sales,3,81325,5647,691,Second
-Warehouse Associate,Female,62,2,PhD,Engineering,2,102106,5195,692,Second
-Graphic Designer,Female,43,1,PhD,Engineering,1,80635,4322,693,Second
-Marketing Associate,Female,32,2,College,Sales,3,73404,5038,694,Second
-Data Scientist,Male,44,3,High School,Sales,1,83674,4854,695,Second
-IT,Male,62,3,Masters,Engineering,4,118314,4892,696,Second
-Graphic Designer,Female,57,2,Masters,Sales,5,133741,4925,697,Second
-Software Engineer,Male,50,3,PhD,Sales,1,119522,4650,698,Second
-Sales Associate,Male,40,2,High School,Administration,3,84592,4635,699,Second
-Sales Associate,Male,64,3,PhD,Sales,2,121589,5133,700,Second
-Manager,Female,28,1,High School,Engineering,4,104329,4962,701,Second
-Warehouse Associate,Male,24,1,College,Engineering,3,71371,5220,702,Second
-Data Scientist,Male,59,4,Masters,Sales,1,96582,6350,703,Second
-Data Scientist,Male,62,3,PhD,Sales,3,108778,4357,704,Second
-Driver,Male,63,3,PhD,Management,4,128520,6151,705,Second
-Sales Associate,Female,34,1,High School,Management,5,102745,6303,706,Second
-Manager,Female,62,4,Masters,Administration,3,146008,6235,707,Second
-Marketing Associate,Female,44,2,PhD,Management,2,68364,4076,708,Second
-Driver,Male,31,2,High School,Administration,4,62753,5735,709,Second
-Data Scientist,Female,27,1,High School,Administration,5,96584,5293,710,Second
-Software Engineer,Male,32,1,College,Engineering,5,128680,4677,711,Second
-Manager,Male,55,2,College,Management,5,152710,6107,712,Second
-Software Engineer,Male,36,1,High School,Operations,5,109136,4572,713,Second
-Data Scientist,Female,53,2,PhD,Operations,2,102265,4760,714,Second
-Marketing Associate,Female,33,1,High School,Management,5,81249,4845,715,Second
-IT,Female,56,3,Masters,Management,2,101791,6083,716,Second
-Marketing Associate,Female,62,4,College,Sales,1,77584,4524,717,Second
-Driver,Female,36,1,Masters,Administration,3,88175,5004,718,Second
-Data Scientist,Female,21,1,PhD,Engineering,2,65816,6817,719,Second
-IT,Male,33,2,Masters,Sales,1,84878,5009,720,Second
-Marketing Associate,Female,28,1,Masters,Engineering,5,73685,4439,721,Second
-IT,Female,27,1,Masters,Administration,2,55560,4449,722,Second
-Software Engineer,Male,36,2,Masters,Administration,2,94745,5930,723,Second
-Data Scientist,Female,43,2,PhD,Sales,3,106452,5346,724,Second
-Sales Associate,Male,46,2,College,Management,2,95505,4549,725,Second
-Software Engineer,Male,25,1,High School,Engineering,4,103181,4566,726,Second
-Software Engineer,Male,40,2,Masters,Sales,1,120096,4690,727,Second
-Warehouse Associate,Female,47,2,College,Administration,2,87575,4422,728,Second
-Sales Associate,Male,51,3,High School,Management,2,98499,6274,729,Second
-Driver,Female,60,2,PhD,Sales,3,113140,4079,730,Second
-Manager,Male,56,2,PhD,Administration,4,152081,4621,731,Second
-Data Scientist,Female,40,1,Masters,Management,5,100505,4626,732,Second
-IT,Female,60,3,Masters,Management,2,104589,4536,733,Second
-Manager,Male,36,2,Masters,Sales,3,134450,5214,734,Second
-IT,Female,48,3,High School,Management,1,61081,6337,735,Second
-Manager,Male,37,2,PhD,Operations,1,100819,5390,736,Second
-Software Engineer,Male,64,2,PhD,Sales,5,157277,4844,737,Second
-Marketing Associate,Female,51,2,High School,Management,2,79237,4453,738,Second
-Driver,Male,20,2,High School,Sales,2,68175,5698,739,Second
-Driver,Female,61,2,College,Management,4,108475,4489,740,Second
-Software Engineer,Male,65,3,High School,Sales,2,122624,4165,741,Second
-Graphic Designer,Female,34,1,College,Management,4,99942,5352,742,Second
-Data Scientist,Female,58,2,PhD,Engineering,2,108296,4708,743,Second
-Graphic Designer,Male,45,2,Masters,Management,2,101273,3817,744,Second
-Sales Associate,Male,18,1,Masters,Administration,3,59334,5729,745,Second
-Manager,Male,43,1,PhD,Management,4,152625,4702,746,Second
-IT,Female,62,3,College,Sales,4,126370,6032,747,Second
-Financial Analyst,Female,45,2,Masters,Administration,5,122142,5435,748,Second
-Driver,Female,19,1,High School,Operations,4,75919,5613,749,Second
-Data Scientist,Male,26,1,Masters,Operations,3,90526,4191,750,Second
-IT,Female,47,2,PhD,Administration,3,103416,5536,751,Second
-Manager,Male,59,3,College,Engineering,3,133910,5795,752,Second
-Driver,Female,63,3,High School,Sales,1,104468,4466,753,Second
-Sales Associate,Female,57,2,High School,Management,4,117202,5068,754,Second
-Data Scientist,Female,51,1,PhD,Sales,5,139141,4969,755,Second
-Warehouse Associate,Female,58,1,Masters,Management,4,134109,4184,756,Second
-Sales Associate,Female,24,1,High School,Administration,2,66887,5014,757,Second
-Data Scientist,Male,41,1,College,Operations,5,77839,4458,758,Second
-Driver,Male,21,1,High School,Sales,2,61018,5513,759,Second
-IT,Female,58,2,High School,Sales,4,124847,3100,760,Second
-Financial Analyst,Female,33,2,PhD,Administration,1,50758,5386,761,Second
-Graphic Designer,Female,34,1,PhD,Operations,3,75316,5861,762,Second
-Driver,Male,54,3,PhD,Sales,2,118093,4115,763,Second
-Software Engineer,Male,31,1,College,Operations,4,106503,5225,764,Second
-Graphic Designer,Female,55,2,College,Administration,3,111502,4413,765,Second
-Sales Associate,Female,47,1,PhD,Engineering,4,116642,4621,766,Second
-Financial Analyst,Male,55,3,College,Operations,1,84683,4476,767,Second
-IT,Female,45,2,PhD,Sales,4,113283,5404,768,Second
-Marketing Associate,Female,48,2,High School,Administration,4,86538,4212,769,Second
-Marketing Associate,Female,62,3,Masters,Engineering,2,77742,5430,770,Second
-Software Engineer,Male,22,1,College,Sales,1,67913,4045,771,Second
-Financial Analyst,Female,54,2,College,Sales,2,114171,3768,772,Second
-Manager,Male,47,1,Masters,Engineering,4,155826,4964,773,Second
-Graphic Designer,Female,63,2,College,Operations,4,106204,4534,774,Second
-Graphic Designer,Female,38,1,High School,Administration,4,111041,3727,775,Second
-Software Engineer,Male,62,2,PhD,Engineering,3,138184,4664,776,Second
-Financial Analyst,Female,63,3,College,Sales,2,95795,5723,777,Second
-Sales Associate,Male,60,3,High School,Administration,3,106798,5201,778,Second
-Marketing Associate,Female,65,3,High School,Engineering,3,98575,5410,779,Second
-Warehouse Associate,Male,37,2,Masters,Administration,1,82343,5232,780,Second
-Software Engineer,Female,57,1,College,Engineering,3,117131,2324,781,Second
-Sales Associate,Male,26,2,High School,Sales,2,78625,4073,782,Second
-Financial Analyst,Male,27,2,PhD,Administration,4,99134,6255,783,Second
-Marketing Associate,Female,20,2,College,Administration,2,38613,6079,784,Second
-Marketing Associate,Female,26,2,College,Operations,1,62866,5114,785,Second
-Graphic Designer,Male,44,1,Masters,Engineering,5,107818,5281,786,Second
-Graphic Designer,Female,47,1,High School,Operations,5,108731,4793,787,Second
-Manager,Male,21,1,College,Management,2,114621,3927,788,Second
-Marketing Associate,Female,23,1,High School,Sales,2,47739,4829,789,Second
-Data Scientist,Male,45,1,Masters,Operations,3,104290,3474,790,Second
-Financial Analyst,Male,65,4,Masters,Sales,1,111403,5078,791,Second
-IT,Male,52,2,College,Administration,5,93802,5404,792,Second
-Manager,Male,30,1,High School,Sales,5,138163,3415,793,Second
-Financial Analyst,Male,50,2,Masters,Operations,3,115613,3881,794,Second
-Sales Associate,Female,18,1,Masters,Engineering,1,64920,4967,795,Second
-Software Engineer,Female,36,1,PhD,Management,1,79177,3661,796,Second
-Warehouse Associate,Male,25,1,College,Operations,1,64994,4310,797,Second
-Driver,Male,53,3,PhD,Sales,2,100941,5992,798,Second
-Manager,Male,55,1,High School,Management,5,163208,4095,799,Second
-Sales Associate,Male,24,1,PhD,Operations,2,51837,4472,800,Second
-Graphic Designer,Male,56,2,Masters,Management,4,114048,5097,801,Second
-Manager,Female,59,2,High School,Management,2,136215,3603,802,Second
-Marketing Associate,Female,55,3,High School,Administration,1,63327,4066,803,Second
-Software Engineer,Male,64,2,PhD,Engineering,4,139068,4126,804,Second
-Sales Associate,Male,63,2,Masters,Engineering,3,136209,3910,805,Second
-Software Engineer,Male,55,2,PhD,Management,3,121910,4494,806,Second
-Graphic Designer,Male,43,2,PhD,Management,2,82057,5268,807,Second
-Sales Associate,Male,51,2,High School,Engineering,1,96023,4148,808,Second
-Marketing Associate,Female,31,1,High School,Sales,3,52578,5538,809,Second
-Driver,Female,61,2,College,Administration,4,114436,4249,810,Second
-Marketing Associate,Female,56,2,Masters,Sales,4,99543,4442,811,Second
-Sales Associate,Female,41,2,College,Sales,1,60983,5022,812,Second
-Software Engineer,Male,49,3,Masters,Administration,1,82277,5460,813,Second
-Marketing Associate,Female,23,1,College,Sales,2,55885,3795,814,Second
-Graphic Designer,Male,29,1,Masters,Operations,3,73142,4712,815,Second
-Graphic Designer,Male,53,2,High School,Operations,4,107065,3652,816,Second
-Driver,Female,61,2,PhD,Engineering,2,107064,4202,817,Second
-Marketing Associate,Female,56,2,High School,Operations,5,107370,4916,818,Second
-Marketing Associate,Female,25,1,High School,Sales,1,39741,4981,819,Second
-Sales Associate,Male,64,2,High School,Management,3,120579,4687,820,Second
-Driver,Female,55,2,High School,Engineering,3,103242,4495,821,Second
-Driver,Female,42,1,Masters,Sales,5,120112,5070,822,Second
-Sales Associate,Female,61,2,High School,Sales,2,83308,3653,823,Second
-Marketing Associate,Female,26,1,High School,Management,1,36585,4373,824,Second
-Graphic Designer,Female,59,2,College,Engineering,4,115344,4827,825,Second
-Sales Associate,Male,36,2,High School,Management,1,49553,5784,826,Second
-IT,Female,54,2,Masters,Administration,3,96982,4750,827,Second
-Financial Analyst,Female,24,1,High School,Management,4,80030,5481,828,Second
-Driver,Male,58,2,College,Sales,4,110157,4275,829,Second
-Financial Analyst,Female,32,1,High School,Administration,4,84047,4683,830,Second
-Marketing Associate,Male,47,2,PhD,Sales,3,93054,4243,831,Second
-Data Scientist,Female,53,2,Masters,Engineering,2,84764,4409,832,Second
-Warehouse Associate,Female,61,1,Masters,Management,3,120277,4617,833,Second
-Marketing Associate,Female,56,2,High School,Sales,3,81661,4965,834,Second
-Manager,Female,45,1,High School,Engineering,5,149893,5120,835,Second
-Software Engineer,Male,45,2,High School,Management,1,81515,5001,836,Second
-Driver,Male,55,2,Masters,Operations,3,95898,4309,837,Second
-Warehouse Associate,Male,42,2,PhD,Operations,3,90000,4774,838,Second
-Manager,Male,60,3,High School,Management,2,111896,5597,839,Second
-Driver,Male,53,1,Masters,Engineering,5,130082,4734,840,Second
-Sales Associate,Female,60,2,PhD,Engineering,5,130417,4694,841,Second
-Marketing Associate,Female,34,1,College,Engineering,2,38855,4503,842,Second
-Software Engineer,Male,25,1,High School,Administration,4,81057,5259,843,Second
-Data Scientist,Male,41,1,High School,Management,5,117215,4322,844,Second
-Graphic Designer,Female,49,1,High School,Administration,4,96232,3697,845,Second
-Financial Analyst,Male,64,1,PhD,Operations,5,141186,3415,846,Second
-Manager,Male,52,2,High School,Operations,2,114943,3438,847,Second
-Data Scientist,Male,43,1,PhD,Administration,4,107640,3896,848,Second
-Manager,Male,31,2,College,Operations,1,80259,4791,849,Second
-Marketing Associate,Female,48,1,College,Operations,5,86563,4415,850,Second
-Data Scientist,Male,20,1,High School,Operations,2,61589,3990,851,Second
-Warehouse Associate,Male,35,1,High School,Administration,2,74829,4263,852,Second
-Graphic Designer,Female,44,1,Masters,Administration,2,72248,3634,853,Second
-Sales Associate,Male,49,2,High School,Operations,3,91342,4516,854,Second
-Sales Associate,Male,49,2,Masters,Operations,2,101140,4851,855,Second
-Marketing Associate,Male,51,2,PhD,Sales,1,62600,4300,856,Second
-Software Engineer,Male,21,1,High School,Engineering,2,65313,4685,857,Second
-Manager,Male,41,1,College,Administration,5,123153,4111,858,Second
-IT,Male,27,1,High School,Management,3,57500,3665,859,Second
-Manager,Male,37,1,PhD,Administration,3,115604,4098,860,Second
-Software Engineer,Male,18,1,High School,Sales,1,55555,4390,861,Second
-Data Scientist,Male,58,1,PhD,Engineering,5,124166,3875,862,Second
-IT,Male,50,2,Masters,Management,3,101050,3879,863,Second
-Data Scientist,Female,56,1,College,Engineering,5,125828,3961,864,Second
-Graphic Designer,Female,45,1,High School,Management,3,75017,5576,865,Second
-Marketing Associate,Female,40,1,Masters,Engineering,4,100415,3871,866,Second
-Manager,Female,57,1,Masters,Operations,3,145095,3889,867,Second
-Data Scientist,Female,63,2,High School,Administration,5,115641,4339,868,Second
-Software Engineer,Male,59,1,College,Sales,5,160460,2930,869,Second
-Financial Analyst,Male,45,2,High School,Administration,2,85947,3909,870,Second
-Financial Analyst,Female,48,1,College,Engineering,5,119058,4037,871,Second
-Warehouse Associate,Female,56,1,College,Administration,4,106722,4044,872,Second
-Financial Analyst,Female,41,2,PhD,Operations,3,91129,4825,873,Second
-Graphic Designer,Male,59,1,PhD,Sales,4,135512,3955,874,Second
-Financial Analyst,Female,49,2,College,Operations,1,92891,3578,875,Second
-Financial Analyst,Male,64,3,High School,Administration,3,124151,3392,876,Second
-Data Scientist,Female,58,1,High School,Sales,5,141005,3384,877,Second
-Manager,Male,36,1,High School,Operations,2,115742,3661,878,Second
-IT,Male,31,1,Masters,Sales,2,93358,3223,879,Second
-IT,Female,44,1,High School,Sales,5,131411,3084,880,Second
-Sales Associate,Female,61,2,College,Sales,1,96900,4157,881,Second
-IT,Male,59,3,Masters,Sales,2,98995,4596,882,Second
-IT,Male,57,3,High School,Sales,3,109645,5472,883,Second
-Financial Analyst,Male,39,2,College,Sales,1,61609,3738,884,Second
-Marketing Associate,Female,56,2,High School,Engineering,3,88820,4289,885,Second
-Data Scientist,Male,61,1,Masters,Administration,5,122352,3590,886,Second
-Marketing Associate,Female,53,1,Masters,Management,4,112489,4237,887,Second
-Software Engineer,Male,29,1,High School,Sales,1,86650,3518,888,Second
-Data Scientist,Male,62,3,High School,Operations,2,101284,4993,889,Second
-Manager,Male,41,1,Masters,Sales,2,119794,3712,890,Second
-Graphic Designer,Male,58,2,Masters,Operations,1,96609,3044,891,Second
-Marketing Associate,Female,38,1,PhD,Engineering,1,53839,3270,892,Second
-Financial Analyst,Male,29,1,Masters,Operations,2,84725,3274,893,Second
-IT,Female,57,2,High School,Administration,1,64807,3887,894,Second
-IT,Female,28,1,High School,Management,1,41151,4296,895,Second
-Financial Analyst,Female,48,1,College,Administration,4,114031,4510,896,Second
-Driver,Male,33,1,High School,Management,1,59493,3955,897,Second
-Manager,Female,42,1,High School,Management,2,119893,3721,898,Second
-Manager,Male,60,2,College,Sales,1,131980,3841,899,Second
-Sales Associate,Female,52,1,High School,Sales,3,94154,3964,900,Second
-Marketing Associate,Female,60,1,College,Management,4,114906,4766,901,Second
-Driver,Female,63,1,Masters,Management,4,115981,2661,902,Second
-Data Scientist,Male,37,1,PhD,Administration,2,78836,3588,903,Second
-Driver,Male,64,2,Masters,Operations,2,112719,3382,904,Second
-Marketing Associate,Female,59,1,Masters,Sales,3,93018,2730,905,Second
-Marketing Associate,Female,55,2,College,Sales,2,69928,4811,906,Second
-Software Engineer,Female,57,2,High School,Engineering,1,104623,3791,907,Second
-Driver,Male,55,2,College,Administration,2,103328,4543,908,Second
-Financial Analyst,Male,47,2,High School,Management,1,68643,4674,909,Second
-Graphic Designer,Female,33,1,High School,Sales,1,63914,3521,910,Second
-Sales Associate,Male,45,2,High School,Engineering,1,67296,4780,911,Second
-Graphic Designer,Female,44,1,College,Sales,3,90474,3530,912,Second
-Driver,Female,22,1,High School,Administration,1,60026,4605,913,Second
-Marketing Associate,Female,41,1,PhD,Management,5,108587,4275,914,Second
-Financial Analyst,Female,61,1,Masters,Engineering,4,139042,2982,915,Second
-Driver,Male,65,1,High School,Operations,5,116803,3431,916,Second
-Sales Associate,Female,57,1,Masters,Operations,3,101423,3641,917,Second
-Software Engineer,Male,36,1,Masters,Operations,1,86375,3368,918,Second
-IT,Male,31,1,College,Operations,1,49449,4149,919,Second
-Marketing Associate,Female,56,2,High School,Sales,3,95995,4045,920,Second
-Software Engineer,Male,51,1,College,Management,2,118282,3599,921,Second
-IT,Female,47,1,PhD,Operations,3,99472,3943,922,Second
-Manager,Female,55,1,High School,Administration,3,135638,2824,923,Second
-IT,Male,50,1,College,Operations,3,85648,2728,924,Second
-Data Scientist,Female,58,1,PhD,Management,4,121457,4723,925,Second
-Data Scientist,Female,57,1,PhD,Operations,2,114141,3746,926,Second
-Manager,Male,58,1,PhD,Management,4,179726,4284,927,Second
-Marketing Associate,Female,64,1,College,Administration,5,107572,3107,928,Second
-Sales Associate,Female,65,2,PhD,Sales,5,142505,4214,929,Second
-Financial Analyst,Male,43,1,PhD,Sales,4,108719,4143,930,Second
-IT,Male,36,1,High School,Sales,4,109832,3528,931,Second
-Software Engineer,Male,60,1,PhD,Administration,4,127250,4263,932,Second
-Sales Associate,Female,50,1,Masters,Sales,3,106279,3892,933,Second
-Software Engineer,Male,37,1,High School,Sales,1,81547,3510,934,Second
-Data Scientist,Male,56,1,Masters,Administration,2,95798,2530,935,Second
-Manager,Female,47,1,High School,Management,3,106916,3959,936,Second
-Manager,Male,59,2,PhD,Administration,1,124782,4618,937,Second
-Warehouse Associate,Male,53,1,College,Operations,4,126256,3463,938,Second
-IT,Female,59,1,PhD,Engineering,3,92257,3908,939,Second
-Software Engineer,Male,62,1,High School,Sales,3,124660,2200,940,Second
-IT,Female,32,2,High School,Engineering,1,59377,5236,941,Second
-Marketing Associate,Female,38,1,PhD,Engineering,2,76726,4204,942,Second
-IT,Female,54,1,High School,Engineering,5,112502,3988,943,Second
-Data Scientist,Male,65,2,Masters,Sales,2,128730,3247,944,Second
-Manager,Male,61,2,College,Sales,1,136836,4070,945,Second
-IT,Male,51,1,High School,Engineering,3,89272,2600,946,Second
-Financial Analyst,Female,62,1,High School,Operations,3,101515,2251,947,Second
-Software Engineer,Male,36,1,Masters,Operations,1,93855,4099,948,Second
-Graphic Designer,Male,30,1,College,Operations,2,36642,4388,949,Second
-Sales Associate,Male,60,1,College,Operations,3,112604,3366,950,Second
-Financial Analyst,Female,49,1,PhD,Engineering,1,67089,3078,951,Second
-Driver,Female,51,1,PhD,Management,2,97789,3536,952,Second
-Data Scientist,Male,62,1,PhD,Administration,3,123333,3353,953,Second
-IT,Male,62,1,PhD,Management,2,105771,2978,954,Second
-Marketing Associate,Female,46,1,College,Administration,1,54945,2991,955,Second
-Data Scientist,Female,65,1,PhD,Operations,2,121239,3078,956,Second
-Data Scientist,Female,64,2,High School,Sales,1,87314,3688,957,Second
-Driver,Female,65,1,PhD,Operations,3,124530,3647,958,Second
-Driver,Female,45,1,College,Sales,2,67150,3255,959,Second
-Financial Analyst,Male,39,1,College,Engineering,4,99643,3789,960,Second
-Sales Associate,Male,54,1,College,Administration,3,92468,3242,961,Second
-Financial Analyst,Female,47,1,College,Operations,2,63300,3655,962,Second
-IT,Male,55,2,Masters,Operations,1,91447,3196,963,Second
-Marketing Associate,Female,58,2,High School,Operations,1,60271,3927,964,Second
-Warehouse Associate,Male,34,1,Masters,Operations,1,45915,4765,965,Second
-Marketing Associate,Female,53,1,Masters,Operations,1,66028,3745,966,Second
-Sales Associate,Male,57,1,PhD,Administration,5,113031,3409,967,Second
-Software Engineer,Male,62,1,High School,Sales,3,132815,3367,968,Second
-Manager,Male,52,1,High School,Management,1,110078,1703,969,Second
-Data Scientist,Male,57,1,Masters,Sales,3,106918,3180,970,Second
-Software Engineer,Male,60,1,High School,Administration,3,106045,3079,971,Second
-Warehouse Associate,Male,65,1,High School,Operations,2,107479,2051,972,Second
-Software Engineer,Male,64,1,Masters,Sales,1,109606,2193,973,Second
-Marketing Associate,Female,44,1,High School,Engineering,3,91300,3680,974,Second
-Sales Associate,Male,56,1,High School,Management,1,88195,2375,975,Second
-Financial Analyst,Female,54,1,Masters,Operations,2,90999,2963,976,Second
-Sales Associate,Female,58,1,College,Operations,3,86795,3453,977,Second
-IT,Female,59,1,College,Sales,3,110627,2041,978,Second
-Marketing Associate,Female,52,1,PhD,Sales,3,97696,3888,979,Second
-IT,Male,64,1,Masters,Sales,1,92950,2125,980,Second
-Sales Associate,Male,56,1,High School,Operations,1,82164,2611,981,Second
-Software Engineer,Male,62,1,High School,Management,3,119069,2788,982,Second
-Marketing Associate,Female,59,1,College,Engineering,1,62738,2656,983,Second
-IT,Female,53,1,High School,Administration,2,112169,2763,984,Second
-Manager,Male,55,1,High School,Administration,1,120574,2683,985,Second
-Data Scientist,Male,54,1,College,Sales,2,97311,3083,986,Second
-Marketing Associate,Female,59,1,High School,Operations,3,98796,3042,987,Second
-Sales Associate,Male,62,1,Masters,Administration,2,102593,1823,988,Second
-Financial Analyst,Female,65,1,High School,Administration,2,96665,2645,989,Second
-Graphic Designer,Female,61,1,Masters,Engineering,1,91030,3318,990,Second
-IT,Female,65,1,Masters,Administration,1,106945,2041,991,Second
-Graphic Designer,Female,63,1,College,Administration,2,81545,3418,992,Second
-Marketing Associate,Female,65,1,Masters,Administration,1,80789,1884,993,Second
-Marketing Associate,Female,64,1,PhD,Administration,2,85253,2777,994,Second
-Marketing Associate,Female,61,1,High School,Administration,1,62644,3270,995,Second
-Data Scientist,Male,57,1,Masters,Sales,2,108977,3567,996,Second
-Financial Analyst,Male,48,1,High School,Operations,1,92347,2724,997,Second
-Financial Analyst,Male,65,2,High School,Administration,1,97376,2225,998,Second
-Financial Analyst,Male,60,1,PhD,Sales,2,123108,2244,999,Second
+jobTitle,gender,age,perfEval,edu,dept,seniority,basePay,bonus,id,Overall,Ethnicity,Correlated Seniority,Correlated Dept,Performance
+Graphic Designer,Female,18,5,College,Operations,2,42363,9938,0,Glassdoor,Asian,8,Operations 1,Excellent
+Software Engineer,Male,21,5,College,Management,5,108476,11128,1,Glassdoor,White,20,Management 2,Excellent
+Warehouse Associate,Female,19,4,PhD,Administration,5,90208,9268,2,Glassdoor,Asian,20,Administration 1,Above Average
+Software Engineer,Male,20,5,Masters,Sales,4,108080,10154,3,Glassdoor,Asian,16,Sales 2,Excellent
+Graphic Designer,Male,26,5,Masters,Engineering,5,99464,9319,4,Glassdoor,White,20,Engineering 1,Excellent
+IT,Female,20,5,PhD,Operations,4,70890,10126,5,Glassdoor,White,16,Operations 1,Excellent
+Graphic Designer,Female,20,5,College,Sales,4,67585,10541,6,Glassdoor,Asian,16,Sales 2,Excellent
+Software Engineer,Male,18,4,PhD,Engineering,5,97523,10240,7,Glassdoor,White,20,Engineering 2,Above Average
+Graphic Designer,Female,33,5,High School,Engineering,5,112976,9836,8,Glassdoor,White,20,Engineering 2,Excellent
+Sales Associate,Female,35,5,College,Engineering,5,106524,9941,9,Glassdoor,White,20,Engineering 1,Excellent
+Graphic Designer,Male,24,5,PhD,Engineering,5,102261,10212,10,Glassdoor,Other,20,Engineering 2,Excellent
+Driver,Female,18,5,College,Management,3,62759,10124,11,Glassdoor,Hispanic,12,Management 1,Excellent
+Financial Analyst,Female,19,5,College,Sales,3,84007,8990,12,Glassdoor,White,12,Sales 1,Excellent
+Warehouse Associate,Female,30,5,Masters,Administration,5,86220,9583,13,Glassdoor,Asian,20,Administration 1,Excellent
+Warehouse Associate,Female,35,5,PhD,Operations,4,95584,9745,14,Glassdoor,Asian,16,Operations 1,Excellent
+Marketing Associate,Female,27,5,PhD,Management,3,73357,10334,15,Glassdoor,White,12,Management 2,Excellent
+Financial Analyst,Female,23,5,PhD,Administration,5,88422,10768,16,Glassdoor,Asian,20,Administration 2,Excellent
+Warehouse Associate,Female,24,5,College,Administration,5,99545,9949,17,Glassdoor,Hispanic,20,Administration 2,Excellent
+Sales Associate,Male,21,5,High School,Engineering,5,90386,9461,18,Glassdoor,Hispanic,20,Engineering 1,Excellent
+Data Scientist,Female,30,5,College,Engineering,5,92067,9838,19,Glassdoor,Hispanic,20,Engineering 1,Excellent
+Warehouse Associate,Male,36,5,PhD,Engineering,5,108446,9210,20,Glassdoor,White,20,Engineering 2,Excellent
+Financial Analyst,Male,24,5,PhD,Sales,3,83323,9329,21,Glassdoor,White,12,Sales 2,Excellent
+Warehouse Associate,Male,24,5,PhD,Sales,3,85205,9792,22,Glassdoor,White,12,Sales 1,Excellent
+Driver,Female,35,5,College,Management,1,72038,9031,23,Glassdoor,White,4,Management 1,Excellent
+Software Engineer,Male,21,4,PhD,Engineering,5,132823,9625,24,Glassdoor,White,20,Engineering 1,Above Average
+Graphic Designer,Female,26,5,College,Engineering,2,71182,10015,25,Glassdoor,Hispanic,8,Engineering 2,Excellent
+Software Engineer,Male,19,5,Masters,Administration,4,100305,9618,26,Glassdoor,Asian,16,Administration 1,Excellent
+Graphic Designer,Male,35,5,PhD,Management,3,88566,9469,27,Glassdoor,White,12,Management 2,Excellent
+Warehouse Associate,Male,34,5,PhD,Engineering,4,104271,10177,28,Glassdoor,Asian,16,Engineering 1,Excellent
+IT,Female,38,5,College,Administration,5,112392,10504,29,Glassdoor,Asian,20,Administration 1,Excellent
+Software Engineer,Male,20,5,Masters,Management,2,66359,10137,30,Glassdoor,Asian,8,Management 1,Excellent
+Sales Associate,Male,35,5,Masters,Management,5,103007,10512,31,Glassdoor,White,20,Management 1,Excellent
+Marketing Associate,Female,26,5,PhD,Operations,4,80306,9233,32,Glassdoor,White,16,Operations 2,Excellent
+Data Scientist,Female,22,5,High School,Engineering,3,74523,9972,33,Glassdoor,Asian,12,Engineering 2,Excellent
+Data Scientist,Female,45,5,PhD,Management,5,113252,10139,34,Glassdoor,Hispanic,20,Management 1,Excellent
+Software Engineer,Male,27,5,PhD,Management,4,96040,10050,35,Glassdoor,White,16,Management 1,Excellent
+Software Engineer,Male,21,5,High School,Management,4,91674,9780,36,Glassdoor,White,16,Management 1,Excellent
+Software Engineer,Male,31,5,High School,Operations,3,92928,9094,37,Glassdoor,White,12,Operations 1,Excellent
+IT,Female,33,5,College,Management,4,84638,9409,38,Glassdoor,Asian,16,Management 2,Excellent
+IT,Male,19,5,College,Administration,4,78986,9023,39,Glassdoor,Hispanic,16,Administration 2,Excellent
+Data Scientist,Male,29,5,PhD,Administration,5,96355,9784,40,Glassdoor,White,20,Administration 1,Excellent
+Data Scientist,Male,32,5,PhD,Management,3,87121,8703,41,Glassdoor,White,12,Management 2,Excellent
+Software Engineer,Male,31,5,PhD,Sales,2,88724,8949,42,Glassdoor,White,8,Sales 2,Excellent
+Warehouse Associate,Male,22,5,Masters,Engineering,2,58219,9868,43,Glassdoor,White,8,Engineering 2,Excellent
+Software Engineer,Male,25,5,Masters,Sales,5,119024,11293,44,Glassdoor,White,20,Sales 1,Excellent
+Software Engineer,Male,22,5,Masters,Management,3,81503,9729,45,Glassdoor,Other,12,Management 1,Excellent
+Data Scientist,Female,21,5,PhD,Operations,3,70643,10033,46,Glassdoor,Asian,12,Operations 1,Excellent
+Graphic Designer,Female,26,5,PhD,Sales,3,74167,10346,47,Glassdoor,White,12,Sales 2,Excellent
+Marketing Associate,Male,21,5,College,Management,5,86886,9424,48,Glassdoor,Hispanic,20,Management 1,Excellent
+IT,Female,22,5,High School,Sales,4,102120,10215,49,Glassdoor,Other,16,Sales 1,Excellent
+Sales Associate,Male,18,4,Masters,Operations,5,90780,9353,50,Glassdoor,Asian,20,Operations 2,Above Average
+Software Engineer,Male,18,4,Masters,Operations,4,89474,9104,51,Glassdoor,White,16,Operations 1,Above Average
+Marketing Associate,Female,35,5,PhD,Engineering,5,97376,9564,52,Glassdoor,White,20,Engineering 2,Excellent
+Data Scientist,Female,33,5,Masters,Sales,2,89415,9654,53,Glassdoor,White,8,Sales 2,Excellent
+Software Engineer,Female,22,4,Masters,Operations,3,88037,8949,54,Glassdoor,Hispanic,12,Operations 2,Above Average
+Data Scientist,Female,24,4,College,Administration,4,71105,8623,55,Glassdoor,White,16,Administration 1,Above Average
+Driver,Female,31,5,High School,Engineering,2,62692,8886,56,Glassdoor,Hispanic,8,Engineering 1,Excellent
+Software Engineer,Male,40,5,PhD,Management,4,112466,9493,57,Glassdoor,Hispanic,16,Management 2,Excellent
+Data Scientist,Female,49,5,College,Operations,3,71193,8331,58,Glassdoor,White,12,Operations 2,Excellent
+Marketing Associate,Female,20,5,Masters,Administration,4,76286,9479,59,Glassdoor,White,16,Administration 2,Excellent
+Financial Analyst,Male,18,5,PhD,Engineering,4,97328,9874,60,Glassdoor,White,16,Engineering 1,Excellent
+Graphic Designer,Male,34,5,Masters,Management,3,86766,9841,61,Glassdoor,White,12,Management 2,Excellent
+Warehouse Associate,Female,41,5,College,Operations,2,82453,9564,62,Glassdoor,White,8,Operations 2,Excellent
+Software Engineer,Male,19,5,PhD,Administration,3,88814,10153,63,Glassdoor,White,12,Administration 2,Excellent
+Driver,Male,31,5,College,Management,4,82832,9958,64,Glassdoor,White,16,Management 2,Excellent
+Sales Associate,Female,33,5,High School,Engineering,3,83034,8841,65,Glassdoor,Hispanic,12,Engineering 2,Excellent
+Warehouse Associate,Female,53,5,College,Engineering,5,127085,9687,66,Glassdoor,White,20,Engineering 2,Excellent
+Sales Associate,Male,24,5,High School,Administration,1,66168,9242,67,Glassdoor,White,4,Administration 2,Excellent
+Data Scientist,Male,18,5,PhD,Administration,4,59212,10209,68,Glassdoor,White,16,Administration 2,Excellent
+Data Scientist,Male,18,5,High School,Operations,2,55189,9405,69,Glassdoor,White,8,Operations 2,Excellent
+Manager,Male,25,5,College,Engineering,5,131311,11067,70,Glassdoor,Asian,20,Engineering 1,Excellent
+Sales Associate,Female,31,5,College,Management,1,52633,9516,71,Glassdoor,Asian,4,Management 2,Excellent
+Warehouse Associate,Female,31,4,PhD,Operations,5,101154,10324,72,Glassdoor,Asian,20,Operations 2,Above Average
+Financial Analyst,Female,42,5,College,Engineering,5,113640,8762,73,Glassdoor,Asian,20,Engineering 1,Excellent
+Data Scientist,Male,22,4,High School,Management,2,50401,8590,74,Glassdoor,White,8,Management 1,Above Average
+Marketing Associate,Female,23,5,PhD,Administration,3,46263,9432,75,Glassdoor,Asian,12,Administration 2,Excellent
+Warehouse Associate,Female,36,4,College,Management,3,74938,8234,76,Glassdoor,White,12,Management 1,Above Average
+Marketing Associate,Female,39,5,College,Sales,5,103384,9168,77,Glassdoor,Other,20,Sales 1,Excellent
+Warehouse Associate,Female,39,5,College,Engineering,2,77584,9798,78,Glassdoor,White,8,Engineering 1,Excellent
+Graphic Designer,Male,23,5,Masters,Management,3,83031,10240,79,Glassdoor,White,12,Management 1,Excellent
+Financial Analyst,Male,29,5,Masters,Engineering,5,111019,10042,80,Glassdoor,Asian,20,Engineering 2,Excellent
+Warehouse Associate,Female,25,3,Masters,Engineering,4,80192,8747,81,Glassdoor,White,16,Engineering 2,Average
+Warehouse Associate,Male,21,5,PhD,Management,1,48755,9931,82,Glassdoor,White,4,Management 2,Excellent
+Warehouse Associate,Male,28,5,High School,Engineering,2,59044,9368,83,Glassdoor,White,8,Engineering 2,Excellent
+Manager,Male,29,4,PhD,Engineering,5,146615,10173,84,Glassdoor,Asian,20,Engineering 1,Above Average
+Data Scientist,Female,32,5,PhD,Engineering,1,46693,8457,85,Glassdoor,White,4,Engineering 2,Excellent
+IT,Female,48,5,PhD,Operations,3,88152,8857,86,Glassdoor,White,12,Operations 1,Excellent
+Data Scientist,Female,38,5,Masters,Administration,5,127156,9979,87,Glassdoor,Hispanic,20,Administration 2,Excellent
+Graphic Designer,Male,31,5,PhD,Engineering,1,69462,8872,88,Glassdoor,White,4,Engineering 2,Excellent
+Manager,Male,19,4,PhD,Sales,5,119162,9395,89,Glassdoor,White,20,Sales 2,Above Average
+Software Engineer,Male,26,5,PhD,Operations,2,68466,8384,90,Glassdoor,Asian,8,Operations 1,Excellent
+Financial Analyst,Female,36,5,Masters,Administration,3,92622,8509,91,Glassdoor,Asian,12,Administration 2,Excellent
+Marketing Associate,Female,34,5,Masters,Engineering,1,51331,9130,92,Glassdoor,Asian,4,Engineering 2,Excellent
+Warehouse Associate,Male,49,5,High School,Sales,4,109419,8375,93,Glassdoor,White,16,Sales 2,Excellent
+Software Engineer,Male,18,5,College,Operations,3,80355,9945,94,Glassdoor,Asian,12,Operations 1,Excellent
+Driver,Female,21,4,Masters,Sales,4,77032,8725,95,Glassdoor,White,16,Sales 1,Above Average
+Financial Analyst,Female,47,5,High School,Sales,5,146190,8961,96,Glassdoor,Hispanic,20,Sales 2,Excellent
+Graphic Designer,Female,22,4,Masters,Administration,4,96045,9129,97,Glassdoor,Asian,16,Administration 2,Above Average
+Software Engineer,Male,29,5,High School,Management,1,82534,8914,98,Glassdoor,White,4,Management 1,Excellent
+IT,Male,55,5,College,Management,5,127769,8802,99,Glassdoor,Hispanic,20,Management 2,Excellent
+Marketing Associate,Female,34,5,High School,Sales,5,96061,9093,100,Glassdoor,Asian,20,Sales 2,Excellent
+Warehouse Associate,Female,48,5,College,Management,5,111342,10122,101,Glassdoor,Hispanic,20,Management 2,Excellent
+Financial Analyst,Female,43,5,PhD,Management,3,117554,8369,102,Glassdoor,White,12,Management 1,Excellent
+Financial Analyst,Female,30,5,High School,Engineering,5,109369,10052,103,Glassdoor,White,20,Engineering 1,Excellent
+Warehouse Associate,Female,25,4,Masters,Operations,4,92358,9611,104,Glassdoor,White,16,Operations 2,Above Average
+Financial Analyst,Female,21,4,Masters,Operations,4,91978,8647,105,Glassdoor,Other,16,Operations 1,Above Average
+Sales Associate,Male,28,5,PhD,Administration,1,52290,9330,106,Glassdoor,White,4,Administration 2,Excellent
+IT,Male,18,5,High School,Engineering,1,47036,9130,107,Glassdoor,Asian,4,Engineering 2,Excellent
+Warehouse Associate,Male,46,5,PhD,Sales,1,76517,8502,108,Glassdoor,Asian,4,Sales 1,Excellent
+Marketing Associate,Female,29,4,Masters,Administration,5,89822,8818,109,Glassdoor,Asian,20,Administration 1,Above Average
+Driver,Male,32,4,PhD,Engineering,4,90368,8215,110,Glassdoor,Asian,16,Engineering 2,Above Average
+Financial Analyst,Male,26,5,College,Engineering,4,106194,9421,111,Glassdoor,White,16,Engineering 2,Excellent
+Warehouse Associate,Female,51,5,High School,Management,3,87684,8645,112,Glassdoor,Asian,12,Management 1,Excellent
+Marketing Associate,Female,40,5,Masters,Administration,3,62040,8056,113,Glassdoor,Asian,12,Administration 2,Excellent
+Sales Associate,Female,52,5,Masters,Engineering,2,84132,7204,114,Glassdoor,White,8,Engineering 2,Excellent
+Financial Analyst,Female,29,4,Masters,Administration,4,88047,8459,115,Glassdoor,Asian,16,Administration 2,Above Average
+Driver,Female,37,5,Masters,Administration,2,65012,8357,116,Glassdoor,White,8,Administration 1,Excellent
+Marketing Associate,Female,23,4,Masters,Engineering,4,59251,8596,117,Glassdoor,White,16,Engineering 1,Above Average
+Graphic Designer,Female,18,4,PhD,Operations,3,78462,8743,118,Glassdoor,White,12,Operations 1,Above Average
+Driver,Male,40,5,College,Management,2,97414,8833,119,Glassdoor,Asian,8,Management 2,Excellent
+Driver,Female,18,4,Masters,Administration,2,42722,8515,120,Glassdoor,Hispanic,8,Administration 1,Above Average
+Marketing Associate,Female,26,4,College,Management,3,63695,8897,121,Glassdoor,Asian,12,Management 2,Above Average
+Data Scientist,Male,51,5,PhD,Operations,4,110731,8643,122,Glassdoor,White,16,Operations 1,Excellent
+Software Engineer,Male,54,5,PhD,Administration,4,125572,8245,123,Glassdoor,White,16,Administration 2,Excellent
+Driver,Male,49,5,Masters,Operations,2,72754,8014,124,Glassdoor,White,8,Operations 2,Excellent
+IT,Female,26,5,College,Administration,2,53956,9454,125,Glassdoor,White,8,Administration 1,Excellent
+Sales Associate,Male,58,5,High School,Engineering,5,135013,8972,126,Glassdoor,Asian,20,Engineering 1,Excellent
+IT,Female,49,5,College,Management,3,108495,8668,127,Glassdoor,Hispanic,12,Management 2,Excellent
+Financial Analyst,Female,27,4,High School,Administration,4,87608,7511,128,Glassdoor,Asian,16,Administration 2,Above Average
+Data Scientist,Male,38,5,College,Administration,5,101173,9255,129,Glassdoor,White,20,Administration 1,Excellent
+IT,Male,53,5,PhD,Management,5,126828,9310,130,Glassdoor,Hispanic,20,Management 1,Excellent
+Financial Analyst,Male,49,5,High School,Engineering,4,102716,8290,131,Glassdoor,White,16,Engineering 2,Excellent
+Marketing Associate,Male,26,4,High School,Engineering,5,77793,8700,132,Glassdoor,White,20,Engineering 2,Above Average
+Marketing Associate,Female,44,5,High School,Sales,1,57469,7539,133,Glassdoor,White,4,Sales 1,Excellent
+Graphic Designer,Male,33,5,Masters,Management,3,83758,8498,134,Glassdoor,Asian,12,Management 1,Excellent
+Graphic Designer,Male,22,5,PhD,Administration,1,40187,8549,135,Glassdoor,White,4,Administration 2,Excellent
+Financial Analyst,Male,41,5,Masters,Engineering,3,98531,6855,136,Glassdoor,Other,12,Engineering 2,Excellent
+Financial Analyst,Male,26,4,College,Operations,4,104435,7802,137,Glassdoor,Hispanic,16,Operations 1,Above Average
+Data Scientist,Male,29,5,High School,Administration,1,67617,9075,138,Glassdoor,Asian,4,Administration 2,Excellent
+Driver,Female,24,4,High School,Administration,5,91049,10375,139,Glassdoor,White,20,Administration 2,Above Average
+Manager,Female,32,5,PhD,Operations,1,98519,8943,140,Glassdoor,White,4,Operations 2,Excellent
+Marketing Associate,Female,36,4,High School,Operations,5,91713,7627,141,Glassdoor,Asian,20,Operations 2,Above Average
+Warehouse Associate,Female,41,4,Masters,Engineering,3,88994,8873,142,Glassdoor,Asian,12,Engineering 2,Above Average
+Financial Analyst,Male,44,5,Masters,Administration,4,119381,9345,143,Glassdoor,Hispanic,16,Administration 2,Excellent
+Financial Analyst,Female,43,5,High School,Sales,5,113180,9089,144,Glassdoor,Other,20,Sales 2,Excellent
+Warehouse Associate,Male,48,5,PhD,Management,2,68639,9553,145,Glassdoor,White,8,Management 1,Excellent
+Software Engineer,Female,28,3,PhD,Engineering,4,103763,8383,146,Glassdoor,Asian,16,Engineering 2,Average
+Software Engineer,Male,40,5,College,Management,1,68295,7902,147,Glassdoor,White,4,Management 2,Excellent
+Manager,Male,21,4,High School,Engineering,3,103107,9036,148,Glassdoor,Asian,12,Engineering 2,Above Average
+Warehouse Associate,Female,19,4,College,Sales,2,64844,9042,149,Glassdoor,White,8,Sales 1,Above Average
+Driver,Female,61,5,PhD,Sales,4,129132,8472,150,Glassdoor,White,16,Sales 2,Excellent
+Warehouse Associate,Female,57,5,High School,Engineering,3,93470,8578,151,Glassdoor,Asian,12,Engineering 1,Excellent
+Data Scientist,Male,28,4,Masters,Administration,5,97625,7985,152,Glassdoor,Asian,20,Administration 1,Above Average
+Graphic Designer,Female,52,5,College,Administration,1,66529,7067,153,Glassdoor,White,4,Administration 1,Excellent
+Data Scientist,Female,48,5,Masters,Management,1,100115,7679,154,Glassdoor,White,4,Management 2,Excellent
+Warehouse Associate,Female,57,5,PhD,Administration,2,86423,8058,155,Glassdoor,White,8,Administration 2,Excellent
+Sales Associate,Male,30,4,Masters,Sales,5,115165,8841,156,Glassdoor,White,20,Sales 2,Above Average
+Data Scientist,Female,53,5,Masters,Engineering,5,133495,8552,157,Glassdoor,White,20,Engineering 1,Excellent
+Marketing Associate,Male,47,5,Masters,Operations,3,86516,8049,158,Glassdoor,Asian,12,Operations 2,Excellent
+IT,Male,18,4,Masters,Administration,4,69855,8347,159,Glassdoor,White,16,Administration 1,Above Average
+Sales Associate,Female,35,4,PhD,Sales,1,84844,7205,160,Glassdoor,Asian,4,Sales 2,Above Average
+Graphic Designer,Female,51,5,College,Operations,3,108241,8602,161,Glassdoor,White,12,Operations 1,Excellent
+Warehouse Associate,Female,51,5,High School,Sales,3,106478,8744,162,Glassdoor,Other,12,Sales 2,Excellent
+Financial Analyst,Male,38,4,College,Management,5,114421,7444,163,Glassdoor,White,20,Management 1,Above Average
+Software Engineer,Male,24,4,Masters,Management,1,79208,8602,164,Glassdoor,Asian,4,Management 2,Above Average
+Software Engineer,Male,49,5,Masters,Administration,5,142105,9653,165,Glassdoor,White,20,Administration 1,Excellent
+Sales Associate,Male,22,5,High School,Administration,1,57783,9306,166,Glassdoor,White,4,Administration 2,Excellent
+Marketing Associate,Female,33,5,High School,Operations,2,46903,8130,167,Glassdoor,White,8,Operations 1,Excellent
+Financial Analyst,Male,36,5,Masters,Operations,1,71858,7475,168,Glassdoor,Hispanic,4,Operations 1,Excellent
+Marketing Associate,Female,27,5,High School,Management,1,44325,8867,169,Glassdoor,White,4,Management 1,Excellent
+Driver,Male,39,5,High School,Engineering,4,100183,8832,170,Glassdoor,White,16,Engineering 1,Excellent
+Graphic Designer,Male,19,4,Masters,Sales,1,61000,8872,171,Glassdoor,Asian,4,Sales 1,Above Average
+Software Engineer,Male,59,5,Masters,Engineering,1,109623,6897,172,Glassdoor,Asian,4,Engineering 1,Excellent
+Marketing Associate,Female,20,3,PhD,Sales,5,60070,8273,173,Glassdoor,Asian,20,Sales 2,Average
+IT,Female,29,4,Masters,Management,3,72542,8109,174,Glassdoor,White,12,Management 2,Above Average
+Driver,Male,54,5,PhD,Administration,4,110049,8928,175,Glassdoor,Asian,16,Administration 1,Excellent
+IT,Female,30,4,Masters,Engineering,2,80981,8201,176,Glassdoor,Hispanic,8,Engineering 1,Above Average
+IT,Female,42,5,College,Operations,2,83499,8950,177,Glassdoor,White,8,Operations 1,Excellent
+Driver,Female,42,4,Masters,Management,4,106788,8974,178,Glassdoor,White,16,Management 2,Above Average
+Warehouse Associate,Female,50,4,Masters,Engineering,5,108922,8477,179,Glassdoor,White,20,Engineering 1,Above Average
+IT,Female,43,5,PhD,Administration,5,127062,9619,180,Glassdoor,White,20,Administration 1,Excellent
+Software Engineer,Male,64,5,College,Sales,4,120593,7573,181,Glassdoor,White,16,Sales 2,Excellent
+Manager,Male,23,4,PhD,Administration,1,90685,8816,182,Glassdoor,White,4,Administration 2,Above Average
+Marketing Associate,Female,33,5,High School,Engineering,1,49830,8543,183,Glassdoor,Hispanic,4,Engineering 1,Excellent
+Software Engineer,Male,39,4,High School,Sales,4,106896,7918,184,Glassdoor,White,16,Sales 2,Above Average
+Sales Associate,Male,58,5,PhD,Sales,2,129425,7524,185,Glassdoor,White,8,Sales 1,Excellent
+Marketing Associate,Female,24,3,Masters,Operations,5,82338,7414,186,Glassdoor,White,20,Operations 1,Average
+Marketing Associate,Female,37,4,PhD,Administration,3,86036,7567,187,Glassdoor,White,12,Administration 2,Above Average
+Graphic Designer,Male,53,5,High School,Operations,2,93073,8188,188,Glassdoor,White,8,Operations 2,Excellent
+Software Engineer,Male,33,5,PhD,Administration,2,87352,8435,189,Glassdoor,White,8,Administration 1,Excellent
+Software Engineer,Male,56,5,PhD,Administration,5,139760,9229,190,Glassdoor,Asian,20,Administration 2,Excellent
+Financial Analyst,Female,52,5,High School,Engineering,2,100070,7169,191,Glassdoor,White,8,Engineering 1,Excellent
+Warehouse Associate,Male,40,5,Masters,Sales,4,102815,9090,192,Glassdoor,White,16,Sales 1,Excellent
+Software Engineer,Male,43,4,PhD,Management,5,101262,7794,193,Glassdoor,White,20,Management 2,Above Average
+Data Scientist,Male,19,5,High School,Operations,2,58054,9585,194,Glassdoor,Hispanic,8,Operations 2,Excellent
+Sales Associate,Female,53,4,Masters,Operations,5,129609,7392,195,Glassdoor,White,20,Operations 2,Above Average
+Sales Associate,Male,44,5,Masters,Administration,2,100091,9185,196,Glassdoor,Asian,8,Administration 2,Excellent
+Manager,Male,23,4,Masters,Sales,3,103479,7850,197,Glassdoor,White,12,Sales 1,Above Average
+Driver,Female,51,5,College,Operations,1,72827,7285,198,Glassdoor,Other,4,Operations 1,Excellent
+IT,Male,20,4,PhD,Engineering,2,74073,8509,199,Glassdoor,Hispanic,8,Engineering 2,Above Average
+Financial Analyst,Male,47,5,College,Administration,2,64852,8023,200,Glassdoor,White,8,Administration 2,Excellent
+Graphic Designer,Male,49,5,College,Management,4,106887,8347,201,Glassdoor,Asian,16,Management 2,Excellent
+Software Engineer,Male,26,4,College,Administration,2,77309,7957,202,Glassdoor,White,8,Administration 2,Above Average
+Graphic Designer,Female,44,4,High School,Administration,4,100416,7513,203,Glassdoor,Asian,16,Administration 1,Above Average
+Software Engineer,Male,18,3,Masters,Engineering,2,88482,7385,204,Glassdoor,White,8,Engineering 1,Average
+Data Scientist,Female,32,4,College,Management,4,78623,9012,205,Glassdoor,White,16,Management 1,Above Average
+Sales Associate,Male,18,4,High School,Management,4,80135,9007,206,Glassdoor,White,16,Management 1,Above Average
+Warehouse Associate,Female,63,5,High School,Sales,2,106158,7654,207,Glassdoor,White,8,Sales 2,Excellent
+Graphic Designer,Female,37,4,College,Engineering,4,89411,9522,208,Glassdoor,White,16,Engineering 2,Above Average
+Graphic Designer,Male,22,4,Masters,Sales,2,57398,7827,209,Glassdoor,Asian,8,Sales 2,Above Average
+Marketing Associate,Female,64,5,PhD,Sales,2,95687,7279,210,Glassdoor,White,8,Sales 2,Excellent
+Graphic Designer,Female,39,4,PhD,Operations,5,120294,8090,211,Glassdoor,Asian,20,Operations 1,Above Average
+Manager,Male,20,4,College,Sales,2,107140,8199,212,Glassdoor,Other,8,Sales 2,Above Average
+Financial Analyst,Female,39,5,College,Operations,1,76773,7278,213,Glassdoor,Asian,4,Operations 2,Excellent
+Data Scientist,Female,37,4,Masters,Engineering,2,98010,8210,214,Glassdoor,Asian,8,Engineering 2,Above Average
+Data Scientist,Female,39,4,PhD,Management,3,91099,8306,215,Glassdoor,Asian,12,Management 2,Above Average
+Financial Analyst,Male,29,4,High School,Management,4,89559,8338,216,Glassdoor,Hispanic,16,Management 2,Above Average
+Software Engineer,Male,58,5,High School,Management,3,120156,7200,217,Glassdoor,White,12,Management 2,Excellent
+Driver,Male,38,5,PhD,Engineering,4,102966,8978,218,Glassdoor,Hispanic,16,Engineering 2,Excellent
+Marketing Associate,Female,64,5,PhD,Sales,5,128970,7346,219,Glassdoor,White,20,Sales 1,Excellent
+Warehouse Associate,Female,51,4,High School,Management,5,121376,7832,220,Glassdoor,Other,20,Management 2,Above Average
+Financial Analyst,Male,53,5,Masters,Administration,3,112941,7404,221,Glassdoor,White,12,Administration 1,Excellent
+Graphic Designer,Male,46,5,High School,Engineering,4,102736,9736,222,Glassdoor,White,16,Engineering 2,Excellent
+Driver,Female,28,4,High School,Management,1,64008,7185,223,Glassdoor,White,4,Management 1,Above Average
+IT,Male,52,5,Masters,Engineering,1,90024,7350,224,Glassdoor,Asian,4,Engineering 2,Excellent
+Financial Analyst,Female,48,4,Masters,Management,5,129406,7280,225,Glassdoor,Asian,20,Management 2,Above Average
+IT,Female,34,5,College,Operations,1,54245,8245,226,Glassdoor,White,4,Operations 1,Excellent
+Marketing Associate,Female,27,4,High School,Administration,5,67530,9311,227,Glassdoor,Asian,20,Administration 2,Above Average
+Graphic Designer,Male,18,4,High School,Sales,4,75506,9289,228,Glassdoor,Asian,16,Sales 1,Above Average
+Graphic Designer,Female,31,4,College,Engineering,2,81826,8375,229,Glassdoor,White,8,Engineering 1,Above Average
+Software Engineer,Female,27,4,High School,Operations,1,65711,7789,230,Glassdoor,White,4,Operations 2,Above Average
+Sales Associate,Male,29,3,Masters,Management,2,61164,6346,231,Glassdoor,Other,8,Management 2,Average
+Driver,Female,41,5,Masters,Administration,1,73801,8317,232,Glassdoor,Asian,4,Administration 1,Excellent
+Manager,Male,62,5,College,Administration,5,157410,7840,233,Glassdoor,Other,20,Administration 1,Excellent
+Graphic Designer,Male,23,4,High School,Operations,1,50601,7351,234,Glassdoor,White,4,Operations 1,Above Average
+Data Scientist,Male,29,4,High School,Engineering,3,65907,7668,235,Glassdoor,White,12,Engineering 2,Above Average
+Data Scientist,Male,38,5,High School,Sales,2,80937,8335,236,Glassdoor,Hispanic,8,Sales 2,Excellent
+Driver,Male,34,4,College,Administration,5,90330,7022,237,Glassdoor,White,20,Administration 2,Above Average
+Sales Associate,Female,62,5,College,Operations,2,93268,7657,238,Glassdoor,Other,8,Operations 1,Excellent
+IT,Male,40,4,College,Administration,5,109345,7791,239,Glassdoor,White,20,Administration 1,Above Average
+Software Engineer,Male,27,4,Masters,Engineering,1,66084,7769,240,Glassdoor,Asian,4,Engineering 1,Above Average
+Financial Analyst,Male,35,4,PhD,Operations,5,98900,7960,241,Glassdoor,Hispanic,20,Operations 2,Above Average
+IT,Male,19,4,College,Engineering,3,78113,9335,242,Glassdoor,Asian,12,Engineering 1,Above Average
+Software Engineer,Male,36,4,Masters,Engineering,5,130826,9694,243,Glassdoor,White,20,Engineering 2,Above Average
+Sales Associate,Male,23,3,High School,Engineering,3,85928,7229,244,Glassdoor,White,12,Engineering 2,Average
+IT,Male,43,5,College,Operations,4,98515,9090,245,Glassdoor,Asian,16,Operations 2,Excellent
+Graphic Designer,Female,48,4,College,Administration,4,103133,7793,246,Glassdoor,Hispanic,16,Administration 2,Above Average
+Marketing Associate,Female,20,4,College,Sales,4,69254,8609,247,Glassdoor,White,16,Sales 1,Above Average
+Graphic Designer,Male,27,4,College,Sales,5,114680,8472,248,Glassdoor,White,20,Sales 2,Above Average
+Driver,Male,25,3,PhD,Engineering,5,92687,7634,249,Glassdoor,White,20,Engineering 1,Average
+Graphic Designer,Male,21,3,Masters,Engineering,4,72301,8391,250,Glassdoor,White,16,Engineering 1,Average
+Financial Analyst,Male,24,4,Masters,Administration,1,67749,8517,251,Glassdoor,White,4,Administration 2,Above Average
+Data Scientist,Female,61,5,Masters,Management,2,97000,7757,252,Glassdoor,White,8,Management 2,Excellent
+Manager,Male,52,5,High School,Operations,2,104526,7253,253,Glassdoor,Asian,8,Operations 1,Excellent
+Data Scientist,Male,26,4,High School,Management,3,80494,8449,254,Glassdoor,Asian,12,Management 2,Above Average
+Financial Analyst,Female,30,4,High School,Operations,2,40341,7320,255,Glassdoor,White,8,Operations 1,Above Average
+Software Engineer,Male,29,4,High School,Engineering,1,74316,8761,256,Glassdoor,White,4,Engineering 2,Above Average
+IT,Female,46,5,PhD,Sales,3,102247,8307,257,Glassdoor,Hispanic,12,Sales 2,Excellent
+Driver,Male,49,4,College,Sales,5,104657,6839,258,Glassdoor,White,20,Sales 1,Above Average
+Warehouse Associate,Female,37,3,High School,Engineering,5,92722,8010,259,Glassdoor,Hispanic,20,Engineering 2,Average
+Sales Associate,Female,51,5,Masters,Management,1,72120,9084,260,Glassdoor,Asian,4,Management 2,Excellent
+Warehouse Associate,Female,28,4,Masters,Operations,1,62260,7740,261,Glassdoor,White,4,Operations 1,Above Average
+Manager,Male,45,5,High School,Engineering,3,123422,8894,262,Glassdoor,Asian,12,Engineering 1,Excellent
+Warehouse Associate,Male,48,5,College,Sales,1,62097,7075,263,Glassdoor,White,4,Sales 1,Excellent
+Data Scientist,Male,53,5,High School,Management,2,102910,8335,264,Glassdoor,White,8,Management 1,Excellent
+Data Scientist,Female,29,4,High School,Engineering,3,84021,9111,265,Glassdoor,Asian,12,Engineering 1,Above Average
+Warehouse Associate,Female,19,4,High School,Operations,1,37026,8636,266,Glassdoor,White,4,Operations 1,Above Average
+Driver,Male,18,3,PhD,Operations,3,56318,8407,267,Glassdoor,Hispanic,12,Operations 1,Average
+IT,Male,28,4,High School,Operations,3,64958,7910,268,Glassdoor,White,12,Operations 2,Above Average
+Data Scientist,Female,31,4,High School,Operations,2,55954,7999,269,Glassdoor,White,8,Operations 2,Above Average
+Graphic Designer,Female,58,4,PhD,Sales,3,108820,7776,270,Glassdoor,Asian,12,Sales 2,Above Average
+IT,Female,41,5,High School,Operations,3,100014,8621,271,Glassdoor,Hispanic,12,Operations 1,Excellent
+Driver,Male,36,4,PhD,Operations,3,88213,8581,272,Glassdoor,White,12,Operations 1,Above Average
+Sales Associate,Female,34,3,High School,Sales,4,108288,7491,273,Glassdoor,Asian,16,Sales 1,Average
+Driver,Male,56,5,Masters,Sales,5,100859,8388,274,Glassdoor,White,20,Sales 1,Excellent
+Financial Analyst,Female,30,4,Masters,Administration,5,114007,9248,275,Glassdoor,White,20,Administration 2,Above Average
+Warehouse Associate,Male,37,4,High School,Management,3,83025,8105,276,Glassdoor,Asian,12,Management 2,Above Average
+IT,Male,28,4,High School,Administration,5,95964,9147,277,Glassdoor,Asian,20,Administration 1,Above Average
+Warehouse Associate,Female,47,4,College,Administration,2,94973,7885,278,Glassdoor,White,8,Administration 1,Above Average
+Graphic Designer,Male,44,4,High School,Sales,4,102108,8339,279,Glassdoor,White,16,Sales 1,Above Average
+Data Scientist,Male,24,4,Masters,Sales,2,60736,7873,280,Glassdoor,Hispanic,8,Sales 1,Above Average
+IT,Male,47,5,PhD,Operations,1,82126,6971,281,Glassdoor,White,4,Operations 1,Excellent
+Financial Analyst,Male,33,5,Masters,Operations,1,69878,8389,282,Glassdoor,Asian,4,Operations 1,Excellent
+IT,Female,22,4,Masters,Sales,1,37780,8443,283,Glassdoor,White,4,Sales 2,Above Average
+Graphic Designer,Male,57,4,Masters,Management,4,132873,7266,284,Glassdoor,Asian,16,Management 2,Above Average
+Financial Analyst,Male,20,4,High School,Operations,2,65164,7827,285,Glassdoor,Asian,8,Operations 1,Above Average
+IT,Female,65,5,Masters,Administration,4,121210,7949,286,Glassdoor,Asian,16,Administration 2,Excellent
+Graphic Designer,Female,49,4,PhD,Engineering,2,95169,7415,287,Glassdoor,Other,8,Engineering 2,Above Average
+Sales Associate,Male,19,3,PhD,Management,4,94492,8209,288,Glassdoor,Asian,16,Management 1,Average
+Driver,Female,39,4,PhD,Operations,2,75901,7402,289,Glassdoor,White,8,Operations 1,Above Average
+Sales Associate,Male,33,3,Masters,Operations,5,100463,6332,290,Glassdoor,White,20,Operations 1,Average
+Sales Associate,Female,40,4,Masters,Operations,5,92276,9551,291,Glassdoor,White,20,Operations 1,Above Average
+Driver,Female,21,2,College,Engineering,5,92458,6966,292,Glassdoor,Hispanic,20,Engineering 1,Below Average
+Graphic Designer,Male,46,4,High School,Administration,4,88571,7464,293,Glassdoor,Asian,16,Administration 2,Above Average
+Financial Analyst,Male,39,4,PhD,Management,3,87409,7168,294,Glassdoor,White,12,Management 2,Above Average
+Warehouse Associate,Male,58,5,College,Sales,4,133927,8278,295,Glassdoor,White,16,Sales 2,Excellent
+Manager,Male,33,4,Masters,Sales,1,90482,7094,296,Glassdoor,Asian,4,Sales 2,Above Average
+Marketing Associate,Female,27,4,High School,Sales,4,87435,9230,297,Glassdoor,Other,16,Sales 2,Above Average
+Graphic Designer,Female,65,5,High School,Operations,4,130251,7750,298,Glassdoor,White,16,Operations 2,Excellent
+Manager,Female,34,3,Masters,Management,2,106560,7257,299,Glassdoor,White,8,Management 2,Average
+Software Engineer,Male,56,5,College,Operations,3,107366,7774,300,Glassdoor,White,12,Operations 1,Excellent
+Warehouse Associate,Female,34,4,High School,Sales,1,56172,7739,301,Glassdoor,White,4,Sales 1,Above Average
+Marketing Associate,Female,35,4,Masters,Sales,2,58807,7316,302,Glassdoor,White,8,Sales 2,Above Average
+Financial Analyst,Female,49,4,Masters,Sales,4,126626,7144,303,Glassdoor,Hispanic,16,Sales 1,Above Average
+Manager,Female,24,3,PhD,Sales,3,104202,8456,304,Glassdoor,White,12,Sales 2,Average
+Warehouse Associate,Male,39,4,PhD,Operations,3,77793,8093,305,Glassdoor,White,12,Operations 1,Above Average
+Warehouse Associate,Male,45,4,High School,Operations,2,84930,6914,306,Glassdoor,Other,8,Operations 2,Above Average
+Driver,Male,32,3,Masters,Engineering,2,69367,6378,307,Glassdoor,White,8,Engineering 1,Average
+Graphic Designer,Male,65,5,Masters,Operations,5,116751,8505,308,Glassdoor,Hispanic,20,Operations 1,Excellent
+Software Engineer,Male,52,4,Masters,Administration,5,139841,7641,309,Glassdoor,White,20,Administration 2,Above Average
+Driver,Female,52,4,College,Administration,2,78750,6666,310,Glassdoor,Asian,8,Administration 1,Above Average
+Warehouse Associate,Female,38,3,College,Administration,5,93306,8265,311,Glassdoor,White,20,Administration 2,Average
+Financial Analyst,Male,19,4,Masters,Operations,2,60892,8462,312,Glassdoor,White,8,Operations 1,Above Average
+Graphic Designer,Male,20,2,Masters,Engineering,5,99543,6111,313,Glassdoor,White,20,Engineering 2,Below Average
+Sales Associate,Female,29,3,PhD,Operations,2,56745,6495,314,Glassdoor,White,8,Operations 1,Average
+Data Scientist,Female,29,4,College,Operations,1,59458,7939,315,Glassdoor,Asian,4,Operations 2,Above Average
+Driver,Female,18,2,Masters,Sales,4,71824,6397,316,Glassdoor,Asian,16,Sales 2,Below Average
+Software Engineer,Male,64,5,High School,Operations,2,111903,6824,317,Glassdoor,White,8,Operations 2,Excellent
+IT,Male,55,5,College,Sales,3,104361,7813,318,Glassdoor,White,12,Sales 1,Excellent
+Warehouse Associate,Female,22,2,High School,Sales,5,91568,7139,319,Glassdoor,Other,20,Sales 2,Below Average
+Software Engineer,Male,59,4,Masters,Engineering,4,155834,7101,320,Glassdoor,White,16,Engineering 1,Above Average
+Financial Analyst,Male,30,5,Masters,Sales,1,83620,7864,321,Glassdoor,White,4,Sales 1,Excellent
+Marketing Associate,Female,50,5,PhD,Administration,1,81995,7840,322,Glassdoor,Hispanic,4,Administration 2,Excellent
+Graphic Designer,Female,27,4,PhD,Sales,1,66125,8465,323,Glassdoor,White,4,Sales 1,Above Average
+Driver,Male,27,3,College,Engineering,5,89678,7778,324,Glassdoor,White,20,Engineering 1,Average
+Sales Associate,Female,57,5,Masters,Operations,3,98321,8980,325,Glassdoor,White,12,Operations 1,Excellent
+Manager,Male,48,4,College,Management,1,109346,7730,326,Glassdoor,Hispanic,4,Management 2,Above Average
+Manager,Female,62,4,Masters,Sales,4,155203,7808,327,Glassdoor,Hispanic,16,Sales 1,Above Average
+IT,Male,64,5,PhD,Management,2,98100,7460,328,Glassdoor,Asian,8,Management 1,Excellent
+Data Scientist,Female,29,3,High School,Management,4,73306,7765,329,Glassdoor,Asian,16,Management 2,Average
+Driver,Male,40,5,College,Engineering,2,68797,7817,330,Glassdoor,White,8,Engineering 2,Excellent
+Financial Analyst,Male,58,4,College,Management,4,120154,6751,331,Glassdoor,Asian,16,Management 1,Above Average
+Warehouse Associate,Female,22,3,College,Sales,4,76865,8145,332,Glassdoor,White,16,Sales 1,Average
+Graphic Designer,Female,59,4,PhD,Management,4,125770,8013,333,Glassdoor,White,16,Management 1,Above Average
+Financial Analyst,Female,36,4,High School,Administration,5,119931,8400,334,Glassdoor,Hispanic,20,Administration 1,Above Average
+Marketing Associate,Female,55,4,Masters,Operations,1,71794,6685,335,Glassdoor,White,4,Operations 2,Above Average
+Driver,Female,54,4,College,Management,2,87998,7028,336,Glassdoor,White,8,Management 2,Above Average
+Software Engineer,Male,63,4,High School,Administration,5,140445,7905,337,Glassdoor,White,20,Administration 1,Above Average
+Warehouse Associate,Male,18,2,College,Administration,5,85306,7735,338,Glassdoor,Asian,20,Administration 2,Below Average
+Sales Associate,Female,31,3,High School,Operations,3,77275,7089,339,Glassdoor,White,12,Operations 2,Average
+Manager,Male,48,4,PhD,Sales,4,143887,7622,340,Glassdoor,Asian,16,Sales 2,Above Average
+Driver,Female,58,4,High School,Sales,5,130720,7246,341,Glassdoor,Hispanic,20,Sales 2,Above Average
+Software Engineer,Female,41,4,PhD,Sales,1,86675,7947,342,Glassdoor,Asian,4,Sales 2,Above Average
+Graphic Designer,Female,22,3,College,Operations,2,56954,7550,343,Glassdoor,White,8,Operations 2,Average
+IT,Male,63,5,Masters,Operations,5,133472,8688,344,Glassdoor,Hispanic,20,Operations 2,Excellent
+Data Scientist,Male,23,3,Masters,Administration,1,62753,7242,345,Glassdoor,Asian,4,Administration 1,Average
+Sales Associate,Male,63,5,PhD,Operations,4,128173,8360,346,Glassdoor,White,16,Operations 1,Excellent
+Software Engineer,Female,28,3,College,Engineering,5,112491,8727,347,Glassdoor,Hispanic,20,Engineering 1,Average
+Marketing Associate,Female,22,4,PhD,Operations,1,36548,8090,348,Glassdoor,White,4,Operations 2,Above Average
+Driver,Female,62,4,PhD,Engineering,1,88781,6413,349,Glassdoor,White,4,Engineering 2,Above Average
+Software Engineer,Male,65,4,High School,Management,5,157852,6669,350,Glassdoor,Asian,20,Management 1,Above Average
+Financial Analyst,Male,51,4,PhD,Operations,4,113730,6578,351,Glassdoor,White,16,Operations 1,Above Average
+Driver,Male,57,5,College,Management,1,68403,6893,352,Glassdoor,White,4,Management 2,Excellent
+Manager,Male,59,4,PhD,Sales,5,176789,6773,353,Glassdoor,Asian,20,Sales 1,Above Average
+Data Scientist,Female,45,3,Masters,Sales,5,129226,6912,354,Glassdoor,White,20,Sales 2,Average
+Graphic Designer,Male,24,3,College,Engineering,2,59399,6692,355,Glassdoor,White,8,Engineering 1,Average
+Sales Associate,Male,61,5,PhD,Management,1,102473,8468,356,Glassdoor,White,4,Management 2,Excellent
+Manager,Female,60,4,PhD,Management,3,160614,8354,357,Glassdoor,Hispanic,12,Management 2,Above Average
+Sales Associate,Female,28,3,PhD,Sales,3,89570,7411,358,Glassdoor,White,12,Sales 1,Average
+Marketing Associate,Female,41,4,College,Sales,3,73989,8780,359,Glassdoor,Hispanic,12,Sales 1,Above Average
+Financial Analyst,Female,35,4,Masters,Management,2,67762,7449,360,Glassdoor,Asian,8,Management 2,Above Average
+Financial Analyst,Male,35,4,College,Administration,4,90307,7663,361,Glassdoor,Asian,16,Administration 2,Above Average
+Driver,Female,38,3,Masters,Management,2,77751,6554,362,Glassdoor,White,8,Management 1,Average
+Data Scientist,Female,57,4,High School,Management,1,87150,6814,363,Glassdoor,Hispanic,4,Management 1,Above Average
+Driver,Female,19,2,College,Sales,2,79291,5000,364,Glassdoor,Hispanic,8,Sales 1,Below Average
+Graphic Designer,Male,55,5,Masters,Engineering,1,79144,8328,365,Glassdoor,Asian,4,Engineering 2,Excellent
+Manager,Male,62,5,PhD,Engineering,3,150467,8100,366,Glassdoor,White,12,Engineering 2,Excellent
+Driver,Female,31,3,Masters,Engineering,2,57070,6615,367,Glassdoor,Asian,8,Engineering 1,Average
+Marketing Associate,Female,49,4,College,Sales,4,102201,7640,368,Glassdoor,White,16,Sales 1,Above Average
+Driver,Male,37,4,College,Engineering,3,70088,8244,369,Glassdoor,White,12,Engineering 2,Above Average
+Marketing Associate,Female,24,3,PhD,Operations,4,57782,7144,370,Glassdoor,Asian,16,Operations 2,Average
+Manager,Male,32,3,High School,Operations,4,117629,6291,371,Glassdoor,Asian,16,Operations 1,Average
+Sales Associate,Male,28,3,Masters,Administration,5,118653,7036,372,Glassdoor,Asian,20,Administration 2,Average
+Marketing Associate,Female,38,2,High School,Management,5,71772,5764,373,Glassdoor,Hispanic,20,Management 1,Below Average
+Software Engineer,Male,65,5,Masters,Sales,1,134758,7500,374,Glassdoor,Asian,4,Sales 1,Excellent
+Marketing Associate,Female,53,5,College,Administration,1,66438,6935,375,Glassdoor,White,4,Administration 2,Excellent
+Warehouse Associate,Male,46,3,High School,Operations,4,87134,6184,376,Glassdoor,White,16,Operations 2,Average
+Marketing Associate,Female,57,4,College,Operations,3,79674,6993,377,Glassdoor,Asian,12,Operations 1,Above Average
+Marketing Associate,Female,45,3,College,Engineering,4,85161,6682,378,Glassdoor,Asian,16,Engineering 1,Average
+Warehouse Associate,Female,34,2,PhD,Management,5,114479,6700,379,Glassdoor,White,20,Management 2,Below Average
+Marketing Associate,Male,25,3,College,Operations,4,65547,6530,380,Glassdoor,White,16,Operations 1,Average
+Data Scientist,Female,33,3,High School,Administration,3,71946,6386,381,Glassdoor,White,12,Administration 2,Average
+Financial Analyst,Male,64,5,High School,Operations,3,96777,7736,382,Glassdoor,White,12,Operations 1,Excellent
+Marketing Associate,Female,23,3,PhD,Administration,3,62054,6955,383,Glassdoor,Asian,12,Administration 1,Average
+Software Engineer,Male,26,3,High School,Sales,2,61527,6345,384,Glassdoor,Asian,8,Sales 1,Average
+Warehouse Associate,Female,24,3,High School,Management,1,64624,8253,385,Glassdoor,White,4,Management 1,Average
+Driver,Male,49,4,Masters,Administration,5,118629,6740,386,Glassdoor,Hispanic,20,Administration 2,Above Average
+Data Scientist,Male,19,2,PhD,Management,5,80171,6454,387,Glassdoor,White,20,Management 2,Below Average
+Sales Associate,Female,47,3,College,Administration,4,105410,6363,388,Glassdoor,White,16,Administration 1,Average
+Software Engineer,Male,36,4,PhD,Management,3,112134,8587,389,Glassdoor,White,12,Management 2,Above Average
+Warehouse Associate,Female,42,3,Masters,Engineering,1,90005,6631,390,Glassdoor,White,4,Engineering 1,Average
+Marketing Associate,Female,50,5,High School,Operations,1,70374,7466,391,Glassdoor,Hispanic,4,Operations 2,Excellent
+Manager,Male,21,2,College,Administration,5,121682,7189,392,Glassdoor,Asian,20,Administration 1,Below Average
+Marketing Associate,Female,49,4,PhD,Operations,5,104355,7555,393,Glassdoor,White,20,Operations 1,Above Average
+IT,Female,49,4,College,Engineering,1,75811,5520,394,Glassdoor,Asian,4,Engineering 2,Above Average
+Sales Associate,Male,48,3,Masters,Engineering,5,113544,6839,395,Glassdoor,Asian,20,Engineering 2,Average
+Graphic Designer,Female,22,2,Masters,Operations,4,107025,6577,396,Glassdoor,Asian,16,Operations 1,Below Average
+Financial Analyst,Male,20,3,PhD,Operations,3,78564,7875,397,Glassdoor,White,12,Operations 2,Average
+Financial Analyst,Male,47,5,College,Operations,3,91905,7614,398,Glassdoor,Asian,12,Operations 1,Excellent
+Financial Analyst,Male,60,5,High School,Engineering,4,121728,7932,399,Glassdoor,White,16,Engineering 1,Excellent
+Marketing Associate,Male,27,4,College,Management,1,54817,6519,400,Glassdoor,White,4,Management 2,Above Average
+Sales Associate,Male,20,3,College,Operations,1,37898,6448,401,Glassdoor,White,4,Operations 1,Average
+IT,Male,59,5,PhD,Operations,1,79544,6760,402,Glassdoor,White,4,Operations 2,Excellent
+Data Scientist,Female,20,3,High School,Engineering,1,40056,7632,403,Glassdoor,Hispanic,4,Engineering 1,Average
+IT,Female,45,4,College,Operations,2,70846,7404,404,Glassdoor,White,8,Operations 1,Above Average
+Marketing Associate,Female,34,3,High School,Sales,5,79707,7196,405,Glassdoor,White,20,Sales 2,Average
+Software Engineer,Male,59,4,High School,Operations,4,124817,7268,406,Glassdoor,Hispanic,16,Operations 2,Above Average
+Manager,Male,53,4,College,Management,1,123114,6946,407,Glassdoor,White,4,Management 1,Above Average
+Financial Analyst,Female,20,3,High School,Operations,3,62377,6999,408,Glassdoor,White,12,Operations 1,Average
+Data Scientist,Male,28,3,Masters,Sales,3,82850,5794,409,Glassdoor,Asian,12,Sales 1,Average
+IT,Female,38,4,High School,Sales,2,75932,7003,410,Glassdoor,Asian,8,Sales 1,Above Average
+Manager,Male,43,3,PhD,Management,2,121949,6739,411,Glassdoor,Other,8,Management 1,Average
+Marketing Associate,Female,36,3,PhD,Sales,3,82755,7325,412,Glassdoor,White,12,Sales 1,Average
+Data Scientist,Male,45,3,PhD,Administration,5,122037,8147,413,Glassdoor,Other,20,Administration 1,Average
+Warehouse Associate,Female,19,2,Masters,Administration,2,78021,6970,414,Glassdoor,Hispanic,8,Administration 2,Below Average
+IT,Male,18,4,PhD,Sales,1,56309,7559,415,Glassdoor,Asian,4,Sales 2,Above Average
+Financial Analyst,Male,59,5,PhD,Management,1,90002,8123,416,Glassdoor,Hispanic,4,Management 1,Excellent
+IT,Male,34,3,College,Sales,4,91066,6257,417,Glassdoor,Hispanic,16,Sales 2,Average
+Manager,Male,32,3,Masters,Management,5,118088,7721,418,Glassdoor,White,20,Management 1,Average
+Software Engineer,Male,29,3,Masters,Operations,2,92099,7246,419,Glassdoor,White,8,Operations 2,Average
+Financial Analyst,Female,46,4,College,Administration,4,116758,7744,420,Glassdoor,White,16,Administration 2,Above Average
+Marketing Associate,Female,49,5,High School,Sales,2,96500,8092,421,Glassdoor,Asian,8,Sales 1,Excellent
+Manager,Male,48,3,College,Management,5,138851,6929,422,Glassdoor,Other,20,Management 1,Average
+Marketing Associate,Female,34,4,College,Administration,1,49632,7169,423,Glassdoor,White,4,Administration 1,Above Average
+Driver,Female,45,3,PhD,Management,3,76700,7242,424,Glassdoor,White,12,Management 2,Average
+IT,Male,58,4,College,Management,5,131275,6997,425,Glassdoor,Asian,20,Management 1,Above Average
+Manager,Male,21,2,PhD,Operations,3,89648,6573,426,Glassdoor,White,12,Operations 2,Below Average
+Graphic Designer,Female,26,2,Masters,Administration,5,100516,6737,427,Glassdoor,Asian,20,Administration 2,Below Average
+Manager,Male,20,2,PhD,Operations,4,112854,6564,428,Glassdoor,White,16,Operations 2,Below Average
+Software Engineer,Male,60,4,Masters,Sales,5,155676,6586,429,Glassdoor,White,20,Sales 2,Above Average
+Driver,Male,57,4,College,Sales,4,135781,6042,430,Glassdoor,Hispanic,16,Sales 1,Above Average
+Sales Associate,Female,47,3,College,Engineering,2,84935,6122,431,Glassdoor,Hispanic,8,Engineering 2,Average
+Warehouse Associate,Male,31,4,High School,Engineering,2,66407,7522,432,Glassdoor,Asian,8,Engineering 1,Above Average
+Driver,Female,56,4,PhD,Sales,3,101249,7329,433,Glassdoor,Asian,12,Sales 1,Above Average
+Manager,Male,57,4,Masters,Administration,4,143189,6321,434,Glassdoor,Hispanic,16,Administration 1,Above Average
+Graphic Designer,Male,63,5,PhD,Engineering,1,105800,7822,435,Glassdoor,Hispanic,4,Engineering 1,Excellent
+Software Engineer,Male,63,5,College,Operations,2,124871,7327,436,Glassdoor,White,8,Operations 2,Excellent
+Data Scientist,Male,23,3,High School,Sales,3,83894,6922,437,Glassdoor,Asian,12,Sales 2,Average
+Manager,Female,45,2,High School,Management,5,144146,6340,438,Glassdoor,Asian,20,Management 2,Below Average
+Marketing Associate,Female,46,4,PhD,Sales,2,69268,7106,439,Glassdoor,Asian,8,Sales 1,Above Average
+Sales Associate,Male,63,5,High School,Sales,1,85948,7646,440,Glassdoor,Asian,4,Sales 2,Excellent
+Software Engineer,Male,20,2,PhD,Engineering,4,92289,6643,441,Glassdoor,White,16,Engineering 1,Below Average
+Financial Analyst,Male,45,4,High School,Operations,2,75397,6490,442,Glassdoor,Hispanic,8,Operations 1,Above Average
+Software Engineer,Male,65,4,High School,Engineering,1,102597,5937,443,Glassdoor,Asian,4,Engineering 2,Above Average
+Sales Associate,Female,63,4,PhD,Engineering,3,127561,7552,444,Glassdoor,White,12,Engineering 2,Above Average
+Warehouse Associate,Male,26,3,High School,Sales,3,72945,7279,445,Glassdoor,Asian,12,Sales 2,Average
+Software Engineer,Male,60,3,PhD,Management,5,145632,6439,446,Glassdoor,White,20,Management 2,Average
+Marketing Associate,Female,36,3,Masters,Sales,3,77223,5272,447,Glassdoor,White,12,Sales 1,Average
+Manager,Male,63,5,Masters,Operations,1,130093,6416,448,Glassdoor,Asian,4,Operations 2,Excellent
+Marketing Associate,Male,33,3,PhD,Administration,2,53220,5153,449,Glassdoor,White,8,Administration 2,Average
+Warehouse Associate,Female,41,3,College,Engineering,3,92080,6897,450,Glassdoor,Hispanic,12,Engineering 2,Average
+Graphic Designer,Female,55,3,College,Sales,5,118762,6545,451,Glassdoor,White,20,Sales 2,Average
+Sales Associate,Female,21,2,College,Operations,5,85398,7113,452,Glassdoor,Hispanic,20,Operations 1,Below Average
+Data Scientist,Male,31,3,College,Operations,1,75227,6027,453,Glassdoor,Asian,4,Operations 1,Average
+Data Scientist,Male,41,3,Masters,Administration,4,104314,6611,454,Glassdoor,Asian,16,Administration 1,Average
+Manager,Male,27,3,High School,Operations,1,83262,6884,455,Glassdoor,White,4,Operations 2,Average
+Data Scientist,Female,55,3,Masters,Administration,4,123172,5797,456,Glassdoor,Asian,16,Administration 1,Average
+Data Scientist,Male,41,4,PhD,Administration,1,67040,7412,457,Glassdoor,Asian,4,Administration 2,Above Average
+Warehouse Associate,Male,33,3,College,Administration,1,77655,6581,458,Glassdoor,White,4,Administration 1,Average
+Data Scientist,Female,46,3,College,Administration,3,107476,6182,459,Glassdoor,White,12,Administration 1,Average
+Software Engineer,Male,45,4,Masters,Operations,2,89811,6471,460,Glassdoor,White,8,Operations 2,Above Average
+Graphic Designer,Male,47,3,College,Administration,5,106893,7958,461,Glassdoor,Asian,20,Administration 2,Average
+Software Engineer,Male,58,4,Masters,Engineering,5,154039,7304,462,Glassdoor,White,20,Engineering 1,Above Average
+Warehouse Associate,Male,64,4,High School,Operations,3,116774,6160,463,Glassdoor,Asian,12,Operations 1,Above Average
+Software Engineer,Male,40,2,High School,Management,2,98281,5646,464,Glassdoor,White,8,Management 2,Below Average
+Marketing Associate,Female,18,3,High School,Engineering,2,34208,6620,465,Glassdoor,Asian,8,Engineering 1,Average
+Software Engineer,Male,42,3,Masters,Engineering,5,121821,6499,466,Glassdoor,Asian,20,Engineering 2,Average
+Software Engineer,Male,30,2,Masters,Engineering,5,113122,6060,467,Glassdoor,Hispanic,20,Engineering 1,Below Average
+Software Engineer,Male,39,4,PhD,Management,1,92154,7642,468,Glassdoor,Hispanic,4,Management 1,Above Average
+Manager,Male,31,3,PhD,Engineering,2,110643,7291,469,Glassdoor,White,8,Engineering 2,Average
+Data Scientist,Female,34,3,PhD,Administration,1,82345,7211,470,Glassdoor,White,4,Administration 2,Average
+Data Scientist,Male,32,3,PhD,Sales,4,103908,8109,471,Glassdoor,Asian,16,Sales 1,Average
+Marketing Associate,Female,24,3,High School,Engineering,3,49303,6615,472,Glassdoor,Asian,12,Engineering 2,Average
+IT,Female,46,4,High School,Operations,3,98456,7177,473,Glassdoor,Hispanic,12,Operations 2,Above Average
+Warehouse Associate,Male,49,3,PhD,Operations,4,94927,6274,474,Glassdoor,Hispanic,16,Operations 1,Average
+Software Engineer,Male,30,2,College,Administration,5,76654,6696,475,Glassdoor,Other,20,Administration 2,Below Average
+Manager,Male,46,4,Masters,Sales,1,107859,6989,476,Glassdoor,White,4,Sales 1,Above Average
+Manager,Female,53,4,High School,Operations,3,129885,7314,477,Glassdoor,Hispanic,12,Operations 2,Above Average
+Graphic Designer,Male,62,5,Masters,Sales,1,85702,6556,478,Glassdoor,White,4,Sales 1,Excellent
+Financial Analyst,Female,63,4,Masters,Operations,1,97797,5239,479,Glassdoor,Other,4,Operations 2,Above Average
+Manager,Male,18,1,Masters,Management,5,115567,4775,480,Glassdoor,White,20,Management 2,Needs Improvement
+Sales Associate,Female,30,3,High School,Administration,4,91566,6996,481,Glassdoor,White,16,Administration 1,Average
+Sales Associate,Female,61,3,PhD,Management,4,131608,6537,482,Glassdoor,White,16,Management 2,Average
+Sales Associate,Male,58,4,PhD,Administration,3,118888,7438,483,Glassdoor,White,12,Administration 2,Above Average
+Graphic Designer,Male,55,4,College,Sales,2,75833,6942,484,Glassdoor,Other,8,Sales 1,Above Average
+Financial Analyst,Female,36,3,College,Engineering,2,65750,6177,485,Glassdoor,White,8,Engineering 1,Average
+Graphic Designer,Male,65,4,College,Management,4,123371,6931,486,Glassdoor,White,16,Management 1,Above Average
+Marketing Associate,Female,49,4,Masters,Sales,3,76806,6662,487,Glassdoor,White,12,Sales 1,Above Average
+Warehouse Associate,Male,38,3,College,Management,3,83774,7127,488,Glassdoor,White,12,Management 1,Average
+Warehouse Associate,Female,22,1,PhD,Operations,5,114733,6290,489,Glassdoor,White,20,Operations 1,Needs Improvement
+Financial Analyst,Male,22,3,PhD,Administration,2,69320,6765,490,Glassdoor,Asian,8,Administration 1,Average
+Sales Associate,Male,51,3,PhD,Operations,4,110746,5947,491,Glassdoor,White,16,Operations 1,Average
+Graphic Designer,Male,61,4,Masters,Engineering,2,105632,6394,492,Glassdoor,Asian,8,Engineering 1,Above Average
+Manager,Male,62,4,PhD,Engineering,1,117648,4765,493,Glassdoor,Hispanic,4,Engineering 2,Above Average
+Driver,Female,21,1,PhD,Management,4,89170,6722,494,Glassdoor,White,16,Management 2,Needs Improvement
+Sales Associate,Male,28,3,College,Management,3,85986,8160,495,Glassdoor,White,12,Management 1,Average
+Financial Analyst,Male,32,4,Masters,Sales,3,78132,8035,496,Glassdoor,Asian,12,Sales 1,Above Average
+Manager,Male,57,4,Masters,Operations,3,135073,6898,497,Glassdoor,Other,12,Operations 1,Above Average
+Driver,Female,52,4,High School,Operations,1,78751,6258,498,Glassdoor,White,4,Operations 1,Above Average
+Software Engineer,Male,64,5,High School,Sales,2,118231,7440,499,Glassdoor,White,8,Sales 2,Excellent
+Data Scientist,Male,58,5,High School,Operations,1,86651,7250,500,Glassdoor,White,4,Operations 2,Excellent
+IT,Female,36,3,PhD,Management,3,75518,6711,501,Glassdoor,Other,12,Management 1,Average
+Data Scientist,Male,44,3,Masters,Management,3,114693,6832,502,Glassdoor,Asian,12,Management 1,Average
+Financial Analyst,Male,39,3,Masters,Engineering,4,116875,5479,503,Glassdoor,Other,16,Engineering 2,Average
+IT,Male,23,4,PhD,Administration,1,64468,8113,504,Glassdoor,White,4,Administration 1,Above Average
+Marketing Associate,Male,40,2,PhD,Sales,5,116834,5516,505,Glassdoor,Other,20,Sales 1,Below Average
+Marketing Associate,Female,18,2,Masters,Management,5,75294,6496,506,Glassdoor,Hispanic,20,Management 2,Below Average
+Graphic Designer,Female,63,3,College,Management,5,127608,6558,507,Glassdoor,White,20,Management 2,Average
+Financial Analyst,Female,43,3,College,Sales,5,116069,6432,508,Glassdoor,Asian,20,Sales 2,Average
+Driver,Female,50,3,High School,Engineering,2,86122,6295,509,Glassdoor,White,8,Engineering 2,Average
+Warehouse Associate,Male,23,2,College,Management,4,81988,7160,510,Glassdoor,Asian,16,Management 2,Below Average
+Warehouse Associate,Female,22,2,Masters,Sales,2,68300,5953,511,Glassdoor,Asian,8,Sales 1,Below Average
+Manager,Male,60,4,College,Sales,2,148178,6777,512,Glassdoor,White,8,Sales 2,Above Average
+Financial Analyst,Female,50,3,PhD,Operations,2,94590,5327,513,Glassdoor,Asian,8,Operations 2,Average
+Sales Associate,Female,33,2,College,Engineering,4,87418,6430,514,Glassdoor,Asian,16,Engineering 1,Below Average
+Warehouse Associate,Male,25,3,College,Administration,1,68384,7443,515,Glassdoor,Hispanic,4,Administration 2,Average
+Manager,Male,48,3,PhD,Operations,1,106056,4161,516,Glassdoor,White,4,Operations 1,Average
+Software Engineer,Male,35,2,Masters,Management,3,110886,6228,517,Glassdoor,White,12,Management 2,Below Average
+Graphic Designer,Female,37,2,Masters,Management,3,104082,5477,518,Glassdoor,Other,12,Management 1,Below Average
+IT,Female,43,3,Masters,Management,4,94354,7052,519,Glassdoor,Asian,16,Management 2,Average
+Warehouse Associate,Male,53,3,PhD,Engineering,5,128669,6866,520,Glassdoor,White,20,Engineering 1,Average
+Financial Analyst,Male,40,3,PhD,Sales,3,88725,6243,521,Glassdoor,White,12,Sales 2,Average
+Manager,Male,56,3,Masters,Engineering,4,149771,5495,522,Glassdoor,White,16,Engineering 1,Average
+Financial Analyst,Male,45,4,Masters,Management,2,98535,8001,523,Glassdoor,White,8,Management 1,Above Average
+Data Scientist,Female,57,4,PhD,Sales,1,90713,6552,524,Glassdoor,Asian,4,Sales 1,Above Average
+IT,Male,33,3,College,Management,3,88749,7433,525,Glassdoor,Other,12,Management 2,Average
+Graphic Designer,Male,49,3,Masters,Operations,5,126100,6336,526,Glassdoor,White,20,Operations 2,Average
+Manager,Male,23,3,College,Sales,3,110594,6753,527,Glassdoor,Hispanic,12,Sales 1,Average
+Manager,Male,60,4,College,Management,3,157644,7213,528,Glassdoor,White,12,Management 1,Above Average
+Manager,Female,41,3,PhD,Management,1,113009,6812,529,Glassdoor,Asian,4,Management 1,Average
+Financial Analyst,Male,20,2,PhD,Engineering,4,105601,5943,530,Glassdoor,White,16,Engineering 1,Below Average
+Financial Analyst,Male,56,4,High School,Engineering,3,100769,6453,531,Glassdoor,White,12,Engineering 1,Above Average
+Warehouse Associate,Male,38,3,High School,Administration,2,82244,6020,532,Glassdoor,Asian,8,Administration 2,Average
+Marketing Associate,Female,55,4,High School,Administration,2,72030,5569,533,Glassdoor,White,8,Administration 1,Above Average
+Driver,Female,20,1,College,Management,3,66203,5627,534,Glassdoor,White,12,Management 1,Needs Improvement
+Driver,Female,34,2,High School,Management,3,67210,5662,535,Glassdoor,White,12,Management 2,Below Average
+Manager,Female,32,2,PhD,Management,2,115383,5878,536,Glassdoor,Hispanic,8,Management 1,Below Average
+Graphic Designer,Female,49,3,PhD,Engineering,4,120697,7205,537,Glassdoor,Asian,16,Engineering 1,Average
+Graphic Designer,Male,29,3,PhD,Operations,2,70311,6235,538,Glassdoor,Hispanic,8,Operations 2,Average
+Data Scientist,Female,49,3,College,Engineering,4,125770,7301,539,Glassdoor,Asian,16,Engineering 1,Average
+Warehouse Associate,Male,33,1,College,Engineering,5,100465,5520,540,Glassdoor,White,20,Engineering 2,Needs Improvement
+Software Engineer,Male,30,2,College,Administration,4,83264,6251,541,Glassdoor,White,16,Administration 2,Below Average
+Warehouse Associate,Male,61,3,PhD,Engineering,4,126375,6630,542,Glassdoor,Other,16,Engineering 2,Average
+Driver,Male,25,3,College,Engineering,1,43076,5829,543,Glassdoor,White,4,Engineering 1,Average
+Data Scientist,Female,37,2,College,Sales,5,97846,7198,544,Glassdoor,Hispanic,20,Sales 1,Below Average
+Sales Associate,Female,24,2,Masters,Management,3,76522,6900,545,Glassdoor,Asian,12,Management 2,Below Average
+Driver,Male,42,3,PhD,Operations,4,111726,5989,546,Glassdoor,Other,16,Operations 2,Average
+Sales Associate,Male,55,4,College,Administration,3,112188,6689,547,Glassdoor,Asian,12,Administration 2,Above Average
+Data Scientist,Male,35,2,College,Operations,5,98959,6572,548,Glassdoor,Asian,20,Operations 1,Below Average
+Sales Associate,Female,35,2,College,Management,4,87131,6356,549,Glassdoor,Asian,16,Management 1,Below Average
+IT,Male,40,3,College,Administration,3,77881,5569,550,Glassdoor,Hispanic,12,Administration 2,Average
+IT,Male,36,3,Masters,Engineering,2,65225,6462,551,Glassdoor,White,8,Engineering 2,Average
+Driver,Male,30,4,Masters,Operations,1,78472,8439,552,Glassdoor,White,4,Operations 1,Above Average
+Financial Analyst,Male,58,4,College,Operations,4,126269,6490,553,Glassdoor,White,16,Operations 1,Above Average
+Warehouse Associate,Male,61,3,High School,Management,3,106233,5792,554,Glassdoor,White,12,Management 2,Average
+IT,Female,37,3,High School,Sales,2,56656,5914,555,Glassdoor,Asian,8,Sales 2,Average
+IT,Female,42,3,High School,Engineering,2,70157,6016,556,Glassdoor,Asian,8,Engineering 1,Average
+Data Scientist,Female,41,2,PhD,Engineering,2,98366,6398,557,Glassdoor,White,8,Engineering 2,Below Average
+Manager,Male,59,4,College,Engineering,2,127013,6124,558,Glassdoor,White,8,Engineering 1,Above Average
+Software Engineer,Male,53,3,High School,Management,3,106146,6618,559,Glassdoor,Asian,12,Management 2,Average
+Manager,Male,22,2,Masters,Operations,4,90736,6219,560,Glassdoor,White,16,Operations 1,Below Average
+Graphic Designer,Male,44,3,PhD,Sales,1,66611,5924,561,Glassdoor,White,4,Sales 2,Average
+Manager,Male,57,3,PhD,Operations,5,150914,5982,562,Glassdoor,Asian,20,Operations 1,Average
+Graphic Designer,Male,30,2,Masters,Management,4,70559,6497,563,Glassdoor,White,16,Management 2,Below Average
+Data Scientist,Female,33,3,College,Sales,1,73798,6224,564,Glassdoor,Other,4,Sales 2,Average
+Graphic Designer,Male,22,2,High School,Sales,3,69734,5383,565,Glassdoor,Hispanic,12,Sales 1,Below Average
+Marketing Associate,Female,52,3,High School,Sales,3,94763,5668,566,Glassdoor,Other,12,Sales 1,Average
+Financial Analyst,Female,23,2,College,Administration,5,101534,6861,567,Glassdoor,White,20,Administration 2,Below Average
+Graphic Designer,Male,23,1,PhD,Management,5,91504,5136,568,Glassdoor,Other,20,Management 1,Needs Improvement
+Sales Associate,Female,19,1,College,Management,4,90426,5020,569,Glassdoor,Asian,16,Management 1,Needs Improvement
+Manager,Male,20,2,Masters,Operations,3,100183,6363,570,Glassdoor,White,12,Operations 2,Below Average
+IT,Female,62,4,College,Operations,2,99369,6746,571,Glassdoor,Asian,8,Operations 1,Above Average
+Graphic Designer,Female,40,3,College,Operations,1,55845,6616,572,Glassdoor,Hispanic,4,Operations 2,Average
+Financial Analyst,Female,26,3,College,Administration,2,48570,6604,573,Glassdoor,Asian,8,Administration 1,Average
+Data Scientist,Male,56,3,Masters,Engineering,3,98165,5470,574,Glassdoor,Asian,12,Engineering 2,Average
+Data Scientist,Female,57,3,Masters,Operations,3,113274,6186,575,Glassdoor,Asian,12,Operations 1,Average
+Software Engineer,Male,23,2,Masters,Engineering,3,95754,6596,576,Glassdoor,Asian,12,Engineering 2,Below Average
+Data Scientist,Male,27,2,College,Engineering,1,57915,4584,577,Glassdoor,Asian,4,Engineering 2,Below Average
+Manager,Male,53,4,College,Sales,2,121506,6122,578,Glassdoor,Asian,8,Sales 1,Above Average
+Manager,Male,37,3,Masters,Management,1,121151,5934,579,Glassdoor,White,4,Management 2,Average
+Marketing Associate,Female,46,3,College,Management,3,86241,5814,580,Glassdoor,Asian,12,Management 1,Average
+Data Scientist,Male,40,2,Masters,Management,2,87682,4152,581,Glassdoor,White,8,Management 2,Below Average
+Software Engineer,Male,42,2,College,Administration,3,114029,6842,582,Glassdoor,Hispanic,12,Administration 1,Below Average
+IT,Male,43,3,College,Management,1,67323,4680,583,Glassdoor,Hispanic,4,Management 2,Average
+Data Scientist,Male,28,3,High School,Management,2,68049,6660,584,Glassdoor,White,8,Management 1,Average
+IT,Male,39,3,High School,Engineering,4,93335,5243,585,Glassdoor,White,16,Engineering 1,Average
+Driver,Female,55,3,PhD,Operations,2,100433,5090,586,Glassdoor,Asian,8,Operations 1,Average
+Marketing Associate,Female,62,3,PhD,Operations,5,123242,5453,587,Glassdoor,White,20,Operations 1,Average
+Sales Associate,Female,32,2,PhD,Administration,2,87585,6476,588,Glassdoor,White,8,Administration 2,Below Average
+IT,Female,18,2,Masters,Sales,1,45747,4890,589,Glassdoor,White,4,Sales 1,Below Average
+Marketing Associate,Female,41,3,High School,Administration,2,36972,7058,590,Glassdoor,Hispanic,8,Administration 1,Average
+Sales Associate,Female,29,3,High School,Management,3,64754,7377,591,Glassdoor,White,12,Management 1,Average
+IT,Female,44,2,PhD,Operations,5,132267,5679,592,Glassdoor,Hispanic,20,Operations 1,Below Average
+Driver,Male,53,3,PhD,Administration,3,111043,5838,593,Glassdoor,Asian,12,Administration 1,Average
+Warehouse Associate,Male,25,2,Masters,Engineering,1,58130,6327,594,Glassdoor,White,4,Engineering 1,Below Average
+IT,Male,27,3,PhD,Operations,3,90542,7554,595,Glassdoor,Asian,12,Operations 2,Average
+Manager,Male,40,2,College,Administration,2,124891,5436,596,Glassdoor,Asian,8,Administration 1,Below Average
+Marketing Associate,Female,54,3,PhD,Engineering,5,112507,7460,597,Glassdoor,Asian,20,Engineering 1,Average
+Marketing Associate,Female,64,4,College,Sales,5,100316,6010,598,Glassdoor,Hispanic,20,Sales 2,Above Average
+Software Engineer,Male,63,3,PhD,Engineering,2,134757,5944,599,Glassdoor,Asian,8,Engineering 2,Average
+Manager,Male,42,3,College,Sales,4,125339,6019,600,Glassdoor,White,16,Sales 2,Average
+IT,Female,62,4,College,Management,3,111120,6536,601,Glassdoor,Hispanic,12,Management 2,Above Average
+Data Scientist,Female,36,3,High School,Operations,3,76523,7122,602,Glassdoor,White,12,Operations 1,Average
+Driver,Female,50,3,College,Operations,2,91160,5863,603,Glassdoor,White,8,Operations 1,Average
+Manager,Male,28,3,College,Sales,2,105795,6179,604,Glassdoor,White,8,Sales 2,Average
+Financial Analyst,Female,18,2,High School,Operations,2,66935,6508,605,Glassdoor,White,8,Operations 2,Below Average
+Sales Associate,Male,19,1,PhD,Management,3,75238,5308,606,Glassdoor,Asian,12,Management 1,Needs Improvement
+Data Scientist,Female,55,2,Masters,Sales,5,138365,5359,607,Glassdoor,Asian,20,Sales 2,Below Average
+Software Engineer,Male,42,2,College,Management,1,103978,5146,608,Glassdoor,White,4,Management 1,Below Average
+IT,Male,65,4,Masters,Sales,5,165229,6506,609,Glassdoor,White,20,Sales 1,Above Average
+Warehouse Associate,Male,54,2,Masters,Engineering,4,118322,5224,610,Glassdoor,White,16,Engineering 1,Below Average
+Graphic Designer,Male,39,2,Masters,Operations,5,106883,5831,611,Glassdoor,Asian,20,Operations 2,Below Average
+Marketing Associate,Female,45,2,High School,Management,2,59006,5876,612,Glassdoor,White,8,Management 2,Below Average
+Manager,Male,30,1,PhD,Engineering,4,125164,5888,613,Glassdoor,Asian,16,Engineering 1,Needs Improvement
+Software Engineer,Male,53,4,High School,Operations,1,89225,5751,614,Glassdoor,White,4,Operations 2,Above Average
+Driver,Male,63,4,High School,Sales,2,101716,5881,615,Glassdoor,Hispanic,8,Sales 2,Above Average
+Marketing Associate,Female,45,3,Masters,Sales,3,74305,7126,616,Glassdoor,White,12,Sales 1,Average
+Marketing Associate,Female,30,3,Masters,Administration,1,38451,5562,617,Glassdoor,Asian,4,Administration 1,Average
+Graphic Designer,Female,48,1,High School,Operations,5,113465,3846,618,Glassdoor,Asian,20,Operations 1,Needs Improvement
+Sales Associate,Female,27,2,College,Operations,2,66377,5803,619,Glassdoor,Asian,8,Operations 1,Below Average
+Financial Analyst,Male,31,3,PhD,Engineering,1,79142,5445,620,Glassdoor,Asian,4,Engineering 1,Average
+Graphic Designer,Female,20,1,Masters,Operations,4,55569,5236,621,Glassdoor,White,16,Operations 2,Needs Improvement
+Graphic Designer,Male,60,4,Masters,Engineering,1,97240,5412,622,Glassdoor,White,4,Engineering 2,Above Average
+Manager,Female,25,1,Masters,Management,5,119033,6381,623,Glassdoor,Asian,20,Management 2,Needs Improvement
+Marketing Associate,Female,65,3,Masters,Administration,5,106315,5618,624,Glassdoor,White,20,Administration 2,Average
+Driver,Male,24,2,College,Engineering,3,81301,5713,625,Glassdoor,White,12,Engineering 1,Below Average
+Software Engineer,Male,23,1,PhD,Management,2,79462,4673,626,Glassdoor,Asian,8,Management 1,Needs Improvement
+IT,Female,28,1,PhD,Sales,5,105598,5380,627,Glassdoor,Asian,20,Sales 1,Needs Improvement
+Data Scientist,Male,30,2,College,Operations,3,72497,6452,628,Glassdoor,Asian,12,Operations 1,Below Average
+Financial Analyst,Female,23,1,High School,Management,4,78084,5598,629,Glassdoor,Hispanic,16,Management 1,Needs Improvement
+Graphic Designer,Male,50,3,Masters,Management,1,84803,5406,630,Glassdoor,Hispanic,4,Management 2,Average
+Graphic Designer,Female,18,2,College,Administration,1,41603,6092,631,Glassdoor,Asian,4,Administration 1,Below Average
+Driver,Female,47,2,Masters,Operations,2,78002,5175,632,Glassdoor,Asian,8,Operations 2,Below Average
+Warehouse Associate,Male,56,3,Masters,Administration,2,79274,4618,633,Glassdoor,White,8,Administration 2,Average
+IT,Male,20,2,PhD,Management,1,49622,5452,634,Glassdoor,Other,4,Management 1,Below Average
+Sales Associate,Male,62,3,College,Management,3,129620,5608,635,Glassdoor,Asian,12,Management 2,Average
+Software Engineer,Male,36,2,High School,Administration,4,87848,5166,636,Glassdoor,Hispanic,16,Administration 1,Below Average
+Driver,Male,24,2,College,Management,3,51906,6274,637,Glassdoor,Asian,12,Management 1,Below Average
+Sales Associate,Female,44,2,High School,Engineering,3,81866,5183,638,Glassdoor,Asian,12,Engineering 2,Below Average
+Financial Analyst,Male,24,2,PhD,Engineering,3,71590,5845,639,Glassdoor,Other,12,Engineering 2,Below Average
+Warehouse Associate,Male,19,2,High School,Sales,2,63928,4998,640,Glassdoor,White,8,Sales 2,Below Average
+Driver,Male,44,4,High School,Administration,4,83333,7113,641,Glassdoor,Asian,16,Administration 2,Above Average
+Marketing Associate,Male,49,3,High School,Administration,4,92797,5405,642,Glassdoor,Asian,16,Administration 2,Average
+Financial Analyst,Male,36,3,PhD,Operations,1,93067,5103,643,Glassdoor,White,4,Operations 2,Average
+Graphic Designer,Male,22,2,High School,Sales,3,72422,5697,644,Glassdoor,Asian,12,Sales 2,Below Average
+Driver,Male,59,3,College,Operations,3,120159,4265,645,Glassdoor,Asian,12,Operations 2,Average
+Data Scientist,Female,39,3,Masters,Operations,3,91711,6775,646,Glassdoor,White,12,Operations 1,Average
+Marketing Associate,Female,50,3,Masters,Sales,5,93805,6044,647,Glassdoor,Other,20,Sales 1,Average
+Marketing Associate,Female,58,3,Masters,Operations,5,109931,5878,648,Glassdoor,Other,20,Operations 2,Average
+Marketing Associate,Female,42,2,College,Administration,5,88365,4668,649,Glassdoor,White,20,Administration 2,Below Average
+Financial Analyst,Male,58,4,Masters,Operations,3,104744,6425,650,Glassdoor,Asian,12,Operations 1,Above Average
+Warehouse Associate,Female,44,3,High School,Administration,1,79334,6505,651,Glassdoor,White,4,Administration 2,Average
+Driver,Male,41,2,Masters,Administration,4,95795,4898,652,Glassdoor,Asian,16,Administration 2,Below Average
+Financial Analyst,Female,58,3,PhD,Engineering,1,98512,4548,653,Glassdoor,White,4,Engineering 1,Average
+Data Scientist,Female,33,2,High School,Operations,4,78910,5927,654,Glassdoor,Other,16,Operations 1,Below Average
+Manager,Male,22,1,College,Management,2,103156,6277,655,Glassdoor,Other,8,Management 1,Needs Improvement
+Driver,Male,35,2,High School,Administration,5,92760,4826,656,Glassdoor,Hispanic,20,Administration 2,Below Average
+Warehouse Associate,Female,42,1,PhD,Operations,5,125574,5688,657,Glassdoor,White,20,Operations 1,Needs Improvement
+Data Scientist,Male,62,4,College,Operations,3,93742,6580,658,Glassdoor,Asian,12,Operations 1,Above Average
+Sales Associate,Male,50,2,Masters,Engineering,5,124470,5454,659,Glassdoor,Asian,20,Engineering 1,Below Average
+Software Engineer,Male,51,2,Masters,Engineering,3,132323,4872,660,Glassdoor,Hispanic,12,Engineering 2,Below Average
+Sales Associate,Male,22,1,High School,Sales,4,70595,5234,661,Glassdoor,Other,16,Sales 1,Needs Improvement
+Software Engineer,Male,32,2,College,Operations,1,71278,4701,662,Glassdoor,Asian,4,Operations 1,Below Average
+Data Scientist,Male,33,2,High School,Engineering,2,53855,4980,663,Glassdoor,Hispanic,8,Engineering 1,Below Average
+IT,Male,35,1,College,Management,4,98423,3879,664,Glassdoor,Hispanic,16,Management 1,Needs Improvement
+Software Engineer,Male,47,2,Masters,Operations,4,126239,5396,665,Glassdoor,Asian,16,Operations 2,Below Average
+Sales Associate,Male,53,2,Masters,Management,5,101133,4700,666,Glassdoor,White,20,Management 1,Below Average
+Warehouse Associate,Male,23,1,High School,Administration,4,92516,5866,667,Glassdoor,Asian,16,Administration 1,Needs Improvement
+Data Scientist,Male,49,3,College,Administration,3,93320,7236,668,Glassdoor,White,12,Administration 1,Average
+Warehouse Associate,Female,45,1,High School,Administration,5,106963,5084,669,Glassdoor,Hispanic,20,Administration 1,Needs Improvement
+IT,Female,26,1,PhD,Sales,5,111770,5345,670,Glassdoor,Asian,20,Sales 2,Needs Improvement
+IT,Male,33,2,Masters,Engineering,5,106584,5426,671,Glassdoor,White,20,Engineering 1,Below Average
+Marketing Associate,Female,26,2,High School,Operations,3,57672,6476,672,Glassdoor,White,12,Operations 1,Below Average
+Warehouse Associate,Male,50,3,Masters,Administration,1,90612,5913,673,Glassdoor,White,4,Administration 1,Average
+Graphic Designer,Female,35,2,High School,Engineering,5,97768,7233,674,Glassdoor,Asian,20,Engineering 2,Below Average
+Financial Analyst,Male,31,2,PhD,Administration,3,82790,5826,675,Glassdoor,White,12,Administration 1,Below Average
+Graphic Designer,Female,50,3,Masters,Administration,1,76103,5173,676,Glassdoor,Asian,4,Administration 1,Average
+Financial Analyst,Male,38,3,Masters,Administration,1,84628,5680,677,Glassdoor,Asian,4,Administration 2,Average
+Warehouse Associate,Female,59,2,College,Management,2,93441,5499,678,Glassdoor,Asian,8,Management 1,Below Average
+Marketing Associate,Male,42,2,Masters,Management,5,110636,5239,679,Glassdoor,Asian,20,Management 2,Below Average
+Data Scientist,Female,55,3,PhD,Administration,1,108366,5108,680,Glassdoor,White,4,Administration 2,Average
+Manager,Male,38,2,Masters,Management,3,135106,5066,681,Glassdoor,White,12,Management 2,Below Average
+Warehouse Associate,Female,55,2,PhD,Administration,3,85453,5135,682,Glassdoor,Other,12,Administration 2,Below Average
+Graphic Designer,Male,54,3,High School,Management,3,100160,5562,683,Glassdoor,White,12,Management 1,Average
+Data Scientist,Female,48,2,College,Administration,3,79765,5329,684,Glassdoor,White,12,Administration 1,Below Average
+Manager,Male,48,2,PhD,Engineering,4,157169,5798,685,Glassdoor,Asian,16,Engineering 2,Below Average
+Financial Analyst,Female,63,3,PhD,Engineering,3,129683,5754,686,Glassdoor,White,12,Engineering 2,Average
+Financial Analyst,Female,20,1,College,Management,2,76908,4756,687,Glassdoor,Asian,8,Management 1,Needs Improvement
+Financial Analyst,Female,53,3,High School,Management,1,93696,5029,688,Glassdoor,Other,4,Management 1,Average
+Driver,Male,40,3,High School,Sales,2,88230,5512,689,Glassdoor,Asian,8,Sales 2,Average
+Sales Associate,Female,46,2,Masters,Management,2,83095,5284,690,Glassdoor,White,8,Management 2,Below Average
+IT,Female,26,2,College,Sales,3,81325,5647,691,Glassdoor,Hispanic,12,Sales 2,Below Average
+Warehouse Associate,Female,62,2,PhD,Engineering,2,102106,5195,692,Glassdoor,Asian,8,Engineering 2,Below Average
+Graphic Designer,Female,43,1,PhD,Engineering,1,80635,4322,693,Glassdoor,Hispanic,4,Engineering 2,Needs Improvement
+Marketing Associate,Female,32,2,College,Sales,3,73404,5038,694,Glassdoor,Hispanic,12,Sales 1,Below Average
+Data Scientist,Male,44,3,High School,Sales,1,83674,4854,695,Glassdoor,White,4,Sales 1,Average
+IT,Male,62,3,Masters,Engineering,4,118314,4892,696,Glassdoor,White,16,Engineering 1,Average
+Graphic Designer,Female,57,2,Masters,Sales,5,133741,4925,697,Glassdoor,Asian,20,Sales 1,Below Average
+Software Engineer,Male,50,3,PhD,Sales,1,119522,4650,698,Glassdoor,White,4,Sales 1,Average
+Sales Associate,Male,40,2,High School,Administration,3,84592,4635,699,Glassdoor,Asian,12,Administration 1,Below Average
+Sales Associate,Male,64,3,PhD,Sales,2,121589,5133,700,Glassdoor,Other,8,Sales 2,Average
+Manager,Female,28,1,High School,Engineering,4,104329,4962,701,Glassdoor,White,16,Engineering 2,Needs Improvement
+Warehouse Associate,Male,24,1,College,Engineering,3,71371,5220,702,Glassdoor,Hispanic,12,Engineering 1,Needs Improvement
+Data Scientist,Male,59,4,Masters,Sales,1,96582,6350,703,Glassdoor,Hispanic,4,Sales 1,Above Average
+Data Scientist,Male,62,3,PhD,Sales,3,108778,4357,704,Glassdoor,White,12,Sales 1,Average
+Driver,Male,63,3,PhD,Management,4,128520,6151,705,Glassdoor,White,16,Management 1,Average
+Sales Associate,Female,34,1,High School,Management,5,102745,6303,706,Glassdoor,White,20,Management 2,Needs Improvement
+Manager,Female,62,4,Masters,Administration,3,146008,6235,707,Glassdoor,Asian,12,Administration 2,Above Average
+Marketing Associate,Female,44,2,PhD,Management,2,68364,4076,708,Glassdoor,White,8,Management 2,Below Average
+Driver,Male,31,2,High School,Administration,4,62753,5735,709,Glassdoor,White,16,Administration 2,Below Average
+Data Scientist,Female,27,1,High School,Administration,5,96584,5293,710,Glassdoor,Asian,20,Administration 1,Needs Improvement
+Software Engineer,Male,32,1,College,Engineering,5,128680,4677,711,Glassdoor,White,20,Engineering 2,Needs Improvement
+Manager,Male,55,2,College,Management,5,152710,6107,712,Glassdoor,Other,20,Management 2,Below Average
+Software Engineer,Male,36,1,High School,Operations,5,109136,4572,713,Glassdoor,Asian,20,Operations 2,Needs Improvement
+Data Scientist,Female,53,2,PhD,Operations,2,102265,4760,714,Glassdoor,Asian,8,Operations 1,Below Average
+Marketing Associate,Female,33,1,High School,Management,5,81249,4845,715,Glassdoor,Asian,20,Management 2,Needs Improvement
+IT,Female,56,3,Masters,Management,2,101791,6083,716,Glassdoor,Asian,8,Management 2,Average
+Marketing Associate,Female,62,4,College,Sales,1,77584,4524,717,Glassdoor,White,4,Sales 2,Above Average
+Driver,Female,36,1,Masters,Administration,3,88175,5004,718,Glassdoor,White,12,Administration 1,Needs Improvement
+Data Scientist,Female,21,1,PhD,Engineering,2,65816,6817,719,Glassdoor,White,8,Engineering 2,Needs Improvement
+IT,Male,33,2,Masters,Sales,1,84878,5009,720,Glassdoor,White,4,Sales 2,Below Average
+Marketing Associate,Female,28,1,Masters,Engineering,5,73685,4439,721,Glassdoor,White,20,Engineering 2,Needs Improvement
+IT,Female,27,1,Masters,Administration,2,55560,4449,722,Glassdoor,White,8,Administration 1,Needs Improvement
+Software Engineer,Male,36,2,Masters,Administration,2,94745,5930,723,Glassdoor,Asian,8,Administration 1,Below Average
+Data Scientist,Female,43,2,PhD,Sales,3,106452,5346,724,Glassdoor,White,12,Sales 1,Below Average
+Sales Associate,Male,46,2,College,Management,2,95505,4549,725,Glassdoor,White,8,Management 1,Below Average
+Software Engineer,Male,25,1,High School,Engineering,4,103181,4566,726,Glassdoor,Other,16,Engineering 2,Needs Improvement
+Software Engineer,Male,40,2,Masters,Sales,1,120096,4690,727,Glassdoor,Hispanic,4,Sales 2,Below Average
+Warehouse Associate,Female,47,2,College,Administration,2,87575,4422,728,Glassdoor,Hispanic,8,Administration 2,Below Average
+Sales Associate,Male,51,3,High School,Management,2,98499,6274,729,Glassdoor,White,8,Management 1,Average
+Driver,Female,60,2,PhD,Sales,3,113140,4079,730,Glassdoor,Asian,12,Sales 2,Below Average
+Manager,Male,56,2,PhD,Administration,4,152081,4621,731,Glassdoor,Other,16,Administration 2,Below Average
+Data Scientist,Female,40,1,Masters,Management,5,100505,4626,732,Glassdoor,Other,20,Management 2,Needs Improvement
+IT,Female,60,3,Masters,Management,2,104589,4536,733,Glassdoor,Other,8,Management 1,Average
+Manager,Male,36,2,Masters,Sales,3,134450,5214,734,Glassdoor,Asian,12,Sales 1,Below Average
+IT,Female,48,3,High School,Management,1,61081,6337,735,Glassdoor,White,4,Management 2,Average
+Manager,Male,37,2,PhD,Operations,1,100819,5390,736,Glassdoor,White,4,Operations 2,Below Average
+Software Engineer,Male,64,2,PhD,Sales,5,157277,4844,737,Glassdoor,White,20,Sales 2,Below Average
+Marketing Associate,Female,51,2,High School,Management,2,79237,4453,738,Glassdoor,Asian,8,Management 1,Below Average
+Driver,Male,20,2,High School,Sales,2,68175,5698,739,Glassdoor,Asian,8,Sales 2,Below Average
+Driver,Female,61,2,College,Management,4,108475,4489,740,Glassdoor,Hispanic,16,Management 2,Below Average
+Software Engineer,Male,65,3,High School,Sales,2,122624,4165,741,Glassdoor,Hispanic,8,Sales 1,Average
+Graphic Designer,Female,34,1,College,Management,4,99942,5352,742,Glassdoor,Asian,16,Management 1,Needs Improvement
+Data Scientist,Female,58,2,PhD,Engineering,2,108296,4708,743,Glassdoor,Asian,8,Engineering 2,Below Average
+Graphic Designer,Male,45,2,Masters,Management,2,101273,3817,744,Glassdoor,White,8,Management 2,Below Average
+Sales Associate,Male,18,1,Masters,Administration,3,59334,5729,745,Glassdoor,Asian,12,Administration 2,Needs Improvement
+Manager,Male,43,1,PhD,Management,4,152625,4702,746,Glassdoor,Asian,16,Management 2,Needs Improvement
+IT,Female,62,3,College,Sales,4,126370,6032,747,Glassdoor,White,16,Sales 1,Average
+Financial Analyst,Female,45,2,Masters,Administration,5,122142,5435,748,Glassdoor,Hispanic,20,Administration 2,Below Average
+Driver,Female,19,1,High School,Operations,4,75919,5613,749,Glassdoor,Asian,16,Operations 1,Needs Improvement
+Data Scientist,Male,26,1,Masters,Operations,3,90526,4191,750,Glassdoor,Other,12,Operations 2,Needs Improvement
+IT,Female,47,2,PhD,Administration,3,103416,5536,751,Glassdoor,Asian,12,Administration 1,Below Average
+Manager,Male,59,3,College,Engineering,3,133910,5795,752,Glassdoor,Asian,12,Engineering 1,Average
+Driver,Female,63,3,High School,Sales,1,104468,4466,753,Glassdoor,Asian,4,Sales 1,Average
+Sales Associate,Female,57,2,High School,Management,4,117202,5068,754,Glassdoor,White,16,Management 2,Below Average
+Data Scientist,Female,51,1,PhD,Sales,5,139141,4969,755,Glassdoor,White,20,Sales 2,Needs Improvement
+Warehouse Associate,Female,58,1,Masters,Management,4,134109,4184,756,Glassdoor,Asian,16,Management 1,Needs Improvement
+Sales Associate,Female,24,1,High School,Administration,2,66887,5014,757,Glassdoor,Asian,8,Administration 2,Needs Improvement
+Data Scientist,Male,41,1,College,Operations,5,77839,4458,758,Glassdoor,Asian,20,Operations 1,Needs Improvement
+Driver,Male,21,1,High School,Sales,2,61018,5513,759,Glassdoor,Other,8,Sales 2,Needs Improvement
+IT,Female,58,2,High School,Sales,4,124847,3100,760,Glassdoor,Asian,16,Sales 1,Below Average
+Financial Analyst,Female,33,2,PhD,Administration,1,50758,5386,761,Glassdoor,White,4,Administration 2,Below Average
+Graphic Designer,Female,34,1,PhD,Operations,3,75316,5861,762,Glassdoor,Asian,12,Operations 2,Needs Improvement
+Driver,Male,54,3,PhD,Sales,2,118093,4115,763,Glassdoor,White,8,Sales 1,Average
+Software Engineer,Male,31,1,College,Operations,4,106503,5225,764,Glassdoor,Asian,16,Operations 1,Needs Improvement
+Graphic Designer,Female,55,2,College,Administration,3,111502,4413,765,Glassdoor,Asian,12,Administration 1,Below Average
+Sales Associate,Female,47,1,PhD,Engineering,4,116642,4621,766,Glassdoor,White,16,Engineering 2,Needs Improvement
+Financial Analyst,Male,55,3,College,Operations,1,84683,4476,767,Glassdoor,Other,4,Operations 2,Average
+IT,Female,45,2,PhD,Sales,4,113283,5404,768,Glassdoor,White,16,Sales 2,Below Average
+Marketing Associate,Female,48,2,High School,Administration,4,86538,4212,769,Glassdoor,White,16,Administration 1,Below Average
+Marketing Associate,Female,62,3,Masters,Engineering,2,77742,5430,770,Glassdoor,White,8,Engineering 1,Average
+Software Engineer,Male,22,1,College,Sales,1,67913,4045,771,Glassdoor,White,4,Sales 1,Needs Improvement
+Financial Analyst,Female,54,2,College,Sales,2,114171,3768,772,Glassdoor,White,8,Sales 1,Below Average
+Manager,Male,47,1,Masters,Engineering,4,155826,4964,773,Glassdoor,Hispanic,16,Engineering 1,Needs Improvement
+Graphic Designer,Female,63,2,College,Operations,4,106204,4534,774,Glassdoor,White,16,Operations 2,Below Average
+Graphic Designer,Female,38,1,High School,Administration,4,111041,3727,775,Glassdoor,White,16,Administration 1,Needs Improvement
+Software Engineer,Male,62,2,PhD,Engineering,3,138184,4664,776,Glassdoor,Asian,12,Engineering 1,Below Average
+Financial Analyst,Female,63,3,College,Sales,2,95795,5723,777,Glassdoor,Other,8,Sales 2,Average
+Sales Associate,Male,60,3,High School,Administration,3,106798,5201,778,Glassdoor,White,12,Administration 1,Average
+Marketing Associate,Female,65,3,High School,Engineering,3,98575,5410,779,Glassdoor,Hispanic,12,Engineering 1,Average
+Warehouse Associate,Male,37,2,Masters,Administration,1,82343,5232,780,Glassdoor,Asian,4,Administration 1,Below Average
+Software Engineer,Female,57,1,College,Engineering,3,117131,2324,781,Glassdoor,Asian,12,Engineering 1,Needs Improvement
+Sales Associate,Male,26,2,High School,Sales,2,78625,4073,782,Glassdoor,Other,8,Sales 2,Below Average
+Financial Analyst,Male,27,2,PhD,Administration,4,99134,6255,783,Glassdoor,White,16,Administration 2,Below Average
+Marketing Associate,Female,20,2,College,Administration,2,38613,6079,784,Glassdoor,White,8,Administration 1,Below Average
+Marketing Associate,Female,26,2,College,Operations,1,62866,5114,785,Glassdoor,White,4,Operations 2,Below Average
+Graphic Designer,Male,44,1,Masters,Engineering,5,107818,5281,786,Glassdoor,Asian,20,Engineering 1,Needs Improvement
+Graphic Designer,Female,47,1,High School,Operations,5,108731,4793,787,Glassdoor,White,20,Operations 2,Needs Improvement
+Manager,Male,21,1,College,Management,2,114621,3927,788,Glassdoor,Asian,8,Management 2,Needs Improvement
+Marketing Associate,Female,23,1,High School,Sales,2,47739,4829,789,Glassdoor,White,8,Sales 1,Needs Improvement
+Data Scientist,Male,45,1,Masters,Operations,3,104290,3474,790,Glassdoor,Asian,12,Operations 1,Needs Improvement
+Financial Analyst,Male,65,4,Masters,Sales,1,111403,5078,791,Glassdoor,White,4,Sales 1,Above Average
+IT,Male,52,2,College,Administration,5,93802,5404,792,Glassdoor,White,20,Administration 2,Below Average
+Manager,Male,30,1,High School,Sales,5,138163,3415,793,Glassdoor,White,20,Sales 1,Needs Improvement
+Financial Analyst,Male,50,2,Masters,Operations,3,115613,3881,794,Glassdoor,White,12,Operations 1,Below Average
+Sales Associate,Female,18,1,Masters,Engineering,1,64920,4967,795,Glassdoor,Hispanic,4,Engineering 2,Needs Improvement
+Software Engineer,Female,36,1,PhD,Management,1,79177,3661,796,Glassdoor,Asian,4,Management 2,Needs Improvement
+Warehouse Associate,Male,25,1,College,Operations,1,64994,4310,797,Glassdoor,Other,4,Operations 1,Needs Improvement
+Driver,Male,53,3,PhD,Sales,2,100941,5992,798,Glassdoor,Hispanic,8,Sales 2,Average
+Manager,Male,55,1,High School,Management,5,163208,4095,799,Glassdoor,White,20,Management 2,Needs Improvement
+Sales Associate,Male,24,1,PhD,Operations,2,51837,4472,800,Glassdoor,White,8,Operations 2,Needs Improvement
+Graphic Designer,Male,56,2,Masters,Management,4,114048,5097,801,Glassdoor,White,16,Management 1,Below Average
+Manager,Female,59,2,High School,Management,2,136215,3603,802,Glassdoor,White,8,Management 1,Below Average
+Marketing Associate,Female,55,3,High School,Administration,1,63327,4066,803,Glassdoor,White,4,Administration 1,Average
+Software Engineer,Male,64,2,PhD,Engineering,4,139068,4126,804,Glassdoor,Hispanic,16,Engineering 1,Below Average
+Sales Associate,Male,63,2,Masters,Engineering,3,136209,3910,805,Glassdoor,White,12,Engineering 1,Below Average
+Software Engineer,Male,55,2,PhD,Management,3,121910,4494,806,Glassdoor,Hispanic,12,Management 2,Below Average
+Graphic Designer,Male,43,2,PhD,Management,2,82057,5268,807,Glassdoor,Other,8,Management 1,Below Average
+Sales Associate,Male,51,2,High School,Engineering,1,96023,4148,808,Glassdoor,White,4,Engineering 2,Below Average
+Marketing Associate,Female,31,1,High School,Sales,3,52578,5538,809,Glassdoor,White,12,Sales 2,Needs Improvement
+Driver,Female,61,2,College,Administration,4,114436,4249,810,Glassdoor,Hispanic,16,Administration 1,Below Average
+Marketing Associate,Female,56,2,Masters,Sales,4,99543,4442,811,Glassdoor,Asian,16,Sales 1,Below Average
+Sales Associate,Female,41,2,College,Sales,1,60983,5022,812,Glassdoor,Asian,4,Sales 1,Below Average
+Software Engineer,Male,49,3,Masters,Administration,1,82277,5460,813,Glassdoor,White,4,Administration 1,Average
+Marketing Associate,Female,23,1,College,Sales,2,55885,3795,814,Glassdoor,White,8,Sales 2,Needs Improvement
+Graphic Designer,Male,29,1,Masters,Operations,3,73142,4712,815,Glassdoor,Asian,12,Operations 1,Needs Improvement
+Graphic Designer,Male,53,2,High School,Operations,4,107065,3652,816,Glassdoor,Asian,16,Operations 1,Below Average
+Driver,Female,61,2,PhD,Engineering,2,107064,4202,817,Glassdoor,White,8,Engineering 1,Below Average
+Marketing Associate,Female,56,2,High School,Operations,5,107370,4916,818,Glassdoor,White,20,Operations 2,Below Average
+Marketing Associate,Female,25,1,High School,Sales,1,39741,4981,819,Glassdoor,White,4,Sales 1,Needs Improvement
+Sales Associate,Male,64,2,High School,Management,3,120579,4687,820,Glassdoor,Asian,12,Management 2,Below Average
+Driver,Female,55,2,High School,Engineering,3,103242,4495,821,Glassdoor,Asian,12,Engineering 2,Below Average
+Driver,Female,42,1,Masters,Sales,5,120112,5070,822,Glassdoor,White,20,Sales 2,Needs Improvement
+Sales Associate,Female,61,2,High School,Sales,2,83308,3653,823,Glassdoor,Asian,8,Sales 2,Below Average
+Marketing Associate,Female,26,1,High School,Management,1,36585,4373,824,Glassdoor,White,4,Management 1,Needs Improvement
+Graphic Designer,Female,59,2,College,Engineering,4,115344,4827,825,Glassdoor,Asian,16,Engineering 1,Below Average
+Sales Associate,Male,36,2,High School,Management,1,49553,5784,826,Glassdoor,White,4,Management 2,Below Average
+IT,Female,54,2,Masters,Administration,3,96982,4750,827,Glassdoor,White,12,Administration 2,Below Average
+Financial Analyst,Female,24,1,High School,Management,4,80030,5481,828,Glassdoor,Asian,16,Management 1,Needs Improvement
+Driver,Male,58,2,College,Sales,4,110157,4275,829,Glassdoor,Asian,16,Sales 2,Below Average
+Financial Analyst,Female,32,1,High School,Administration,4,84047,4683,830,Glassdoor,Asian,16,Administration 2,Needs Improvement
+Marketing Associate,Male,47,2,PhD,Sales,3,93054,4243,831,Glassdoor,Asian,12,Sales 1,Below Average
+Data Scientist,Female,53,2,Masters,Engineering,2,84764,4409,832,Glassdoor,White,8,Engineering 1,Below Average
+Warehouse Associate,Female,61,1,Masters,Management,3,120277,4617,833,Glassdoor,Hispanic,12,Management 1,Needs Improvement
+Marketing Associate,Female,56,2,High School,Sales,3,81661,4965,834,Glassdoor,Hispanic,12,Sales 1,Below Average
+Manager,Female,45,1,High School,Engineering,5,149893,5120,835,Glassdoor,White,20,Engineering 1,Needs Improvement
+Software Engineer,Male,45,2,High School,Management,1,81515,5001,836,Glassdoor,Hispanic,4,Management 2,Below Average
+Driver,Male,55,2,Masters,Operations,3,95898,4309,837,Glassdoor,Asian,12,Operations 2,Below Average
+Warehouse Associate,Male,42,2,PhD,Operations,3,90000,4774,838,Glassdoor,White,12,Operations 2,Below Average
+Manager,Male,60,3,High School,Management,2,111896,5597,839,Glassdoor,Hispanic,8,Management 2,Average
+Driver,Male,53,1,Masters,Engineering,5,130082,4734,840,Glassdoor,White,20,Engineering 2,Needs Improvement
+Sales Associate,Female,60,2,PhD,Engineering,5,130417,4694,841,Glassdoor,Other,20,Engineering 2,Below Average
+Marketing Associate,Female,34,1,College,Engineering,2,38855,4503,842,Glassdoor,Other,8,Engineering 1,Needs Improvement
+Software Engineer,Male,25,1,High School,Administration,4,81057,5259,843,Glassdoor,White,16,Administration 2,Needs Improvement
+Data Scientist,Male,41,1,High School,Management,5,117215,4322,844,Glassdoor,White,20,Management 2,Needs Improvement
+Graphic Designer,Female,49,1,High School,Administration,4,96232,3697,845,Glassdoor,Other,16,Administration 1,Needs Improvement
+Financial Analyst,Male,64,1,PhD,Operations,5,141186,3415,846,Glassdoor,White,20,Operations 2,Needs Improvement
+Manager,Male,52,2,High School,Operations,2,114943,3438,847,Glassdoor,White,8,Operations 2,Below Average
+Data Scientist,Male,43,1,PhD,Administration,4,107640,3896,848,Glassdoor,Other,16,Administration 2,Needs Improvement
+Manager,Male,31,2,College,Operations,1,80259,4791,849,Glassdoor,White,4,Operations 1,Below Average
+Marketing Associate,Female,48,1,College,Operations,5,86563,4415,850,Glassdoor,Hispanic,20,Operations 1,Needs Improvement
+Data Scientist,Male,20,1,High School,Operations,2,61589,3990,851,Glassdoor,White,8,Operations 2,Needs Improvement
+Warehouse Associate,Male,35,1,High School,Administration,2,74829,4263,852,Glassdoor,Asian,8,Administration 2,Needs Improvement
+Graphic Designer,Female,44,1,Masters,Administration,2,72248,3634,853,Glassdoor,White,8,Administration 2,Needs Improvement
+Sales Associate,Male,49,2,High School,Operations,3,91342,4516,854,Glassdoor,White,12,Operations 1,Below Average
+Sales Associate,Male,49,2,Masters,Operations,2,101140,4851,855,Glassdoor,White,8,Operations 2,Below Average
+Marketing Associate,Male,51,2,PhD,Sales,1,62600,4300,856,Glassdoor,White,4,Sales 2,Below Average
+Software Engineer,Male,21,1,High School,Engineering,2,65313,4685,857,Glassdoor,White,8,Engineering 2,Needs Improvement
+Manager,Male,41,1,College,Administration,5,123153,4111,858,Glassdoor,Asian,20,Administration 1,Needs Improvement
+IT,Male,27,1,High School,Management,3,57500,3665,859,Glassdoor,White,12,Management 1,Needs Improvement
+Manager,Male,37,1,PhD,Administration,3,115604,4098,860,Glassdoor,Asian,12,Administration 1,Needs Improvement
+Software Engineer,Male,18,1,High School,Sales,1,55555,4390,861,Glassdoor,White,4,Sales 1,Needs Improvement
+Data Scientist,Male,58,1,PhD,Engineering,5,124166,3875,862,Glassdoor,White,20,Engineering 2,Needs Improvement
+IT,Male,50,2,Masters,Management,3,101050,3879,863,Glassdoor,White,12,Management 2,Below Average
+Data Scientist,Female,56,1,College,Engineering,5,125828,3961,864,Glassdoor,White,20,Engineering 2,Needs Improvement
+Graphic Designer,Female,45,1,High School,Management,3,75017,5576,865,Glassdoor,Asian,12,Management 2,Needs Improvement
+Marketing Associate,Female,40,1,Masters,Engineering,4,100415,3871,866,Glassdoor,White,16,Engineering 2,Needs Improvement
+Manager,Female,57,1,Masters,Operations,3,145095,3889,867,Glassdoor,Hispanic,12,Operations 2,Needs Improvement
+Data Scientist,Female,63,2,High School,Administration,5,115641,4339,868,Glassdoor,White,20,Administration 2,Below Average
+Software Engineer,Male,59,1,College,Sales,5,160460,2930,869,Glassdoor,Asian,20,Sales 1,Needs Improvement
+Financial Analyst,Male,45,2,High School,Administration,2,85947,3909,870,Glassdoor,Hispanic,8,Administration 1,Below Average
+Financial Analyst,Female,48,1,College,Engineering,5,119058,4037,871,Glassdoor,White,20,Engineering 1,Needs Improvement
+Warehouse Associate,Female,56,1,College,Administration,4,106722,4044,872,Glassdoor,Hispanic,16,Administration 1,Needs Improvement
+Financial Analyst,Female,41,2,PhD,Operations,3,91129,4825,873,Glassdoor,White,12,Operations 1,Below Average
+Graphic Designer,Male,59,1,PhD,Sales,4,135512,3955,874,Glassdoor,White,16,Sales 1,Needs Improvement
+Financial Analyst,Female,49,2,College,Operations,1,92891,3578,875,Glassdoor,Other,4,Operations 2,Below Average
+Financial Analyst,Male,64,3,High School,Administration,3,124151,3392,876,Glassdoor,White,12,Administration 1,Average
+Data Scientist,Female,58,1,High School,Sales,5,141005,3384,877,Glassdoor,White,20,Sales 1,Needs Improvement
+Manager,Male,36,1,High School,Operations,2,115742,3661,878,Glassdoor,Hispanic,8,Operations 2,Needs Improvement
+IT,Male,31,1,Masters,Sales,2,93358,3223,879,Glassdoor,Other,8,Sales 1,Needs Improvement
+IT,Female,44,1,High School,Sales,5,131411,3084,880,Glassdoor,White,20,Sales 1,Needs Improvement
+Sales Associate,Female,61,2,College,Sales,1,96900,4157,881,Glassdoor,Asian,4,Sales 2,Below Average
+IT,Male,59,3,Masters,Sales,2,98995,4596,882,Glassdoor,Other,8,Sales 1,Average
+IT,Male,57,3,High School,Sales,3,109645,5472,883,Glassdoor,Other,12,Sales 1,Average
+Financial Analyst,Male,39,2,College,Sales,1,61609,3738,884,Glassdoor,White,4,Sales 2,Below Average
+Marketing Associate,Female,56,2,High School,Engineering,3,88820,4289,885,Glassdoor,White,12,Engineering 2,Below Average
+Data Scientist,Male,61,1,Masters,Administration,5,122352,3590,886,Glassdoor,Other,20,Administration 2,Needs Improvement
+Marketing Associate,Female,53,1,Masters,Management,4,112489,4237,887,Glassdoor,Asian,16,Management 2,Needs Improvement
+Software Engineer,Male,29,1,High School,Sales,1,86650,3518,888,Glassdoor,Other,4,Sales 2,Needs Improvement
+Data Scientist,Male,62,3,High School,Operations,2,101284,4993,889,Glassdoor,Hispanic,8,Operations 1,Average
+Manager,Male,41,1,Masters,Sales,2,119794,3712,890,Glassdoor,Asian,8,Sales 2,Needs Improvement
+Graphic Designer,Male,58,2,Masters,Operations,1,96609,3044,891,Glassdoor,Hispanic,4,Operations 2,Below Average
+Marketing Associate,Female,38,1,PhD,Engineering,1,53839,3270,892,Glassdoor,Hispanic,4,Engineering 2,Needs Improvement
+Financial Analyst,Male,29,1,Masters,Operations,2,84725,3274,893,Glassdoor,White,8,Operations 1,Needs Improvement
+IT,Female,57,2,High School,Administration,1,64807,3887,894,Glassdoor,Asian,4,Administration 2,Below Average
+IT,Female,28,1,High School,Management,1,41151,4296,895,Glassdoor,White,4,Management 1,Needs Improvement
+Financial Analyst,Female,48,1,College,Administration,4,114031,4510,896,Glassdoor,White,16,Administration 2,Needs Improvement
+Driver,Male,33,1,High School,Management,1,59493,3955,897,Glassdoor,White,4,Management 2,Needs Improvement
+Manager,Female,42,1,High School,Management,2,119893,3721,898,Glassdoor,White,8,Management 1,Needs Improvement
+Manager,Male,60,2,College,Sales,1,131980,3841,899,Glassdoor,Asian,4,Sales 2,Below Average
+Sales Associate,Female,52,1,High School,Sales,3,94154,3964,900,Glassdoor,White,12,Sales 2,Needs Improvement
+Marketing Associate,Female,60,1,College,Management,4,114906,4766,901,Glassdoor,White,16,Management 2,Needs Improvement
+Driver,Female,63,1,Masters,Management,4,115981,2661,902,Glassdoor,Asian,16,Management 2,Needs Improvement
+Data Scientist,Male,37,1,PhD,Administration,2,78836,3588,903,Glassdoor,White,8,Administration 1,Needs Improvement
+Driver,Male,64,2,Masters,Operations,2,112719,3382,904,Glassdoor,White,8,Operations 1,Below Average
+Marketing Associate,Female,59,1,Masters,Sales,3,93018,2730,905,Glassdoor,Hispanic,12,Sales 2,Needs Improvement
+Marketing Associate,Female,55,2,College,Sales,2,69928,4811,906,Glassdoor,White,8,Sales 2,Below Average
+Software Engineer,Female,57,2,High School,Engineering,1,104623,3791,907,Glassdoor,Other,4,Engineering 1,Below Average
+Driver,Male,55,2,College,Administration,2,103328,4543,908,Glassdoor,White,8,Administration 1,Below Average
+Financial Analyst,Male,47,2,High School,Management,1,68643,4674,909,Glassdoor,Asian,4,Management 2,Below Average
+Graphic Designer,Female,33,1,High School,Sales,1,63914,3521,910,Glassdoor,Other,4,Sales 1,Needs Improvement
+Sales Associate,Male,45,2,High School,Engineering,1,67296,4780,911,Glassdoor,Hispanic,4,Engineering 1,Below Average
+Graphic Designer,Female,44,1,College,Sales,3,90474,3530,912,Glassdoor,Asian,12,Sales 2,Needs Improvement
+Driver,Female,22,1,High School,Administration,1,60026,4605,913,Glassdoor,Asian,4,Administration 1,Needs Improvement
+Marketing Associate,Female,41,1,PhD,Management,5,108587,4275,914,Glassdoor,Hispanic,20,Management 2,Needs Improvement
+Financial Analyst,Female,61,1,Masters,Engineering,4,139042,2982,915,Glassdoor,White,16,Engineering 1,Needs Improvement
+Driver,Male,65,1,High School,Operations,5,116803,3431,916,Glassdoor,White,20,Operations 2,Needs Improvement
+Sales Associate,Female,57,1,Masters,Operations,3,101423,3641,917,Glassdoor,White,12,Operations 1,Needs Improvement
+Software Engineer,Male,36,1,Masters,Operations,1,86375,3368,918,Glassdoor,White,4,Operations 1,Needs Improvement
+IT,Male,31,1,College,Operations,1,49449,4149,919,Glassdoor,White,4,Operations 2,Needs Improvement
+Marketing Associate,Female,56,2,High School,Sales,3,95995,4045,920,Glassdoor,White,12,Sales 1,Below Average
+Software Engineer,Male,51,1,College,Management,2,118282,3599,921,Glassdoor,Other,8,Management 2,Needs Improvement
+IT,Female,47,1,PhD,Operations,3,99472,3943,922,Glassdoor,White,12,Operations 2,Needs Improvement
+Manager,Female,55,1,High School,Administration,3,135638,2824,923,Glassdoor,Asian,12,Administration 1,Needs Improvement
+IT,Male,50,1,College,Operations,3,85648,2728,924,Glassdoor,White,12,Operations 1,Needs Improvement
+Data Scientist,Female,58,1,PhD,Management,4,121457,4723,925,Glassdoor,White,16,Management 1,Needs Improvement
+Data Scientist,Female,57,1,PhD,Operations,2,114141,3746,926,Glassdoor,White,8,Operations 1,Needs Improvement
+Manager,Male,58,1,PhD,Management,4,179726,4284,927,Glassdoor,Asian,16,Management 2,Needs Improvement
+Marketing Associate,Female,64,1,College,Administration,5,107572,3107,928,Glassdoor,White,20,Administration 2,Needs Improvement
+Sales Associate,Female,65,2,PhD,Sales,5,142505,4214,929,Glassdoor,Asian,20,Sales 2,Below Average
+Financial Analyst,Male,43,1,PhD,Sales,4,108719,4143,930,Glassdoor,Asian,16,Sales 2,Needs Improvement
+IT,Male,36,1,High School,Sales,4,109832,3528,931,Glassdoor,Other,16,Sales 2,Needs Improvement
+Software Engineer,Male,60,1,PhD,Administration,4,127250,4263,932,Glassdoor,Hispanic,16,Administration 1,Needs Improvement
+Sales Associate,Female,50,1,Masters,Sales,3,106279,3892,933,Glassdoor,White,12,Sales 1,Needs Improvement
+Software Engineer,Male,37,1,High School,Sales,1,81547,3510,934,Glassdoor,White,4,Sales 1,Needs Improvement
+Data Scientist,Male,56,1,Masters,Administration,2,95798,2530,935,Glassdoor,Asian,8,Administration 2,Needs Improvement
+Manager,Female,47,1,High School,Management,3,106916,3959,936,Glassdoor,White,12,Management 2,Needs Improvement
+Manager,Male,59,2,PhD,Administration,1,124782,4618,937,Glassdoor,Hispanic,4,Administration 2,Below Average
+Warehouse Associate,Male,53,1,College,Operations,4,126256,3463,938,Glassdoor,White,16,Operations 1,Needs Improvement
+IT,Female,59,1,PhD,Engineering,3,92257,3908,939,Glassdoor,Asian,12,Engineering 1,Needs Improvement
+Software Engineer,Male,62,1,High School,Sales,3,124660,2200,940,Glassdoor,Asian,12,Sales 1,Needs Improvement
+IT,Female,32,2,High School,Engineering,1,59377,5236,941,Glassdoor,Asian,4,Engineering 1,Below Average
+Marketing Associate,Female,38,1,PhD,Engineering,2,76726,4204,942,Glassdoor,White,8,Engineering 1,Needs Improvement
+IT,Female,54,1,High School,Engineering,5,112502,3988,943,Glassdoor,Hispanic,20,Engineering 2,Needs Improvement
+Data Scientist,Male,65,2,Masters,Sales,2,128730,3247,944,Glassdoor,Hispanic,8,Sales 1,Below Average
+Manager,Male,61,2,College,Sales,1,136836,4070,945,Glassdoor,Asian,4,Sales 2,Below Average
+IT,Male,51,1,High School,Engineering,3,89272,2600,946,Glassdoor,White,12,Engineering 2,Needs Improvement
+Financial Analyst,Female,62,1,High School,Operations,3,101515,2251,947,Glassdoor,White,12,Operations 1,Needs Improvement
+Software Engineer,Male,36,1,Masters,Operations,1,93855,4099,948,Glassdoor,White,4,Operations 2,Needs Improvement
+Graphic Designer,Male,30,1,College,Operations,2,36642,4388,949,Glassdoor,Asian,8,Operations 1,Needs Improvement
+Sales Associate,Male,60,1,College,Operations,3,112604,3366,950,Glassdoor,Asian,12,Operations 2,Needs Improvement
+Financial Analyst,Female,49,1,PhD,Engineering,1,67089,3078,951,Glassdoor,White,4,Engineering 2,Needs Improvement
+Driver,Female,51,1,PhD,Management,2,97789,3536,952,Glassdoor,White,8,Management 2,Needs Improvement
+Data Scientist,Male,62,1,PhD,Administration,3,123333,3353,953,Glassdoor,White,12,Administration 2,Needs Improvement
+IT,Male,62,1,PhD,Management,2,105771,2978,954,Glassdoor,White,8,Management 1,Needs Improvement
+Marketing Associate,Female,46,1,College,Administration,1,54945,2991,955,Glassdoor,Asian,4,Administration 2,Needs Improvement
+Data Scientist,Female,65,1,PhD,Operations,2,121239,3078,956,Glassdoor,Hispanic,8,Operations 1,Needs Improvement
+Data Scientist,Female,64,2,High School,Sales,1,87314,3688,957,Glassdoor,Hispanic,4,Sales 1,Below Average
+Driver,Female,65,1,PhD,Operations,3,124530,3647,958,Glassdoor,White,12,Operations 2,Needs Improvement
+Driver,Female,45,1,College,Sales,2,67150,3255,959,Glassdoor,White,8,Sales 2,Needs Improvement
+Financial Analyst,Male,39,1,College,Engineering,4,99643,3789,960,Glassdoor,Other,16,Engineering 1,Needs Improvement
+Sales Associate,Male,54,1,College,Administration,3,92468,3242,961,Glassdoor,Hispanic,12,Administration 2,Needs Improvement
+Financial Analyst,Female,47,1,College,Operations,2,63300,3655,962,Glassdoor,White,8,Operations 1,Needs Improvement
+IT,Male,55,2,Masters,Operations,1,91447,3196,963,Glassdoor,Hispanic,4,Operations 1,Below Average
+Marketing Associate,Female,58,2,High School,Operations,1,60271,3927,964,Glassdoor,Asian,4,Operations 1,Below Average
+Warehouse Associate,Male,34,1,Masters,Operations,1,45915,4765,965,Glassdoor,White,4,Operations 1,Needs Improvement
+Marketing Associate,Female,53,1,Masters,Operations,1,66028,3745,966,Glassdoor,White,4,Operations 2,Needs Improvement
+Sales Associate,Male,57,1,PhD,Administration,5,113031,3409,967,Glassdoor,Other,20,Administration 2,Needs Improvement
+Software Engineer,Male,62,1,High School,Sales,3,132815,3367,968,Glassdoor,White,12,Sales 1,Needs Improvement
+Manager,Male,52,1,High School,Management,1,110078,1703,969,Glassdoor,Asian,4,Management 1,Needs Improvement
+Data Scientist,Male,57,1,Masters,Sales,3,106918,3180,970,Glassdoor,Hispanic,12,Sales 2,Needs Improvement
+Software Engineer,Male,60,1,High School,Administration,3,106045,3079,971,Glassdoor,White,12,Administration 1,Needs Improvement
+Warehouse Associate,Male,65,1,High School,Operations,2,107479,2051,972,Glassdoor,White,8,Operations 1,Needs Improvement
+Software Engineer,Male,64,1,Masters,Sales,1,109606,2193,973,Glassdoor,White,4,Sales 1,Needs Improvement
+Marketing Associate,Female,44,1,High School,Engineering,3,91300,3680,974,Glassdoor,Asian,12,Engineering 2,Needs Improvement
+Sales Associate,Male,56,1,High School,Management,1,88195,2375,975,Glassdoor,Asian,4,Management 1,Needs Improvement
+Financial Analyst,Female,54,1,Masters,Operations,2,90999,2963,976,Glassdoor,Asian,8,Operations 1,Needs Improvement
+Sales Associate,Female,58,1,College,Operations,3,86795,3453,977,Glassdoor,White,12,Operations 2,Needs Improvement
+IT,Female,59,1,College,Sales,3,110627,2041,978,Glassdoor,Hispanic,12,Sales 2,Needs Improvement
+Marketing Associate,Female,52,1,PhD,Sales,3,97696,3888,979,Glassdoor,Asian,12,Sales 2,Needs Improvement
+IT,Male,64,1,Masters,Sales,1,92950,2125,980,Glassdoor,Hispanic,4,Sales 1,Needs Improvement
+Sales Associate,Male,56,1,High School,Operations,1,82164,2611,981,Glassdoor,White,4,Operations 1,Needs Improvement
+Software Engineer,Male,62,1,High School,Management,3,119069,2788,982,Glassdoor,White,12,Management 2,Needs Improvement
+Marketing Associate,Female,59,1,College,Engineering,1,62738,2656,983,Glassdoor,White,4,Engineering 2,Needs Improvement
+IT,Female,53,1,High School,Administration,2,112169,2763,984,Glassdoor,Asian,8,Administration 1,Needs Improvement
+Manager,Male,55,1,High School,Administration,1,120574,2683,985,Glassdoor,Asian,4,Administration 2,Needs Improvement
+Data Scientist,Male,54,1,College,Sales,2,97311,3083,986,Glassdoor,White,8,Sales 2,Needs Improvement
+Marketing Associate,Female,59,1,High School,Operations,3,98796,3042,987,Glassdoor,White,12,Operations 2,Needs Improvement
+Sales Associate,Male,62,1,Masters,Administration,2,102593,1823,988,Glassdoor,White,8,Administration 1,Needs Improvement
+Financial Analyst,Female,65,1,High School,Administration,2,96665,2645,989,Glassdoor,White,8,Administration 1,Needs Improvement
+Graphic Designer,Female,61,1,Masters,Engineering,1,91030,3318,990,Glassdoor,White,4,Engineering 2,Needs Improvement
+IT,Female,65,1,Masters,Administration,1,106945,2041,991,Glassdoor,Hispanic,4,Administration 1,Needs Improvement
+Graphic Designer,Female,63,1,College,Administration,2,81545,3418,992,Glassdoor,Other,8,Administration 2,Needs Improvement
+Marketing Associate,Female,65,1,Masters,Administration,1,80789,1884,993,Glassdoor,Other,4,Administration 1,Needs Improvement
+Marketing Associate,Female,64,1,PhD,Administration,2,85253,2777,994,Glassdoor,White,8,Administration 1,Needs Improvement
+Marketing Associate,Female,61,1,High School,Administration,1,62644,3270,995,Glassdoor,Other,4,Administration 2,Needs Improvement
+Data Scientist,Male,57,1,Masters,Sales,2,108977,3567,996,Glassdoor,White,8,Sales 1,Needs Improvement
+Financial Analyst,Male,48,1,High School,Operations,1,92347,2724,997,Glassdoor,White,4,Operations 1,Needs Improvement
+Financial Analyst,Male,65,2,High School,Administration,1,97376,2225,998,Glassdoor,White,4,Administration 1,Below Average
+Financial Analyst,Male,60,1,PhD,Sales,2,123108,2244,999,Glassdoor,White,8,Sales 1,Needs Improvement

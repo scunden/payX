@@ -1,13 +1,14 @@
 import streamlit as st
-import payequity as pe
-import pandas as pd
 import streamlit_ext as ste
 import docs
-import plotly.graph_objects as go
+import config
+import numpy as np
 
 
-def no_jge():
-    st.error(docs.VAL_PLACEHOLDER, icon="🚨")
+st.set_page_config(
+        page_title="Talent Ai PayX",
+        page_icon="🎇",
+    )
 
 def main():
         
@@ -20,9 +21,13 @@ def main():
     summary = jge.audit.summary.copy()
     num_models = summary.shape[0]
     rejected = len(jge.rejected_jg)
-    overfit = summary.loc[summary['DoF Ratio']<8]['Job Group'].unique().tolist()
-    good_perf = summary.loc[summary['MAPE']<=0.10]['Job Group'].unique().tolist()
-    poor_perf = summary.loc[summary['MAPE']>0.10]['Job Group'].unique().tolist()
+    
+    overfit_df = jge.audit.predictive_dof.copy()
+    overfit_df = overfit_df.loc[overfit_df['Ratio']<config.DOF_THRESHOLD][['Job Group','Observations','Features','DoF', 'Ratio']]
+    overfit = overfit_df['Job Group'].unique().tolist()
+    
+    good_perf = summary.loc[summary['MAPE']<=config.PERFORMANCE_THRESHOLD]['Job Group'].unique().tolist()
+    poor_perf = summary.loc[summary['MAPE']>config.PERFORMANCE_THRESHOLD]['Job Group'].unique().tolist()
     
     if rejected == 0:
         st.success("All job groups successfully created!")
@@ -39,6 +44,7 @@ def main():
         st.warning("{} out of the {} job groups need to be carefully analyzed, namely: {}".format(
             len(overfit), num_models, overfit), icon="⚠️")    
         st.write(docs.OVERFIT)
+        st.dataframe(data=overfit_df,use_container_width=True)
         
     st.markdown("""---""") 
     
@@ -56,35 +62,82 @@ def main():
     
     st.header("🛑 Illegitimate Factors Evaluation")
     hug_coef = jge.audit.hug_coef.copy()
-    high_vif = hug_coef.loc[hug_coef['VIF']>5]['Job Group'].unique().tolist()
+    high_vif = hug_coef.loc[hug_coef['VIF']>config.VIF_THRESHOLD_PG]['Job Group'].unique().tolist()
     if len(high_vif)==0:
         st.success("All models have interpretable pay gaps")    
     else:
         st.error(docs.BAD_GAPS, icon="🚨")
         
-    high_vif_coef = hug_coef.loc[hug_coef['VIF']>1.3]
+    high_vif_gap = hug_coef.loc[hug_coef['VIF']>config.VIF_THRESHOLD_PG]
     
-    if high_vif_coef.shape[0] > 0:
+    if high_vif_gap.shape[0] > 0:
         st.success("All models have interpretable pay gaps") 
     else:
-        for jg, div in high_vif_coef[['Job Group','Variable']].values:
+        for jg, div in high_vif_gap[['Job Group','Variable']].values:
             st.error('Error: Job group "{}" has an unreliable "{}" pay gap'.format(jg, div), icon="🚨")
         
     st.markdown("""---""") 
     
     st.header("🎯 Legitimate Factors Evaluation")
     predictive_coef = jge.audit.predictive_coef.copy()
-    high_vif_pred = predictive_coef.loc[predictive_coef['VIF']>5]['Job Group'].unique().tolist()
-    if len(high_vif_pred)==0:
+    high_vif_pred = predictive_coef.loc[(predictive_coef['VIF']>config.VIF_THRESHOLD)]
+    
+    if high_vif_pred.shape[0]==0:
         st.success("All models have interpretable coefficients")    
+    else:
+        instances = high_vif_pred.shape[0]
+        across_jg = high_vif_pred["Job Group"].unique().shape[0]
+        st.warning('Warning: There are {} instances of unreliable coefficients across {} job groups'.format(
+            instances, across_jg), icon="⚠️")
+        st.markdown("""---""") 
+        st.subheader("Unreliable Coefficients")
+        display_vif(high_vif_pred.sort_values(by=['VIF'], ascending=False))
+        st.markdown("""---""") 
+        st.subheader("Correlations")
+        view_correlation(high_vif_pred, jge)
         
-    for jg, var in predictive_coef.loc[predictive_coef['VIF']>5][['Job Group','Variable']].values:
-        st.warning('Warning: Job group "{}" has an unreliable "{}" pay gap'.format(jg, var), icon="⚠️")
     st.markdown("""---""") 
+
+
+def display_vif(df):
+    cols = [x for x in df.columns if x not in ['Significant','P>|t|']]
+    st.dataframe(data=df[cols],use_container_width=True)
+
+def display_correlation(corr, jg, var, feature):
+    if feature is None:
+        feature_corr = corr.loc[(corr["Job Group"]==jg)&(corr["Variable 1"]==var)].copy()
+    else:
+        feature_corr = corr.loc[(corr["Job Group"]==jg)&(corr["Variable 1"]==var)&(corr["Feature 1"]==feature)].copy()
+        
+    feature_corr = feature_corr.loc[(feature_corr['Variable 1']!=feature_corr['Variable 2'])]
+    feature_corr["Absolute Correlation"] = np.abs(feature_corr.Correlation)
+    feature_corr = feature_corr.loc[feature_corr['Absolute Correlation']>config.CORR_THRESHOLD].sort_values(by=['Absolute Correlation'], ascending=False)
+    st.dataframe(data=feature_corr[[x for x in feature_corr if x!="Absolute Correlation"]],use_container_width=True)
+
+def view_correlation(df, jge):
+    
+    corr = jge.audit.predictive_corr.copy()
+    
+    columns = st.columns(3)
+    jg = columns[0].selectbox(label="Select Job Group", options=df["Job Group"].unique())
+    
+    options = df.loc[df['Job Group']==jg]['Variable'].unique()
+    var = columns[1].selectbox(label="Select Variable", options=options)
+    
+    feature_options = df.loc[(df['Job Group']==jg)&(df['Variable']==var)]['Feature'].unique()
+    
+    if df.loc[(df['Job Group']==jg)&(df['Variable']==var)]['Feature'].isnull().values.any():
+        feature_options=[]
+
+    feature = columns[2].selectbox(label="Select Feature", options=feature_options)
+    
+    display_correlation(corr, jg, var, feature)
+    
+    
 
 if __name__=="__main__":
     
     if "jge" in st.session_state.keys():
         main()
     else:
-        no_jge()
+        st.error(docs.VAL_PLACEHOLDER, icon="🚨")

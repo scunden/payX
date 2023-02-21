@@ -1,7 +1,18 @@
 import streamlit as st
+import sys
+import os
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(os.path.dirname(SCRIPT_DIR))
 from payequity.payequity import Audit, JobGroup, JobGroupEnssemble, Regressor
+
 import pandas as pd
 import streamlit_ext as ste
+
+st.set_page_config(
+        page_title="Talent Ai PayX",
+        page_icon="🎇",
+    )
 
 def generate_divs(gender, eth, gender_min, eth_min, gender_ref, eth_ref):
     div_vars, div_min, div_ref = ({},{},{})
@@ -134,7 +145,7 @@ def modelling_vars_section(df, name, key_variables, gender, eth, div_vars, div_m
             div_ref=div_ref,
             name=name,
             job_group_column=job_group_column,
-            headcount_cutoff=100
+            headcount_cutoff=80
             )
             categorical = [x for x in [jge.column_map_inv[x] for x in jge.categorical] if x in predictive_vars]
             # PSet References
@@ -177,7 +188,7 @@ def main():
     st.title('Talent Ai Pay Equity')
     
     st.markdown("""---""") 
-    df = pd.read_csv("data.csv")
+    df = pd.read_csv("payequitytool/data.csv")
     
     columns = [""]+[x for x in df.columns]
     name, job_groups, key_variables = key_variables_section(df, columns)
