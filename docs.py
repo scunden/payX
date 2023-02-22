@@ -77,3 +77,13 @@ No job groups have been identified. Please ensure that all the prior sections ha
 has been clicked and executed properly.
 
 """
+OUTLIER_DISC = """
+Outliers are a statistical phenomenon, so we expect even the most healthy organization to have a lower outlier rate of 2.5%
+and an upper outlier rate of 2.5%. This implies that we would expect the total outlier rate to be around 5%. Any rates that are much
+higher than those threshold is a cause for concern - that would mean that a particular group has a much higher outlier rate than what is mathematically expected.
+"""
+
+PAY_GAP_EX = """
+             Using the job group {} as an example, the pay gaps can be interpreted as such. On average, for employees in {} working similar jobs with similar characteristics,
+             {} employees are paid {:.0%} {} than {} employees
+             """
